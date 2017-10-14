@@ -17,7 +17,7 @@ My research interests include analysis, probability, discrete mathematics, and a
 
 Dossier
 ====
-- Curriculum vitae</i> in <a href="vita/cv.pdf">.pdf</a> format.
+- <i>Curriculum vitae</i> in <a href="vita/cv.pdf">.pdf</a> format.
 
 Awards
 ====
