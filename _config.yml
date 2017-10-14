@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Anna C. Gilbert"
 title_separator          : "-"
 name                     : &name "Anna C. Gilbert"
-description              : &description "Herman H. Goldstine Collegiate Professor of Mathematics"
+description              : &description ""
 url                      : https://annacgilbert.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "annacgilbert/annacgilbert.github.io"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Anna C. Gilbert"
   avatar           : "profile.png"
-  bio              : "My research interests include analysis, probability, discrete mathematics, and algorithms. I am especially interested in randomized algorithms with applications to harmonic analysis, signal and image processing, and massive datasets."
+  bio              : "Herman H. Goldstine Collegiate Professor of Mathematics"
   location         : "Ann Arbor, MI"
   employer         : "University of Michigan"
   googlescholar    : "https://scholar.google.com/citations?user=R7Jj4rEAAAAJ"
@@ -249,7 +249,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Detroit # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
