@@ -42,9 +42,9 @@ Awards
   <li>Phi Beta Kappa, May, 1993.
   </li>
 </ul>
-<br>
-<br>
-<h3>Funding</h3>
+
+Funding
+======
 
 <ul>
    <li> MIDAS Challenge grant, co-PI and co-director of Michigan Institute for Single Cell Data Analysis, March 2017--February 2020, $1.2 million. </li>
@@ -56,28 +56,26 @@ Awards
   </li>
   <li>NSF SCREMS: Scientific Computing and Mathematics at the University of Michigan, co-PI, NSF DMS 1026317, September 2010--August 2013, $175,000.
   </li>
-  <li>Sensing Sensors: Compressed Sampling with Co-design of Hardware and Algorithms across Multiple Layers in Wireless Sensor Networks, co-PI, NSF CIF 0910765, September 2009--August 2014, $2,900,000.
+  <li>NSF CIF 0910765, Sensing Sensors: Compressed Sampling with Co-design of Hardware and Algorithms across Multiple Layers in Wireless Sensor Networks, co-PI, September 2009--August 2014, $2,900,000.
   </li>
   <li>DARPA: Theory and Practice of Analog-to-Information Conversion (Phase II), co-PI, ONR/DARPA N66001-06-1-2011, September 2008--August 2010, $750,000.
   </li>
-  <li>Supported by NSF DMS 0547744, CAREER: Modeling and Analysis of Data from Massive Graphs, May 2006--April 2011.
+  <li>NSF DMS 0547744, CAREER: Modeling and Analysis of Data from Massive Graphs, PI, May 2006--April 2011.
   </li>
   <li> <a href="http://www.sloan.org/programs/scitech_fellowships.shtml" target="_blank">Alfred P. Sloan Foundation Fellow,</a> 2006--2008.
   </li>
-  <li>Supported by DARPA/ONR N66001-06-1-2011: Theory and Practice of Analog-to-Information Conversion, January 2006--January 2007.
+  <li>DARPA/ONR N66001-06-1-2011: Theory and Practice of Analog-to-Information Conversion (Phase I), co-PI, January 2006--January 2007.
   </li>
-  <li>Supported by NSF CNS 0540154, DDDAS-SMRP: Optimizing Signal and Image Processing in a Dynamic, Data-Driven Application System, January 2006--November 2008.
+  <li>NSF CNS 0540154, DDDAS-SMRP: Optimizing Signal and Image Processing in a Dynamic, Data-Driven Application System, co-PI, January 2006--November 2008.
   </li>
-  <li>Supported by Elizabeth C. Crosby Faculty Fellowship (University of Michigan), 2005--2006.
+  <li>Elizabeth C. Crosby Faculty Fellowship (University of Michigan), PI, 2005--2006.
   </li>
-  <li>Supported by NSF DMS 0354600, FRG: Collaborative Research in Algorithms for Sparse Data Representation, September 2004--August 2007.
+  <li>NSF DMS 0354600, FRG: Collaborative Research in Algorithms for Sparse Data Representation, PI, September 2004--August 2007.
   </li>
 </ul>
-<br>
-<br>
-<h3>
-  Patents
-</h3>
+
+Patents
+=====
 <ul>
   <li>A. Gilbert, Y. Kotidis, S. Muthukrishnan, and M. Strauss, Dynamic Maintenance of Quantile Summaries. (Filed.)
   </li>
@@ -88,11 +86,9 @@ Awards
   <li>J. Fong, A. Gilbert, S. Kannan, and M. Strauss, Method for Routing Data Using a Fractional Open Shortest Path First Protocol. (Filed.)
   </li>
 </ul>
-<br>
-<br>
-<h3>
-  Press Clippings
-</h3>
+
+Press Clippings
+========
 <ul>
   <li>Barry Cipra, <a href="vita/siamnewsarticle-tangled.pdf">"Oh, What a Tangled Web We've Woven...,"</a> <i>SIAM News</i>, Volume 33, No. 2, 1999.
   </li>
