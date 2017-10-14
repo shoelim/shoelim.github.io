@@ -1,6 +1,6 @@
 ---
 title: "Sparse Metric Repair"
-excerpt: "If it ain't broke, don't fix it<img src='/images/broken_metric.png',style="width:304px;height:228px;">"
+excerpt: "If it ain't broke, don't fix it<img src='/images/broken_metric.png' width="200" height="400">"
 collection: portfolio
 ---
 
