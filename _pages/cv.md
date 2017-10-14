@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Biography and CV"
+# title: 
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -15,52 +15,89 @@ I received an S.B. degree from the University of Chicago and a Ph.D. from Prince
 
 My research interests include analysis, probability, discrete mathematics, and algorithms. I am especially interested in randomized algorithms with applications to harmonic analysis, signal and image processing, and massive datasets.
 
+Dossier
+====
+- Curriculum vitae</i> in <a href="vita/cv.pdf">.pdf</a> format.
 
-Education
-======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+Awards
+====
+<ul>
+  <li>Awarded SIAM Ralph E. Kleinman Prize, 2013. </li>
+  <li> EURASIP Signal Processing Best Paper award for <i>Algorithms for simultaneous sparse approximation. Part I: Greedy pursuit</i>, joint with Joel Tropp and Martin J. Strauss, 2010.
+  </li>
+  <li> Association of Computing Machinery (ACM) Douglas Engelbart Award, 2008.
+  </li>
+  <li> National Academy of Sciences Award for Initiatives in Research, 2008.
+  </li>
+  <li> Alfred P. Sloan Fellowship, 2006--2008.
+  </li>
+  <li> NSF University-Industry Postdoctoral Research Fellowship, 1997-1999.
+  </li>
+  <li> AT&amp;T Foundation Ph.D. Fellowship, 1995-1997.
+  </li>
+  <li> AT&amp;T Foundation Graduate Research Program for Women grant, 1993--1997.
+  </li>
+  <li> National Physical Science Consortium Graduate Fellowship (1993)--declined to attend Princeton University.
+  </li>
+  <li>Phi Beta Kappa, May, 1993.
+  </li>
+</ul>
+<br>
+<br>
+<h3>Funding</h3>
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+<ul>
+   <li> MIDAS Challenge grant, co-PI and co-director of Michigan Institute for Single Cell Data Analysis, March 2017--February 2020, $1.2 million. </li>
+   <li> Simons Foundation Fellowship, 2017--2018. </li>
+   <li> Samsung research funds, ``Neural Network Inspired Compressive Sensing and Image Processing,'' Prof.~Michael Flynn (ECE) PI, $60,000, 2013--2020. </li>
+  <li>AF (Medium, Collaborative Research): Sparse Approximation: Theory and Extensions, PI, July 2012--June 2017, $603,000
+  </li>
+  <li>ARO 61819-MA: Semi-inner-products in Banach Spaces with Applications to Regularized Learning, Sampling, and Sparse Approximation, co-PI, July 2012--June 2013, $65,000.
+  </li>
+  <li>NSF SCREMS: Scientific Computing and Mathematics at the University of Michigan, co-PI, NSF DMS 1026317, September 2010--August 2013, $175,000.
+  </li>
+  <li>Sensing Sensors: Compressed Sampling with Co-design of Hardware and Algorithms across Multiple Layers in Wireless Sensor Networks, co-PI, NSF CIF 0910765, September 2009--August 2014, $2,900,000.
+  </li>
+  <li>DARPA: Theory and Practice of Analog-to-Information Conversion (Phase II), co-PI, ONR/DARPA N66001-06-1-2011, September 2008--August 2010, $750,000.
+  </li>
+  <li>Supported by NSF DMS 0547744, CAREER: Modeling and Analysis of Data from Massive Graphs, May 2006--April 2011.
+  </li>
+  <li> <a href="http://www.sloan.org/programs/scitech_fellowships.shtml" target="_blank">Alfred P. Sloan Foundation Fellow,</a> 2006--2008.
+  </li>
+  <li>Supported by DARPA/ONR N66001-06-1-2011: Theory and Practice of Analog-to-Information Conversion, January 2006--January 2007.
+  </li>
+  <li>Supported by NSF CNS 0540154, DDDAS-SMRP: Optimizing Signal and Image Processing in a Dynamic, Data-Driven Application System, January 2006--November 2008.
+  </li>
+  <li>Supported by Elizabeth C. Crosby Faculty Fellowship (University of Michigan), 2005--2006.
+  </li>
+  <li>Supported by NSF DMS 0354600, FRG: Collaborative Research in Algorithms for Sparse Data Representation, September 2004--August 2007.
+  </li>
+</ul>
+<br>
+<br>
+<h3>
+  Patents
+</h3>
+<ul>
+  <li>A. Gilbert, Y. Kotidis, S. Muthukrishnan, and M. Strauss, Dynamic Maintenance of Quantile Summaries. (Filed.)
+  </li>
+  <li>A. Gilbert, Y. Kotidis, S. Muthukrishnan, and M. Strauss, Method and Apparatus for Using Wavelets to Produce Data Summaries. (Filed.)
+  </li>
+  <li>A. Gilbert, S. Guha, P. Indyk, Y. Kotidis, S. Muthukrishnan, and M. Strauss, Method and Apparatus for Using Histograms to Produce Data Summaries. (Filed.)
+  </li>
+  <li>J. Fong, A. Gilbert, S. Kannan, and M. Strauss, Method for Routing Data Using a Fractional Open Shortest Path First Protocol. (Filed.)
+  </li>
+</ul>
+<br>
+<br>
+<h3>
+  Press Clippings
+</h3>
+<ul>
+  <li>Barry Cipra, <a href="vita/siamnewsarticle-tangled.pdf">"Oh, What a Tangled Web We've Woven...,"</a> <i>SIAM News</i>, Volume 33, No. 2, 1999.
+  </li>
+  <li>Barry Cipra, <a href="vita/SIAM-sublinear.pdf">"Sublinear Computing: When Ignorance is Bliss,"</a> <i>SIAM News</i>, Volume 37, No. 3, 2004.
+  </li>
+</ul>
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
