@@ -26,14 +26,14 @@ author_profile: true
     <li>International Congress of Mathematicians (ICM), Seoul, Korea, 2014.</li>
 	<li>Applied Mathematics Colloquium, University of Colorado-Boulder, 2013.</li>
 	<li>Boeing Applied Mathematics Seminar, University of Washington, 2013.</li>
-	<li><a href= talks/KavliFOS2012/index.html>Symposium Speaker on Big Data</a>, National Academies of Science Kavli Frontiers of Science Symposium, Irvine, CA, 2012.	</li>
+	<li>Symposium Speaker on Big Data, National Academies of Science Kavli Frontiers of Science Symposium, Irvine, CA, 2012.</li>
 	<li>Statistics and Computation Colloquium, University of Chicago, 2012.</li>
 	<li>Invited speaker, ICALP 2012 Workshop on Group Testing, 2012.</li>
 	<li>Invited speaker, Sensing and Analysis of High Dimensional Data (SAHD), Duke University, 2011.
 	</li>
 	<li>Plenary Speaker, Neural Information Processing Systems (NIPS), Granada Spain, December 2011.
 	</li>
-	<li>Plenary Speaker, Signal Processing with Adaptive Sparse Structured Representations (SPARS), St.~Malo, FRANCE, 2009.
+	<li>Plenary Speaker, Signal Processing with Adaptive Sparse Structured Representations (SPARS), St. Malo, FRANCE, 2009.
 	</li>
 	<li>Applied Mathematics Seminar speaker, Department of Mathematics, Stanford University, October 2008.
 	</li>
