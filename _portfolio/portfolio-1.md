@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Research Overview"
+excerpt: 
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+My research sits at the boundaries of several disciplines, including mathematics, computer science, and statistics. I have worked on or am working in three main areas: (i) computational harmonic analysis or sparse approximation and sparse signal recovery, (ii) algorithms (especially sublinear or streaming algorithms), and (iii) applications of sparse analysis in signal processing, sensor networks, network traffic analysis, inverse problems, and high throughput biological screens. This interplay of mathematics and computing is crucial in identifying and solving fundamental problems in science and my vision for my research is to make lasting contributions to both mathematics and science through this interdisciplinary work.
