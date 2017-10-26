@@ -87,7 +87,7 @@ author_profile: true
 
 <h3>Refereed Conference Publications</h3> 
 <ul>
-    <li>Anna C. Gilbert, Lalit Jain, <a href="files/allerton_final.pdf">If it ain't broke, don't fix it: Sparse metric repair</a>," Allerton Conf. on Communication, Control, and Computing, 2017.
+    <li>Anna C. Gilbert, Lalit Jain, <a href="https://annacgilbert.github.io/files/allerton_final.pdf">If it ain't broke, don't fix it: Sparse metric repair</a>," Allerton Conf. on Communication, Control, and Computing, 2017.
     <li>Anna C. Gilbert, Yi Zhang, Kibok Lee, Yuting Zhang, Honglak Lee, "Towards Understanding the Invertibility of Convolutional Neural Networks," IJCAI 2017, <a href="https://arxiv.org/abs/1705.08664">https://arxiv.org/abs/1705.08664</a>.</li>
     <li>Anna Gilbert and Audra McMillan, "Recovery of sparse heat source signals from locally differentially private sensor data via constrained l_1 minimisation," SPARS 2017.</li> 
     <li>Wenling Shang, Kihyuk Sohn, Honglak Lee, Anna Gilbert, “Discriminative Training of Structured Dictionaries via Block Orthogonal Matching Pursuit,” 2016 SIAM International Conference on Data Mining, 2016.</li>
