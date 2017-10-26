@@ -24,8 +24,8 @@ author_profile: true
 
 <h3>Refereed Journal Publications</h3>
 <ul>
-    <li>F. J. Chung, A. C. Gilbert, J. G. Hoskins, and J. C. Schotland, `Optical tomography on graphs'', to appear in Inverse Problems, 2017.</li> 
-    <li>Anna C. Gilbert, Yi Li, Ely Porat, Martin J. Strauss, ``For-All Sparse Recovery in Near-Optimal Time,'' ACM Transactions on Algorithms (TALG), Volume 13 Issue 3, pp. 1--32, March 2017.</li> 
+    <li>F. J. Chung, A. C. Gilbert, J. G. Hoskins, and J. C. Schotland, "Optical tomography on graphs", Inverse Problems, vol. 33, no. 5, 2017.</li> 
+    <li>Anna C. Gilbert, Yi Li, Ely Porat, Martin J. Strauss, "For-All Sparse Recovery in Near-Optimal Time," ACM Transactions on Algorithms (TALG), Volume 13 Issue 3, pp. 1--32, March 2017.</li> 
     <li>Anna C. Gilbert, Jeremy G. Hoskins, John C. Schotland, “Diffuse Scattering on Graphs,” Linear Algebra and its Applications, Volume 496, pgs. 1--35, May 2016</li>
     <li>Anna C. Gilbert, Piotr Indyk, Mark Iwen, Ludwig Schmidt, “Recent Developments in the Sparse Fourier Transform: A compressed Fourier transform for big data”, IEEE Signal Process. Mag., 31(5): 91-100, 2014.</li>
     <li>J. Y. Park, M. B. Wakin, and A. C. Gilbert, “Modal Analysis with Compressive Measurements”, IEEE Transactions on Signal Processing, 62(7): 1655-1670, 2014.</li>
@@ -87,8 +87,9 @@ author_profile: true
 
 <h3>Refereed Conference Publications</h3> 
 <ul>
-    <li>Anna C. Gilbert, Yi Zhang, Kibok Lee, Yuting Zhang, Honglak Lee, "Towards Understanding the Invertibility of Convolutional Neural Networks," to appear in IJCAI 2017, <a href="https://arxiv.org/abs/1705.08664">https://arxiv.org/abs/1705.08664</a>, 2017.</li>
-    <li>Anna Gilbert and Audra McMillan, "Recovery of sparse heat source signals from locally differentially private sensor data via constrained l_1 minimisation," to appear in SPARS 2017.</li> 
+    <li>Anna C. Gilbert, Lalit Jain, <a href="files/allerton_final.pdf">If it ain't broke, don't fix it: Sparse metric repair</a>," Allerton Conf. on Communication, Control, and Computing, 2017.
+    <li>Anna C. Gilbert, Yi Zhang, Kibok Lee, Yuting Zhang, Honglak Lee, "Towards Understanding the Invertibility of Convolutional Neural Networks," IJCAI 2017, <a href="https://arxiv.org/abs/1705.08664">https://arxiv.org/abs/1705.08664</a>.</li>
+    <li>Anna Gilbert and Audra McMillan, "Recovery of sparse heat source signals from locally differentially private sensor data via constrained l_1 minimisation," SPARS 2017.</li> 
     <li>Wenling Shang, Kihyuk Sohn, Honglak Lee, Anna Gilbert, “Discriminative Training of Structured Dictionaries via Block Orthogonal Matching Pursuit,” 2016 SIAM International Conference on Data Mining, 2016.</li>
     <li>Yang Liu, Abdulkadir C. Yucel, Anna C. Gilbert, Hakan Bac, Eric Michielssen, “A Wavelet- Based PWTD Algorithm-Accelerated Time Domain Surface Integral Equation Solver”, IEEE International Symposium on Antennas and Propagation and North American Radio Science Meeting, July, 2015.</li>
     <li>J. Y. Park, A. C. Gilbert, and M. B. Wakin, “Compressive Measurement Bounds for Wireless Sensor Networks in Structural Health Monitoring,” World Conference on Structural Control and Monitoring (WCSCM), Barcelona, Spain, July 2014.</li>
