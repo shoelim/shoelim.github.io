@@ -1,5 +1,5 @@
 ---
-layout: archive
+# layout: archive
 # title: 
 permalink: /cv/
 author_profile: true
@@ -17,7 +17,7 @@ My research interests include analysis, probability, discrete mathematics, and a
 
 Dossier
 ====
-- <i>Curriculum vitae</i> in <a href="files/cv.10.2017.pdf">.pdf</a> format.
+- <i>Curriculum vitae</i> in <a href="<a href="https://annacgilbert.github.io/files/cv.10.2017.pdf">.pdf</a> format.
 
 Awards
 ====
