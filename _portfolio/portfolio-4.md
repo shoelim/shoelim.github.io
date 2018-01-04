@@ -1,6 +1,6 @@
 ---
 title: "Sublinear algorithms on resource-constrained computational devices"
-excerpt: "<img src='/images/arduino.png'> Sulinear algorithms on resource-constrained computational devices"
+excerpt: "<img src='/images/arduino.png'> AAFFT on an Arduino: Smart data collection and processing"
 collection: portfolio
 ---
 
