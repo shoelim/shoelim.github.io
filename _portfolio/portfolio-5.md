@@ -1,11 +1,10 @@
 ---
 title: "Marker selection for single-cell RNA seq data"
-excerpt: "<img src='/images/arduino.png'> Marker selection for single-cell RNA seq data"
+excerpt: "<img src='/images/PicturedRocks.jpg'> Marker selection for single-cell RNA seq data"
 collection: portfolio
 ---
 
-Blurb
+PicturedRocks is a tool for the analysis of single cell RNA-seq data. Currently, we implement two marker selection approaches: a 1-bit compressed sensing based sparse SVM algorithm and a mutual information-based Max Relevance min Redundancy algorithm.
 
-- __Paper:__ Anna C. Gilbert, Yi Zhang, Kibok Lee, Yuting Zhang, Honglak Lee, ["Towards Understanding the Invertibility of Convolutional Neural Networks"](https://arxiv.org/abs/1705.08664), IJCAI 2017.
-- __Slides:__ <a href="https://annacgilbert.github.io/files/inv-cnn-ijcai2017-slides.pptx">Slides (pptx) for IJCAI 2017 presentation.</a>
-- __Poster:__ <a href="https://annacgilbert.github.io/files/inv-cnn-ijcai2017-poster.pptx">Poster (pptx) for IJCAI 2017 presentation.</a>
+- __Software:__ Anna C. Gilbert, Alexander Vargo, Umang Varma, [Pictured Rocks: Single Cell RNA-seq analysis tool](https://picturedrocks.github.io/), 2017.
+

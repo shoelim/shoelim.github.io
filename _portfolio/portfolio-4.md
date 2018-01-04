@@ -8,6 +8,8 @@ This project demonstrates smart data collection and processing on the Arduino Me
 
 Justin Shetty and James Wich were first year undergraduate students at the University of Michigan in the University Research Opportunity Program (UROP) during the academic year 2016-2017.
 
+
+
 - __Software:__ Anna C. Gilbert, Justin Shetty, James Wich, [Implementation of the AAFFT algorithm on the Arduino Mega](https://github.com/annacgilbert/AAFFT-Arduino), 2017.
 - __Data Collection Poster:__ James Wich, [Smart Data Collection](https://annacgilbert.github.io/files/Wich_James_datacollection.pdf)
 - __Data Processing Poster:__ Justin Shetty, [Smart Data Processing](https://annacgilbert.github.io/files/Shetty_Justin_dataprocessing.pdf)
