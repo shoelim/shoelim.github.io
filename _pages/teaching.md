@@ -15,17 +15,21 @@ author_profile: true
 Graduate students
 =====
 <ul>
-    <li>Jeremy Hoskins, Department of Mathematics, University of Michigan, 2017. (Jointly advised with John Schotland, University of Michigan). First position: Postdoctoral fellow at Yale University.</li>
+    <li>Audra McMillan, Department of Mathematics, University of Michigan, 2018. First position: Postdoctoral fellow at Boston University (Computer Science). </li>
+    <li>Yan Shuo Tan, Department of Mathematics, University of Michigan, 2018. (Primarily advised by Roman Vershynin, UC-Irvine). First position: Postdoctoral fellow at UC-Berkeley (Statistics/Computer Science).</li>
+    <li>Jeremy Hoskins, Department of Mathematics, University of Michigan, 2017. (Jointly advised with John Schotland, University of Michigan). First position: Postdoctoral fellow at Yale University (Applied Mathematics).</li>
     <li>Jae Young Park, Department of Electrical Engineering and Computer Science, University of Michigan, 2012. (jointly advised with Michael Wakin, Colorado School of Mines). First position: researcher with Schlumberger.</li>
     <li>Praveen Yenduri, Department of Electrical Engineering and Computer Science, University of Michigan, 2012. First position: Mathworks.</li>
     <li>Paul Shearer, Department of Mathematics, University of Michigan, 2012. First position: MassMutual Financial Group.</li>
     <li>Ray Maleh, Department of Mathematics, University of Michigan, August, 2009. Currently a senior multi-disciplined engineer at L-3 Communications, Integrated Systems, Dallas, Texas.</li>
-    <li>Joel Tropp, University of Texas at Austin, 2004. Jointly advised with Inderjit Dhillon, Department of Computer Science, University of Texas at Austin. First position: Professor at California Institute of Technology.</li>
+    <li>Joel Tropp, University of Texas at Austin, 2004. Jointly advised with Inderjit Dhillon, Department of Computer Science, University of Texas at Austin. First position: Professor at California Institute of Technology (Applied and Computational Mathematics).</li>
 </ul>
 
 Courses
 ======
 <ul>
+    <li>Fall 2018, Math 556, Applied Functional Analysis, Department of Mathematics, University of Michigan.
+    </li>
     <li>Fall 2016, Math 556, Applied Functional Analysis, Department of Mathematics, University of Michigan.
     </li>
     <li>Fall 2016, Math 571, Numerical Linear Algebra, Department of Mathematics, University of Michigan.
