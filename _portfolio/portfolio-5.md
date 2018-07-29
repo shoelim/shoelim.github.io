@@ -1,6 +1,6 @@
 ---
 title: "Michigan Center for Single-Cell Genomic Data Analytics"
-excerpt: "<img src='/images/PicturedRocks.jpg'> Data analysis for sparsely sampled data, with applications to single-cell RNA seq data"
+excerpt: "<img src='/images/PicturedRocks.jpg'> Data analysis for single-cell RNA seq data"
 collection: portfolio
 ---
 
