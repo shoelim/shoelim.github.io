@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-- __New paper!__ Anna C. Gilbert, Ambuj Tewari, and Yitong Sun ["But How Does It Work in Theory? Linear SVM with Random Features"](https://arxiv.org/abs/1809.04481)(ArXiv version, accepted to NIPS 2018), 2018.
-- __New paper!__ Anna C. Gilbert and Rishi Sonthalia ["Generalized Metric Repair on Graphs"](https://arxiv.org/abs/1807.07619) (ArXiv version), 2018.
-- __New paper!__ Anna C. Gilbert and Rishi Sonthalia ["Unrolling Swiss Cheese: Metric repair on manifolds with holes"](https://arxiv.org/abs/1807.07610) (ArXiv version), to appear in the proceedings of the *56th Annual Allerton Conference on Communication, Control, and Computing*, 2018.
-- __New paper!__ Anna C. Gilbert, Howard W. Levinson, John C. Schotland, ["Imaging from the inside out: inverse scattering with photoactivated internal sources"](https://annacgilbert.github.io/files/GLS2018OSALetters.pdf), *Optics Letters*, vol. 43, no. 12, 2018.
-- __New paper!__ Anna C. Gilbert and Audra McMillan, ["Property Testing for Differential Privacy"](https://arxiv.org/pdf/1806.06427.pdf) (ArXiv version), to appear in the proceedings of the *56th Annual Allerton Conference on Communication, Control, and Computing*, 2018.
-- __New paper!__ Anna C. Gilbert and Audra McMillan,  ["Local Differential Privacy for Physical Sensor Data and Sparse Recovery"](https://arxiv.org/1706.05916) (ArXiv version), in the proceedings of *IEEE Annual Conference on Information Sciences and Systems (CISS)*, 2018.
+- __New paper!__ Rishi Sonthalia and Anna C. Gilbert, ["Tree! I am no Tree! I am a Low Dimensional Hyperbolic Embedding"](https://arxiv.org/abs/2005.03847)(Arxiv version, in submission), 2020.
+- __New paper!__ Rishi Sonthalia and Anna C. Gilbert, ["Project and Forget: Solving Large-Scale Metric Constrained Problems"](https://arxiv.org/abs/2005.03853)(Arxiv version, in submission), 2020.
+- __New paper!__ Chenglin Fan, Anna C. Gilbert, Benjamin Raichel, Rishi Sonthalia, and Gregory Van Buskirk ["Generalized Metric Repair on Graphs"](https://arxiv.org/abs/1908.08411)(Arxiv version, accepted to SWAT 2020), 2019-2020. (This paper is a merger of an earlier paper on graph metric repair with Rishi Sonthalia and a similar paper by Fan, Raichel, and Van Buskirk, also on graph metric repair. Our collaboration improved both of our papers.)
+- __New paper!__ Anna Gilbert, Albert Gu, Christopher Re, Atri Rudra, Mary Wootters ["Sparse Recovery for Orthogonal Polynomial Transforms"](https://arxiv.org/abs/1907.08362)(Arxiv version, accepted to ICALP 2020), 2019-2020.
+- __Old paper__ Anna C. Gilbert, Ambuj Tewari, and Yitong Sun ["But How Does It Work in Theory? Linear SVM with Random Features"](https://arxiv.org/abs/1809.04481)(ArXiv version, accepted to NIPS 2018), 2018.
+
 
