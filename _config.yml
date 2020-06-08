@@ -80,11 +80,11 @@ analytics:
 author:
   name             : "Anna C. Gilbert"
   avatar           : "ACGheadshot2.jpg"
-  bio              : "Herman H. Goldstine Collegiate Professor of Mathematics"
-  location         : "Ann Arbor, MI"
-  employer         : "University of Michigan"
+  bio              : "John C. Malone Professor of Mathematics, Professor of Statistics & Data Science"
+  location         : "New Haven, CT"
+  employer         : "Yale University"
   googlescholar    : "https://scholar.google.com/citations?user=R7Jj4rEAAAAJ"
-  email            : "annacg@umich.edu"
+  email            : "anna.gilbert@yale.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -98,13 +98,13 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : 
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          :
   vine             :
   weibo            :
   xing             :
