@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-- __Graduate student openings!__ Now accepting applications for original, independent, curious, and passionate graduate students in Mathematics (https://math.yale.edu/graduate-programs), Applied Mathematics (https://applied.math.yale.edu/graduate-program/admissions), and Statistics & Data Science (https://statistics.yale.edu/academics/phd-program).
+- __Graduate student openings!__ Now accepting applications for original, independent, curious, and passionate graduate students in [Mathematics](https://math.yale.edu/graduate-programs), [Applied Mathematics](https://applied.math.yale.edu/graduate-program/admissions), and [Statistics & Data Science](https://statistics.yale.edu/academics/phd-program).
 - __New job!__ I am moving to Yale University where I am jointly appointed in the Department of Mathematics and the Department of Statistics & Data Science.
 - __New paper!__ Rishi Sonthalia and Anna C. Gilbert, ["Tree! I am no Tree! I am a Low Dimensional Hyperbolic Embedding" ](https://arxiv.org/abs/2005.03847), to appear in NeurIPS 2020.
 - __New paper!__ Rishi Sonthalia and Anna C. Gilbert, ["Project and Forget: Solving Large-Scale Metric Constrained Problems" ](https://arxiv.org/abs/2005.03853)(Arxiv version, in submission), 2020.
