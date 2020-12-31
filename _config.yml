@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "<h1>Soon Hoe Lim</h1>"
-  avatar           : "circle-cropped.png style="height:105%;"
+  avatar           : "circle-cropped.png"
   bio              : "Nordita Fellow"
   location         : "Stockholm, Sweden"
   employer         :
