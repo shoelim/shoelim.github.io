@@ -85,6 +85,7 @@ author:
   employer         : "Nordita"
   googlescholar    : "https://scholar.google.com/citations?user=ufTqvyoAAAAJ&hl=en&authuser=2"
   email            : "soon.hoe.lim@su.se"
+  researchgate     : "https://www.researchgate.net/profile/Soon_Hoe_Lim"
   uri              :
   bitbucket        :
   codepen          :
@@ -249,7 +250,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Detroit # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Stockholm # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
