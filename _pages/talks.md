@@ -7,7 +7,8 @@ author_profile: true
 <!-- {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
 {% endfor %} -->
-<br>
+
+
 __In 2020:__
 
 - __November 17:__ (Invited talk) Predicting Noise-Induced Critical Transitions in Multiscale Dynamical Systems. [DynamIC Seminar](https://wwwf.imperial.ac.uk/~mrasmuss/DynamIC/), Imperial College London
