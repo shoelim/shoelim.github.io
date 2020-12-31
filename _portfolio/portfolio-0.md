@@ -1,6 +1,5 @@
 ---
 title: "Research Overview"
-permalink: /portfolio/
 author_profile: true
 redirect_from:
   - /portfolio
