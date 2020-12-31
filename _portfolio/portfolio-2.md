@@ -1,5 +1,5 @@
 ---
-title: "Homogenization, multiscale analysis and model reduction of open dynamical systems"
+title: "(2) Homogenization, multiscale analysis and model reduction of open dynamical systems"
 collection: portfolio
 ---
 
