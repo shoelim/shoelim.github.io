@@ -41,4 +41,8 @@ The following is a list of papers (sorted by project titles) that my collaborato
 - Aniello Lampo, Soon Hoe Lim, Miguel Angel Garcia-March, and Maciej Lewenstein. Bose polaron as an instance of quantum Brownian motion. <i>Quantum 1, 30 </i> (2017) [<a href="https://quantum-journal.org/papers/q-2017-09-27-30/">link</a>]
 - Aniello Lampo, Soon Hoe Lim, Jan Wehr, Pietro Massignan, and Maciej Lewenstein. Lindblad model of quantum Brownian motion. <i>Phys. Rev. A 94, 042123 </i> (2016) [<a href="http://journals.aps.org/pra/abstract/10.1103/PhysRevA.94.042123">link</a>] 
 <br>
+<br>
+
+*Apart from the above projects, I also maintain a collection of [notes](https://github.com/shoelim/miscellaneous-technical-reports/blob/master/README.md) that I write up whenever I encounter related interesting topics and ideas. 
+
  
