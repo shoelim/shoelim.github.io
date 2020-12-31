@@ -1,5 +1,7 @@
 ---
 title: "Machine learning by open dynamical systems, for open dynamical systems"
+permalink: /portfolio/
+
 collection: portfolio
 ---
 
