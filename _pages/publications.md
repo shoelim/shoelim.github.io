@@ -17,7 +17,6 @@ author_profile: true
  -->
 
 The following is a list of papers (sorted by project titles) that my collaborators and I have worked on. <br>
-<br>
 
 <b>(1) Machine learning by open dynamical systems, for open dynamical systems </b>
 - Soon Hoe Lim. Backpropagation may not be needed: towards understanding recurrent neural networks trained via noisy gradient descents and beyond. <i>Coming soon </i> 
