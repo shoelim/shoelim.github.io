@@ -1,5 +1,6 @@
 ---
 title: "Homogenization, multiscale analysis and model reduction of open dynamical systems"
+permalink: /portfolio/
 collection: portfolio
 ---
 
