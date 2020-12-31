@@ -86,14 +86,14 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=ufTqvyoAAAAJ&hl=en&authuser=2"
   email            : "soon.hoe.lim@su.se"
   researchgate     : "https://www.researchgate.net/profile/Soon_Hoe_Lim"
-  uri              : "https://github.com/shoelim"
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"shoelim"
+  github           : "shoelim"
   google_plus      :
   keybase          :
   instagram        :
@@ -105,11 +105,11 @@ author:
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "Shoelim8" 
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/user/shlim6/playlists?view_as=subscriber"
+  youtube          : "shlim6/playlists?view_as=subscriber"
   wikipedia        :
 
 
