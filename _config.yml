@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Anna C. Gilbert"
+title                    : "Soon Hoe Lim"
 title_separator          : "-"
-name                     : &name "Anna C. Gilbert"
+name                     : &name "Soon Hoe Lim"
 description              : &description ""
-url                      : https://annacgilbert.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://shoelim.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "annacgilbert/annacgilbert.github.io"
+repository               : "shoelim/shoelim.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Anna C. Gilbert"
-  avatar           : "ACGheadshot2.jpg"
-  bio              : "John C. Malone Professor of Mathematics, Professor of Statistics & Data Science"
-  location         : "New Haven, CT"
-  employer         : "Yale University"
-  googlescholar    : "https://scholar.google.com/citations?user=R7Jj4rEAAAAJ"
-  email            : "anna.gilbert@yale.edu"
+  name             : "Soon Hoe Lim"
+  avatar           : "circle-cropped.png"
+  bio              : "Nordita Fellow"
+  location         : "Stockholm, Sweden"
+  employer         : "Nordita, KTH Royal Institute of Technology and Stockholm University"
+  googlescholar    : "https://scholar.google.com/citations?user=ufTqvyoAAAAJ&hl=en&authuser=2"
+  email            : "soon.hoe.lim@su.se"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,7 +92,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"annacgilbert"
+  github           : #"shoelim"
   google_plus      :
   keybase          :
   instagram        :
@@ -101,14 +101,14 @@ author:
   orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "https://twitter.com/Shoelim8"
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/user/shlim6/playlists?view_as=subscriber"
   wikipedia        :
 
 
