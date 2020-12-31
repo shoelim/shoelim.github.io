@@ -1,5 +1,5 @@
 ---
-title: "Machine learning by open dynamical systems, for open dynamical systems"
+title: "(1) Machine learning by open dynamical systems, for open dynamical systems"
 collection: portfolio
 ---
 
