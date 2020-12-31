@@ -15,9 +15,9 @@ author_profile: true
 Courses
 ======
 <ul>
-  <li>Teaching Assistant, <i>Math 254 - Introduction to Ordinary Differential Equations</i>, Department of Mathematics, University of Arizona. Spring 2017
+  <li>Teaching assistant, <i>Math 254 - Introduction to Ordinary Differential Equations</i>, Department of Mathematics, University of Arizona. Spring 2017
     </li>
-  <li>Project Mentor, <i>Math 485 - Mathematical Modeling, Department of Mathematics</i>, University of Arizona. Spring 2015 and Spring 2017
+  <li>Project mentor, <i>Math 485 - Mathematical Modeling, Department of Mathematics</i>, University of Arizona. Spring 2015 and Spring 2017
     </li>
   <li>Instructor, <i>Math 113 - Elementary Calculus</i>, Department of Mathematics, University of Arizona. Summer 2016
     </li>
