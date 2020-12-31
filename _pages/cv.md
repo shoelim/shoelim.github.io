@@ -17,7 +17,6 @@ I completed my PhD in applied mathematics at the <a href="http://math.arizona.ed
 Prior to that, I studied mathematics and physics at the <a href="https://umich.edu/">University of Michigan</a>. <br>
 <i>I am currently on the academic job market</i>. <br>
 
-My research interests are in probabilistic and dynamical aspects of machine learning and statistical mechanics, as well as the related interactions and applications in science and engineering. In particular, I apply and develop ideas and tools from several areas of probability theory, stochastic analysis, statistical learning, statistical mechanics and dynamical systems to address problems concerning <b>open dynamical systems</b></font> arising in statistical mechanics and machine learning. Open systems are, in a broad sense, components of a larger closed system that interact with other components of the larger system. These systems abound in applications and are typically random/stochastic, nonlinear, high-dimensional and have non-trivial dynamics. The overarching theme of my research revolves around using mathematics to understand <i>learning of dynamical representations</i> and <i>physics of dynamical systems</i>. 
 
 Dossier
 ====
