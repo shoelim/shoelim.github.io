@@ -1,5 +1,5 @@
 ---
-title: "Nonequilibrium statistical mechanics of open dynamical systems"
+title: "(3) Nonequilibrium statistical mechanics of open dynamical systems"
 collection: portfolio
 ---
 
