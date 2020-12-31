@@ -18,9 +18,9 @@ author_profile: true
 
 The following is a list of the topics and papers that my collaborators and I have worked on: <br>
 
-<p align="left"><b>(1) <i>Machine learning by open dynamical systems, for open dynamical systems: </i></b></p>
+<p align="left"><b>(1) Machine learning by open dynamical systems, for open dynamical systems: </b></p>
 	  -- Recurrent neural networks (RNNs) are a class of powerful open system models in machine learning that have also enjoyed synergies with disciplines such as neuroscience, signal processing, optimization, control theory and network science. The explosion of real-time data (physical or not) and the promising potential of using complex dynamical systems (physical or not) to learn the data are opening up a wide range of foundational and practical problems. We are working on various mathematical and application aspects of RNNs and related models in deep learning.   <br>
-	  <br>
+	  
 	<u1>
 		<li>Soon Hoe Lim. Backpropagation may not be needed: towards understanding recurrent neural networks trained via noisy gradient descents and beyond. 
 		<i>Coming soon </i> 
@@ -34,9 +34,10 @@ The following is a list of the topics and papers that my collaborators and I hav
 	    	<br></li>
 	</u1>
 	  <br>
-	    <p align="left"><b>(2) <i>Homogenization, multiscale analysis and model reduction of open dynamical systems: </i></b></p>
-	  -- Generalized Langevin systems are a class of non-Markovian open dynamical systems with memory in nonequilibrium statistical mechanics. We focus on stochastic homogenization and model reduction for dynamics and functionals of multiscale generalized Langevin systems, and their applications to the study of effective dynamics and thermodynamics of physical diffusive systems. <br>
 	  <br>
+	    <p align="left"><b>(2) Homogenization, multiscale analysis and model reduction of open dynamical systems: </b></p>
+	  -- Generalized Langevin systems are a class of non-Markovian open dynamical systems with memory in nonequilibrium statistical mechanics. We focus on stochastic homogenization and model reduction for dynamics and functionals of multiscale generalized Langevin systems, and their applications to the study of effective dynamics and thermodynamics of physical diffusive systems. <br>
+	  
     	<u1>
 		<li>Soon Hoe Lim.
 		Anomalous thermodynamics in homogenized generalized Langevin systems. 
@@ -56,9 +57,10 @@ The following is a list of the topics and papers that my collaborators and I hav
    		<br></li>
     	</u1>
     	<br>
-	    <p align="left"><b>(3) <i>Nonequilibrium statistical mechanics of open dynamical systems: </i></b></p>
+	<br>
+	    <p align="left"><b>(3) Nonequilibrium statistical mechanics of open dynamical systems: </b></p>
 	 -- Nonequilibrium dynamics are far more common in nature than equilibrium ones. In collaboration with theoretical physicists, we have worked on various nonequilibrium aspects of open classical and quantum systems: noise-induced critical transitions, stochastic thermodynamics, quantum Brownian motion. <br>
-	  <br>
+	  
     	<u1>
 		<li>Ludovico Giorgini, Soon Hoe Lim, Woosok Moon, and John Wettlaufer. 
 		Precursors to rare events in stochastic resonance.
