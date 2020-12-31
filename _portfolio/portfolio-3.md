@@ -1,6 +1,5 @@
 ---
 title: "Nonequilibrium statistical mechanics of open dynamical systems"
-permalink: /portfolio/
 collection: portfolio
 ---
 
