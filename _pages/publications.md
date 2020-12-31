@@ -23,17 +23,17 @@ The following is a list of papers (sorted by project titles) that my collaborato
 - Soon Hoe Lim. Understanding recurrent neural networks using nonequilibrium response theory. <i>Preprint </i> (2020) [<a href="https://arxiv.org/abs/2006.11052v1">link</a>]
 - Soon Hoe Lim, Ludovico Theo Giorgini, Woosok Moon, and John Wettlaufer. Predicting critical transitions in multiscale dynamical systems using reservoir computing. <i>Chaos: An Interdisciplinary Journal of Nonlinear Science 30, 123126 </i> (2020) [<a href="https://aip.scitation.org/doi/10.1063/5.0023764">link</a>] 
 <br>
-	  
+<br>
 	  
 	  
 <b>(2) Homogenization, multiscale analysis and model reduction of open dynamical systems </b>
 - Soon Hoe Lim. Anomalous thermodynamics in homogenized generalized Langevin systems. <i>Preprint </i> (2020) [<a href="https://arxiv.org/abs/1911.07836v2">link</a>] 
 - Soon Hoe Lim, Jan Wehr, and Maciej Lewenstein. Homogenization for generalized Langevin equations with applications to anomalous diffusion. <i>Annales Henri Poincaré </i> (2020) [<a href="https://link.springer.com/article/10.1007/s00023-020-00889-2">link</a>]
 - Soon Hoe Lim and Jan Wehr. Homogenization for a class of generalized Langevin equations with an application to thermophoresis. <i>Journal of Statistical Physics,  Volume 174, Issue 3, pp 656–691 </i> (2018) [<a href="https://link.springer.com/article/10.1007/s10955-018-2192-9">link</a>]
-- Soon Hoe Lim, Jan Wehr, Aniello Lampo, Miguel Angel Garcia-March, and Maciej Lewenstein. On the small mass limit of quantum Brownian motion with inhomogeneous damping and diffusion. <i>Journal of Statistical Physics, Volume 170, Issue 2, pp 351-37 </i> (2017) [<a href="https://link.springer.com/article/10.1007/s10955-017-1907-7">link</a>] '
+- Soon Hoe Lim, Jan Wehr, Aniello Lampo, Miguel Angel Garcia-March, and Maciej Lewenstein. On the small mass limit of quantum Brownian motion with inhomogeneous damping and diffusion. <i>Journal of Statistical Physics, Volume 170, Issue 2, pp 351-37 </i> (2017) [<a href="https://link.springer.com/article/10.1007/s10955-017-1907-7">link</a>]
+<br>
 <br>
     	
-	
 	
 <b>(3) Nonequilibrium statistical mechanics of open dynamical systems </b>
 - Ludovico Giorgini, Soon Hoe Lim, Woosok Moon, and John Wettlaufer. Precursors to rare events in stochastic resonance. <i>Europhysics Letters 129, 40003 (editor's choice) </i> (2020) [<a href="https://iopscience.iop.org/article/10.1209/0295-5075/129/40003">link</a>]
