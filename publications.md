@@ -43,6 +43,6 @@ The following is a list of papers (sorted by project titles) that my collaborato
 <br>
 <br>
 
-*Apart from the above projects, I also maintain a collection of [notes](https://github.com/shoelim/miscellaneous-technical-reports/blob/master/README.md) that I write up whenever I encounter related interesting topics and ideas. 
+*Apart from the above projects, I also maintain a collection of [notes](https://github.com/shoelim/miscellaneous-technical-reports/blob/master/README.md) that I write up whenever I encounter interesting related topics and ideas. 
 
  
