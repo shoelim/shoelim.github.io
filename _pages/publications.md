@@ -18,8 +18,7 @@ author_profile: true
 
 The following is a list of papers (sorted by project titles) that my collaborators and I have worked on: <br>
 
-<p align="left"><b>(1) Machine learning by open dynamical systems, for open dynamical systems: </b></p>
-	  <br>
+<p align="left"><b>(1) Machine learning by open dynamical systems, for open dynamical systems </b></p>
 	<u1>
 		<li>Soon Hoe Lim. Backpropagation may not be needed: towards understanding recurrent neural networks trained via noisy gradient descents and beyond. 
 		<i>Coming soon </i> 
@@ -34,8 +33,7 @@ The following is a list of papers (sorted by project titles) that my collaborato
 	</u1>
 	  <br>
 	  <br>
-	    <p align="left"><b>(2) Homogenization, multiscale analysis and model reduction of open dynamical systems: </b></p>
-	  <br>
+	    <p align="left"><b>(2) Homogenization, multiscale analysis and model reduction of open dynamical systems </b></p>
     	<u1>
 		<li>Soon Hoe Lim.
 		Anomalous thermodynamics in homogenized generalized Langevin systems. 
@@ -56,8 +54,7 @@ The following is a list of papers (sorted by project titles) that my collaborato
     	</u1>
     	<br>
 	<br>
-	    <p align="left"><b>(3) Nonequilibrium statistical mechanics of open dynamical systems: </b></p>
-	 <br>
+	    <p align="left"><b>(3) Nonequilibrium statistical mechanics of open dynamical systems </b></p>
     	<u1>
 		<li>Ludovico Giorgini, Soon Hoe Lim, Woosok Moon, and John Wettlaufer. 
 		Precursors to rare events in stochastic resonance.
