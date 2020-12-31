@@ -23,7 +23,7 @@ Refereeing
 Teaching
 ======
 - Teaching assistant, <i>Math 254 - Introduction to Ordinary Differential Equations</i>, Department of Mathematics, University of Arizona. Spring 2017
-- Project mentor, <i>Math 485 - Mathematical Modeling, Department of Mathematics</i>, University of Arizona. Spring 2015 and Spring 2017
+- Project mentor, <i>Math 485 - Mathematical Modeling</i>, Department of Mathematics, University of Arizona. Spring 2015 and Spring 2017
 - Instructor, <i>Math 113 - Elementary Calculus</i>, Department of Mathematics, University of Arizona. Summer 2016
 - Instructor, <i>Math 112 - College Algebra: Concepts and Applications</i>, Department of Mathematics, University of Arizona. Fall 2013-Spring 2015
 
