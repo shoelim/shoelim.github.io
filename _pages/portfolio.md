@@ -18,6 +18,7 @@ Some specific research projects are: <br>
   {% include archive-single.html %}
 {% endfor %}
  
+ *Click on the project title to learn more about our work. 
 
 
 
