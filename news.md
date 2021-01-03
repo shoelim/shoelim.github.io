@@ -18,5 +18,5 @@ News
 <br>
 
 <br>
-<i>Last updated: December 2020</i>
+<i>Last updated: January 2021</i>
 
