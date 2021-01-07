@@ -6,6 +6,6 @@ Recurrent neural networks (RNNs) are a class of powerful open system models in m
 
 On one hand, we are primarily exploring and working on various mathematical aspects of RNNs and related models in the context of deep learning theory. On the other hand, we are always looking to apply the models and theory to study complex dynamical systems arising in science and engineering. The theory and applications go hand in hand for us. For theoretical analysis, we use tools and techniques from  stochastic analysis, rough paths theory, statistical learning, among others. For applications, we are primarily inspired by ideas and insights from statistical mechanics and nonlinear science. <i>Check out the relevant research outputs [<font color = "blue">here</font>](https://shoelim.github.io/publications/).</i>
 
-*<small><i>We are also interested to learn more about RNN-based models for understanding biological systems (brain) as well as quantum counterparts of RNNs for advancing quantum computation and machine learning.</i></small>
+<small>*<i>We are also interested to learn more about RNN-based models for understanding biological systems (brain) as well as quantum counterparts of RNNs for advancing quantum computation and machine learning.</i></small>
 <br>
 <br>
