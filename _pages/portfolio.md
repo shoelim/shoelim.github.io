@@ -18,7 +18,7 @@ Some specific research projects are: <br>
   {% include archive-single.html %}
 {% endfor %}
  
- *<i>Click on the project title to learn more about our work.</i> 
+ <i>Click on the project title above to learn more about our work.</i> 
 
 
 
