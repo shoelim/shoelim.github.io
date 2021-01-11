@@ -13,7 +13,6 @@ redirect_from:
 - I completed my PhD in applied mathematics at the <a href="http://math.arizona.edu/">University of Arizona</a> in May 2018, under supervision of <a href="http://math.arizona.edu/~wehr/">Jan Wehr</a>.   <br> 
 - Prior to that, I studied mathematics and physics at the <a href="https://umich.edu/">University of Michigan</a>. <br> 
 <br> 
-<i>I am currently on the academic job market.</i>
 
 
 
