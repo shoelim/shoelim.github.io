@@ -20,7 +20,8 @@ redirect_from:
 
 The following is a list of papers (sorted by project titles) that my collaborators and I have worked on. <br>
 
-(1) [Machine learning by open dynamical systems, for open dynamical systems](https://shoelim.github.io/portfolio/portfolio-1/) 
+(1) [Machine learning by open dynamical systems, for open dynamical systems](https://shoelim.github.io/portfolio/portfolio-1/)
+- Soon Hoe Lim,  N. Benjamin Erichson, Liam Hodgkinson, and Michael W. Mahoney. Noisy Recurrent Neural Networks. <i>Preprint </i> (2021) [<a href="https://arxiv.org/abs/2102.04877">link</a>] 
 - Soon Hoe Lim. Understanding recurrent neural networks using nonequilibrium response theory. <i>Preprint </i> (2020) [<a href="https://arxiv.org/abs/2006.11052v2">link</a>] (to appear in <i>Journal of Machine Learning Research</i>)
 - Soon Hoe Lim, Ludovico Theo Giorgini, Woosok Moon, and John Wettlaufer. Predicting critical transitions in multiscale dynamical systems using reservoir computing. <i>Chaos: An Interdisciplinary Journal of Nonlinear Science 30, 123126 </i> (2020) [<a href="https://aip.scitation.org/doi/10.1063/5.0023764">link</a>] 
 <br>
