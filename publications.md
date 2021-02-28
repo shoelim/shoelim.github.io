@@ -43,6 +43,6 @@ The following is a list of papers (sorted by project titles) that my collaborato
 <br>
 <br>
 
-<small>*<i>Apart from the above projects, I also maintain a collection of [notes](https://github.com/shoelim/lectures.md) that I write up whenever I encounter interesting related topics and ideas.</i></small>
+<small>*<i>Apart from the above projects, I also maintain a collection of [notes](https://shoelim.github.io/lectures.md) that I write up whenever I encounter interesting related topics and ideas.</i></small>
 
  
