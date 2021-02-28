@@ -4,7 +4,7 @@ title: "Lectures"
 permalink: /lectures/
 author_profile: true
 redirect_from:
-  - /publications
+  - /lectures
 ---
 
 <!-- {% if author.googlescholar %}
