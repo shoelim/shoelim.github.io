@@ -1,15 +1,10 @@
 ---
 #layout: archive
-title: "Lectures"
+title: "Topics in Learning from Data and All That"
 permalink: /lectures/
 author_profile: true
 redirect_from:
   - /lectures
 ---
-
-Topics in Learning from Data and All That
-=============================
-
-**Authors**: [Soon Hoe Lim](https://shoelim.github.io/)
 
 Under construction
