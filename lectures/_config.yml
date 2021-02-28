@@ -1,0 +1,36 @@
+# Book settings
+title: Topics in Learning From Data and All That
+author: Soon Hoe Lim
+# logo: logo.png
+
+sphinx:
+  config:
+    myst_override_mathjax: false
+    mathjax_config:
+      TeX:
+        Macros:
+          "Exp" : ["\\operatorname{Exp}"]
+          "Binomial" : ["\\operatorname{Binomial}"]
+          "Poisson" : ["\\operatorname{Poisson}"]
+          "BB" : ["\\mathbb{B}"]
+          "EE" : ["\\mathbb{E}"]
+          "PP" : ["\\mathbb{P}"]
+          "RR" : ["\\mathbb{R}"]
+          "NN" : ["\\mathbb{N}"]
+          "ZZ" : ["\\mathbb{Z}"]
+          "dD" : ["\\mathcal{D}"]
+          "fF" : ["\\mathcal{F}"]
+          "lL" : ["\\mathcal{L}"]
+          "linop" : ["\\mathcal{L}(\\mathbb{B})"]
+          "linopell" : ["\\mathcal{L}(\\ell_1)"]
+
+  extra_extensions:
+    - sphinx_proof
+
+execute:
+  execute_notebooks: cache
+
+latex:
+  latex_engine: "xelatex"
+  latex_documents:
+    targetname: book.tex
