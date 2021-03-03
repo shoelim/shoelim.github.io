@@ -28,4 +28,9 @@ Teaching
 - Instructor, <i>Math 113 - Elementary Calculus</i>, Department of Mathematics, University of Arizona. Summer 2016
 - Instructor, <i>Math 112 - College Algebra: Concepts and Applications</i>, Department of Mathematics, University of Arizona. Fall 2013-Spring 2015
 
+<br> 
+
+[Notes](https://shoelim.github.io/notes) 
+======
+
 
