@@ -30,7 +30,7 @@ Teaching
 
 <br> 
 
-[Notes](https://shoelim.github.io/notes) 
+Notes
 ======
-
+- [Miscellaneous notes](https://shoelim.github.io/notes) 
 
