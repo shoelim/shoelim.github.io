@@ -14,4 +14,4 @@ redirect_from:
 - Stochastic Processes: From Classical to Quantum [[pdf]](https://github.com/shoelim/shoelim.github.io/blob/master/notes/Stochastic_Processes_From_Classical_to_Quantum.pdf)
 
 
-*<i>Please read these notes at your own risk.</i>
+*<i>These notes are work in progress and will be updated from time to time. Please read them at your own risk.</i>
