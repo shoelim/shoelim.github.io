@@ -14,7 +14,7 @@ redirect_from:
 - Prior to that, I studied mathematics and physics at the <a href="https://umich.edu/">University of Michigan</a>. <br> 
 <br> 
 
-*<i>If you are a student at KTH/SU (bachelor/master/PhD) interested to work on a project involving dynamical systems and machine learning: get in touch!</i>
+*<i>If you are a student at KTH/SU (bachelors/masters/PhD) interested to work on a project involving dynamical systems and machine learning: get in touch!</i>
 
 
 
