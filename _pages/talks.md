@@ -10,7 +10,7 @@ author_profile: true
 
 __In 2021:__
 
-- __February 22:__ (Invited talk) Title TBD. [Machine Learning and Science Forum](https://bids.github.io/MLStatsForum/), Berkeley Institute for Data Science
+- __February 22:__ (Invited talk) Noisy Recurrent Neural Networks. [Machine Learning and Science Forum](https://bids.berkeley.edu/events/machine-learning-and-science-forum-2021-0222), Berkeley Institute for Data Science
 
 <br>
 
