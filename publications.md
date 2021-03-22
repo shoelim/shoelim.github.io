@@ -28,8 +28,8 @@ The following is a list of papers (sorted by project titles) that my collaborato
 <br>
 	  
 (2) [Homogenization, multiscale analysis and model reduction of open dynamical systems](https://shoelim.github.io/portfolio/portfolio-2/) 
-- Soon Hoe Lim. Anomalous thermodynamics in homogenized generalized Langevin systems. <i>Preprint </i> (2020) [<a href="https://arxiv.org/abs/1911.07836v3">link</a>] (to appear in <i>Journal of Physics A: Mathematical and Theoretical</i>)
-- Soon Hoe Lim, Jan Wehr, and Maciej Lewenstein. Homogenization for generalized Langevin equations with applications to anomalous diffusion. <i>Annales Henri Poincaré </i> (2020) [<a href="https://link.springer.com/article/10.1007/s00023-020-00889-2">link</a>]
+- Soon Hoe Lim. Anomalous thermodynamics in homogenized generalized Langevin systems. <i>Journal of Physics A: Mathematical and Theoretical 54, pp 1-36</i> (2021) [<a href="https://iopscience.iop.org/article/10.1088/1751-8121/abea64">link</a>] 
+- Soon Hoe Lim, Jan Wehr, and Maciej Lewenstein. Homogenization for generalized Langevin equations with applications to anomalous diffusion. <i>Annales Henri Poincaré 21, pp 1813–1871 </i> (2020) [<a href="https://link.springer.com/article/10.1007/s00023-020-00889-2">link</a>]
 - Soon Hoe Lim and Jan Wehr. Homogenization for a class of generalized Langevin equations with an application to thermophoresis. <i>Journal of Statistical Physics,  Volume 174, Issue 3, pp 656–691 </i> (2018) [<a href="https://link.springer.com/article/10.1007/s10955-018-2192-9">link</a>]
 - Soon Hoe Lim, Jan Wehr, Aniello Lampo, Miguel Angel Garcia-March, and Maciej Lewenstein. On the small mass limit of quantum Brownian motion with inhomogeneous damping and diffusion. <i>Journal of Statistical Physics, Volume 170, Issue 2, pp 351-37 </i> (2017) [<a href="https://link.springer.com/article/10.1007/s10955-017-1907-7">link</a>]
 <br>
