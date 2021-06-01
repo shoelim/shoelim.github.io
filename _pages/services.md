@@ -14,7 +14,7 @@ author_profile: true
 
 Refereeing
 ======
-- [Conference on Neural Information Processing Systems (NeurIPS)](https://nips.cc/)
+- [Conference on Neural Information Processing Systems (NeurIPS)](https://nips.cc/Conferences/2021)
 - [International Conference on Machine Learning (ICML)](https://icml.cc/)
 - [Nonlinearity](https://iopscience.iop.org/journal/0951-7715), IOPscience and the London Mathematical Society
 - [Journal of Physics A: Mathematical and Theoretical](https://iopscience.iop.org/journal/1751-8121), IOPscience
