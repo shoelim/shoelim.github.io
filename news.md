@@ -11,7 +11,7 @@ redirect_from:
 
 News
 =====
-- __June 2021:__ Invited talk at the [SIG on Machine Learning and Dynamical Systems](https://agora.stream/SIG%20on%20Machine%20Learning%20and%20Dynamical%20Systems)
+- __June 2021:__ Invited talk at the [SIG on Machine Learning and Dynamical Systems](https://agora.stream/SIG%20on%20Machine%20Learning%20and%20Dynamical%20Systems) (watch the talk [here](https://www.youtube.com/watch?v=9t-UTLvkhyk&t=22s))
 - __February 2021:__ Invited talk at the [Machine Learning and Science Forum](https://bids.berkeley.edu/events/machine-learning-and-science-forum-2021-0222) at Berkeley Institute for Data Science
 - __November 2020:__ Invited talk at the [DynamIC Seminar](https://wwwf.imperial.ac.uk/~mrasmuss/DynamIC/) at Imperial College London (watch the talk [here](https://www.youtube.com/watch?v=sMY_rZS5k3Q&list=PLOMUcsGYfYasfTuGmshpDiNCsY16XcayD)) 
 - __November 2020:__ Contributed presentation at [DeepMath 2020](https://deepmath-conference.com/)
