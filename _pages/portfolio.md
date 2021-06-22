@@ -12,9 +12,9 @@ Open systems are, in a broad sense, components of a larger closed system that in
 Current research projects:<br>
 - Asymptotic and nonasymptotic behavior of noisy neural networks 
 - Implicit regularization of noisy neural networks
-- Principled dynamical systems approach to designing neural networks 
+- Principled dynamical systems approaches to designing neural networks 
 <br>
-
+<br>
 
 Some more specific research projects are: <br>
 
