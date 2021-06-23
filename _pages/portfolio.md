@@ -10,9 +10,9 @@ My research interests are in probabilistic and dynamical aspects of machine lear
 Open systems are, in a broad sense, components of a larger closed system that interact with other components of the larger system. These systems abound in applications and are typically random/stochastic, nonlinear, high-dimensional and have non-trivial dynamics. Studying physical and artificial systems rigorously within an appropriate open systems framework allows us to gain valuable insights into these systems. The overarching theme of my current research revolves around using mathematics and interdisciplinary approaches to understand <font color="blue"><i>learning of dynamical representations</i></font> and <font color="blue"><i>physics of dynamical systems</i></font>.  <br>
 
 Current research projects:<br>
-- Asymptotic and nonasymptotic behavior of deep neural networks 
-- Implicit regularization of deep neural networks
-- Principled dynamical systems approaches to designing deep neural networks 
+- Asymptotic and nonasymptotic behavior of modern neural networks 
+- Implicit regularization of modern neural networks
+- Principled dynamical systems approaches to designing modern neural networks 
 <br>
 <br>
 
