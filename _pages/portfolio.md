@@ -16,7 +16,7 @@ Current research projects:<br>
 <br>
 <br>
 
-Some more specific research projects are: <br>
+<!-- Some more specific research projects are: <br>
 
 {% include base_path %}
 
@@ -26,6 +26,6 @@ Some more specific research projects are: <br>
 {% endfor %}
  
  <i>Click on the project titles above to learn more about our work.</i> 
-
+-->
 
 
