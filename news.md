@@ -11,7 +11,7 @@ redirect_from:
 
 News
 =====
-- __August 2021:__ Invited talk at the [Conference on Mathematics of Machine Learning](https://www.mis.mpg.de/calendar/conferences/2021/mml2021.html) at ZiF, Bielefeld University
+- __August 2021:__ Invited talk at the [Conference on Mathematics of Machine Learning](https://www.mis.mpg.de/calendar/conferences/2021/mml2021.html) at the ZiF, Bielefeld University
 - __July 2021:__ One accepted paper at the [ICML 2021 Time Series Workshop](http://roseyu.com/time-series-workshop/)
 - __June 2021:__ Invited talk at the [SIG on Machine Learning and Dynamical Systems](https://agora.stream/SIG%20on%20Machine%20Learning%20and%20Dynamical%20Systems) (watch the talk [here](https://www.youtube.com/watch?v=9t-UTLvkhyk&t=22s))
 - __February 2021:__ Invited talk at the [Machine Learning and Science Forum](https://bids.berkeley.edu/events/machine-learning-and-science-forum-2021-0222) at Berkeley Institute for Data Science
