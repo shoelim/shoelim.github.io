@@ -9,7 +9,7 @@ My research interests are in probabilistic and dynamical aspects of machine lear
 Current research projects:<br>
 - Randomness in/of/for modern learning models 
 - Implicit regularization of modern learning models
-- Principled dynamical systems approaches to designing and understanding learning models
+- Dynamical systems approaches to designing and understanding learning models
 <br>
 <br>
 
