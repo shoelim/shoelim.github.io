@@ -7,8 +7,8 @@ author_profile: true
 My research interests are in probabilistic and dynamical aspects of machine learning and statistical mechanics, as well as the related interactions and applications in science and engineering. 
 
 Current research projects:<br>
-- Asymptotic and nonasymptotic behavior of modern neural networks 
-- Implicit regularization of modern neural networks
+- Randomness in/of/for modern learning models 
+- Implicit regularization of modern learning models
 - Principled dynamical systems approaches to designing and understanding learning models
 <br>
 <br>
