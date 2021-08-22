@@ -6,10 +6,10 @@ author_profile: true
 
 My research interests are in probabilistic and dynamical aspects of machine learning and statistical mechanics, as well as the related interactions and applications in science and engineering. 
 
-Current research projects:<br>
-- Randomness in/of/for modern learning models 
-- Implicit regularization of modern learning models
-- Dynamical systems approaches to designing and understanding learning models
+Some central research themes:<br>
+- Randomness in/of/for robust and reliable machine learning
+- Implicit regularization in machine learning
+- Dynamical systems and statistical mechanics ideas for machine learning
 <br>
 <br>
 
