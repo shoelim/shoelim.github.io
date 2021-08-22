@@ -9,7 +9,7 @@ My research interests are in probabilistic and dynamical aspects of machine lear
 Some central research themes:<br>
 - Randomness in/of/for robust and reliable machine learning
 - Implicit regularization in machine learning
-- Dynamical systems and statistical mechanics ideas for machine learning
+- Machine learning from the lens of dynamical systems and statistical mechanics  
 <br>
 <br>
 
