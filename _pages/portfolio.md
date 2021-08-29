@@ -4,12 +4,12 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-My research interests are in probabilistic and dynamical aspects of machine learning and statistical mechanics, as well as the related interactions and applications in science and engineering. 
+My primary research interests are in <font color="blue">probabilistic machine learning</font>, as well as the related interactions and applications in science and engineering. 
 
 Some central research themes:<br>
 - Randomness in/of/for robust and reliable machine learning
 - Implicit regularization in machine learning
-- Machine learning through the lens of dynamical systems and statistical mechanics  
+- Machine learning through the lens of dynamical systems and nonequilibrium statistical mechanics  
 <br>
 <br>
 
