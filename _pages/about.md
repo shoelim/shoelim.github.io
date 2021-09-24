@@ -14,8 +14,6 @@ redirect_from:
 - Outside of research, I am into technology, biohacking, nature, and <a href="https://www.nyrture.com/natto-recipes">natto</a>. <br> 
 <br> 
 
-*<i>If you are a student at KTH/SU (bachelors/masters/PhD) interested to work on a machine learning project: get in touch!</i>
-
 
 
 
