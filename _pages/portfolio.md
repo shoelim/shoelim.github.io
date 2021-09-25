@@ -4,12 +4,16 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-My primary research interests are in <font color="blue">probabilistic machine learning</font>, as well as the related interactions and applications in science and engineering. 
+My primary research interests are in <font color="blue">probabilistic machine learning</font>, as well as the related interactions and applications in science and engineering. <br>
+
+On a high level, my current research is inspired by the following question: <br>
+
+<i>Given a choice of data model, learning model and learning algorithm, can we build a <font color="blue">framework</font> to explore and exploit the "behavior" of the learning model on test data sampled from the data model, in various <font color="blue">regimes</font> and for various <font color="blue">settings</font>? </i></font>
 
 Some central research themes:<br>
-- Randomness in/of/for robust and reliable machine learning
-- Implicit regularization in machine learning
-- Machine learning through the lens of dynamical systems and nonequilibrium statistical mechanics  
+- Randomness in/of/for robust and reliable machine learning (the "settings")
+- Implicit regularization in machine learning (the "regime")
+- Machine learning through the lens of stochastic dynamical systems and nonequilibrium statistical mechanics (the "framework")
 <br>
 <br>
 
