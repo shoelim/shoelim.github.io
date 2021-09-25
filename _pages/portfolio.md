@@ -10,7 +10,7 @@ On a high level, my current research is inspired by the following question: <br>
 <font color="blue"><i>Given a choice of data model, learning model and learning algorithm, can we build a framework to explore and exploit the "behavior" of the learning model on test data sampled from the data model, in various regimes and for various settings? </i></font></font>
 
 Some central themes related to the above question:<br>
-- Randomness in/of/for robust and reliable machine learning (the "settings")
+- Randomness in/of/for robust and reliable machine learning (the "setting")
 - Implicit regularization in machine learning (the "regime")
 - Machine learning through the lens of stochastic dynamical systems and nonequilibrium statistical mechanics (the "framework")
 <br>
