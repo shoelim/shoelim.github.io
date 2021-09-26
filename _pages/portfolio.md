@@ -6,7 +6,7 @@ author_profile: true
 
 My primary research interests are in <font color="blue">probabilistic machine learning</font>, as well as the related interactions and applications in science and engineering. <br>
 
-On a high level, my current research is inspired by the following question: 
+On a high level, my current research is inspired and driven by the following question: 
 
 <font><i>Given a data generating model, a learning model and a learning algorithm, can we build a *rigorous* yet *practical* framework to explore and exploit the "behavior" of the learning model on test data, in various regimes and for various settings? </i></font><br>
 
