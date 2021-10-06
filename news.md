@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-News
+News*
 =====
 - __September 2021:__ One accepted paper at [NeurIPS 2021](https://neurips.cc/)
 - __September 2021:__ Contributed presentation at the [On Future Synergies for Stochastic and Learning Algorithms](https://conferences.cirm-math.fr/2389.html) at CIRM, Marseille  
@@ -23,7 +23,7 @@ News
 - __September 2020:__ Contributed talk at the [Second Symposium on Machine Learning and Dynamical Systems](http://www.fields.utoronto.ca/activities/20-21/dynamical) at the Fields Institute (watch the talk [here](https://www.youtube.com/watch?v=iQ23qaGcFjc))
 <br>
 
-
+<small>*<i>in the last 12 months</i></small> <br>
 <br>
-<small>*<i>Last updated: October 2021</i></small>
+<small>Last updated: October 2021</small>
 
