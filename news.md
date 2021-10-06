@@ -25,5 +25,5 @@ News
 
 
 <br>
-<small>*<i>Last updated: June 2021</i></small>
+<small>*<i>Last updated: October 2021</i></small>
 
