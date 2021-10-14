@@ -4,7 +4,7 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-My primary research interests are in <font color="blue">probabilistic machine learning</font>, as well as the related interactions and applications in science and engineering. <br>
+My primary research interests are in <font color="blue">probabilistic machine learning</font>, particularly learning with modern neural networks, as well as the related interactions and applications in science and engineering. <br>
 
 On a high level, my current research is inspired and driven by the following question: 
 
