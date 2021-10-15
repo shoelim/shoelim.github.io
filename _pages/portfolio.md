@@ -13,7 +13,7 @@ On a high level, my current research is inspired and driven by the following fun
 Some central themes related to the above question:<br>
 - Randomness in/of/for robust and reliable machine learning (the "setting")
 - Implicit regularization in machine learning (the "regime")
-- Machine learning through the lens of dynamical systems and nonequilibrium statistical mechanics (the "framework")
+- Machine learning through the lens of dynamical systems and statistical mechanics (the "framework")
 <br>
 <br>
 
