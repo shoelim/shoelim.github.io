@@ -8,7 +8,7 @@ My primary research interests are in <font color="blue">probabilistic machine le
 
 On a high level, my current research is inspired and driven by the following fundamental question: 
 
-<font><i>Given a data set/model, a learning model and a learning algorithm, can we build a *rigorous* yet *practical* framework to explore and exploit the "behavior" of the learning model on test data, in various regimes and for various settings? </i></font><br>
+<font><i>Given a data set/model, a learning model and a learning algorithm, can we build a rigorous yet practical framework to *explore* and *exploit* the behavior of the learning model on test data, in various regimes and for various settings? </i></font><br>
 
 Some central themes related to the above question that I am investigating:<br>
 - Randomness in/of/for robust and reliable machine learning (the "setting")
