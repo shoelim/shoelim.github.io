@@ -11,7 +11,7 @@ redirect_from:
 
 News*
 =====
-- __September 2021:__ One accepted paper at [NeurIPS 2021](https://neurips.cc/) (watch the video summary [here](https://www.youtube.com/watch?v=1uvZCJIUGDI)) 
+- __September 2021:__ One accepted paper at [NeurIPS 2021](https://openreview.net/forum?id=mf9XiRCEgZu) (watch the video summary [here](https://www.youtube.com/watch?v=1uvZCJIUGDI)) 
 - __September 2021:__ Contributed presentation at the [On Future Synergies for Stochastic and Learning Algorithms](https://conferences.cirm-math.fr/2389.html) at CIRM, Marseille  
 - __August 2021:__ Invited talk at the [Conference on Mathematics of Machine Learning](https://www.mis.mpg.de/calendar/conferences/2021/mml2021.html) at the ZiF, Bielefeld University
 - __June 2021:__ One accepted paper at the [ICML 2021 Time Series Workshop](http://roseyu.com/time-series-workshop/)
