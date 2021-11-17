@@ -25,5 +25,5 @@ News*
 
 <small>*<i>in the last 12 months</i></small> <br>
 <br>
-<small>Last updated: October 2021</small>
+<small>Last updated: November 2021</small>
 
