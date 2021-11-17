@@ -9,8 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-News*
+News
 =====
+- __November 2021:__ One awarded [VR starting grant](https://www.vr.se/english/applying-for-funding/calls/2020-11-10-starting-grant-within-natural-and-engineering-sciences.html), under the category of "Computational Mathematics, Data Science, and Statistics" 
 - __September 2021:__ One accepted paper at [NeurIPS 2021](https://openreview.net/forum?id=mf9XiRCEgZu) (watch the video summary [here](https://www.youtube.com/watch?v=1uvZCJIUGDI)) 
 - __September 2021:__ Contributed presentation at the [On Future Synergies for Stochastic and Learning Algorithms](https://conferences.cirm-math.fr/2389.html) at CIRM, Marseille  
 - __August 2021:__ Invited talk at the [Conference on Mathematics of Machine Learning](https://www.mis.mpg.de/calendar/conferences/2021/mml2021.html) at the ZiF, Bielefeld University
@@ -22,8 +23,6 @@ News*
 - __September 2020:__ Invited talk at the [seminar](http://www.mathc.rwth-aachen.de/news/passed_talks/) of the [Chair for Mathematics of Information Processing](https://www.mathc.rwth-aachen.de/home/home/) at RWTH Aachen University
 - __September 2020:__ Contributed talk at the [Second Symposium on Machine Learning and Dynamical Systems](http://www.fields.utoronto.ca/activities/20-21/dynamical) at the Fields Institute (watch the talk [here](https://www.youtube.com/watch?v=iQ23qaGcFjc))
 <br>
-
-<small>*<i>in the last 12 months</i></small> <br>
 <br>
-<small>Last updated: October 2021</small>
+<small>Last updated: November 2021</small>
 
