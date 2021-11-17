@@ -22,7 +22,7 @@ The following is a list of papers (sorted by themes/topics) that my collaborator
 
 (1) [Randomness, machine learning and open dynamical systems](https://shoelim.github.io/portfolio/portfolio-1/)
 - Soon Hoe Lim,  N. Benjamin Erichson, Francisco Utrera, Winnie Xu, and Michael W. Mahoney. Noisy Feature Mixup. <i>Preprint </i> (2021) [<a href="https://arxiv.org/abs/2110.02180">link</a>]
-- Soon Hoe Lim,  N. Benjamin Erichson, Liam Hodgkinson, and Michael W. Mahoney. Noisy Recurrent Neural Networks. <i>Preprint </i> (2021) [<a href="https://arxiv.org/abs/2102.04877">link</a>] 
+- Soon Hoe Lim,  N. Benjamin Erichson, Liam Hodgkinson, and Michael W. Mahoney. Noisy Recurrent Neural Networks. <i>Preprint </i> (2021) [<a href="https://arxiv.org/abs/2102.04877">link</a>] (to appear in [NeurIPS 2021](https://openreview.net/forum?id=mf9XiRCEgZu))
 - Soon Hoe Lim. Understanding recurrent neural networks using nonequilibrium response theory. <i>Journal of Machine Learning Research 22(47):1−48 </i> (2021) [<a href="https://jmlr.org/papers/v22/20-620.html">link</a>]
 - Soon Hoe Lim, Ludovico Theo Giorgini, Woosok Moon, and John Wettlaufer. Predicting critical transitions in multiscale dynamical systems using reservoir computing. <i>Chaos: An Interdisciplinary Journal of Nonlinear Science 30, 123126 </i> (2020) [<a href="https://aip.scitation.org/doi/10.1063/5.0023764">link</a>] 
 <br>
