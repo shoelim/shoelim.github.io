@@ -12,7 +12,7 @@ redirect_from:
 - I am currently a WINQ fellow and an incoming assistant professor at <a href="https://www.nordita.org/">Nordita</a>, hosted jointly by <a href="https://www.kth.se/en">KTH Royal Institute of Technology</a> and <a href="https://www.su.se/">Stockholm University</a>. <br> 
 - I completed my PhD in applied mathematics at the <a href="http://math.arizona.edu/">University of Arizona</a> in May 2018, under supervision of <a href="http://math.arizona.edu/~wehr/">Jan Wehr</a>. Prior to that, I studied mathematics and physics at the <a href="https://umich.edu/">University of Michigan</a>. <br>  
 
-*I am looking for highly motivated students (bachelor/master) and postdocs to join the group. <a href="shoelim.github.io/master/_pages/Master_Project_2022.pdf">Here</a> is a proposal for the bachelor/master project.
+*I am looking for highly motivated students (bachelor/master) and postdocs to join the group. <a href="Master_Project_2022.pdf" target="_blank">Here</a> is a proposal for the bachelor/master project.
 <br> 
 
 
