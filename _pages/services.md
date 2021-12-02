@@ -17,9 +17,11 @@ Refereeing
 - [Conference on Neural Information Processing Systems (NeurIPS)](https://nips.cc/Conferences/2021)
 - [International Conference on Machine Learning (ICML)](https://icml.cc/)
 - [International Conference on Learning Representations (ICLR)](https://iclr.cc/)
-- [Nonlinearity](https://iopscience.iop.org/journal/0951-7715), IOPscience and the London Mathematical Society
-- [Journal of Physics A: Mathematical and Theoretical](https://iopscience.iop.org/journal/1751-8121), IOPscience
-- [New Journal of Physics](https://iopscience.iop.org/journal/1367-2630), IOPscience
+- [Nonlinearity](https://iopscience.iop.org/journal/0951-7715)
+- [Advances in Difference Equations](https://advancesindifferenceequations.springeropen.com/)
+- [Journal of Physics A: Mathematical and Theoretical](https://iopscience.iop.org/journal/1751-8121)
+- [New Journal of Physics](https://iopscience.iop.org/journal/1367-2630)
+- [Chaos: An Interdisciplinary Journal of Nonlinear Science](https://aip.scitation.org/journal/cha)
 
 <br> 
 
