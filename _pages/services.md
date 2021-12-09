@@ -17,6 +17,7 @@ Refereeing
 - [Conference on Neural Information Processing Systems (NeurIPS)](https://nips.cc/Conferences/2021)
 - [International Conference on Machine Learning (ICML)](https://icml.cc/)
 - [International Conference on Learning Representations (ICLR)](https://iclr.cc/)
+- [Stochastic Processes and their Applications](https://www.journals.elsevier.com/stochastic-processes-and-their-applications)
 - [Nonlinearity](https://iopscience.iop.org/journal/0951-7715)
 - [Advances in Difference Equations](https://advancesindifferenceequations.springeropen.com/)
 - [Journal of Physics A: Mathematical and Theoretical](https://iopscience.iop.org/journal/1751-8121)
