@@ -4,7 +4,7 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-My primary research interests are in <font color="blue">mathematical and physics-inspired machine learning</font>, particularly learning with <font><i>modern</i></font> neural networks. I am also interested in the related interactions and applications in science and engineering. <br>
+My primary research interests are in <font color="blue">mathematical and physics-inspired machine learning</font>, particularly learning with <a href="https://arxiv.org/abs/1312.6199"><font><i>modern</i></font> neural networks</a>. I am also interested in the related interactions and applications in science and engineering. <br>
 
 On a high level, my current research is inspired and driven by the following fundamental question: 
 
