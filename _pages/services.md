@@ -35,7 +35,13 @@ Teaching
 
 <br> 
 
-Notes
+Research Notes
 ======
 - [Miscellaneous notes](https://shoelim.github.io/notes) 
+
+<br> 
+
+Consulting
+======
+- Machine learning consulting: please contact me for the details
 
