@@ -43,5 +43,5 @@ Research Notes
 
 Consulting
 ======
-- Machine learning consulting: please contact me for the details
+- Private machine learning consulting: please contact me for more information
 
