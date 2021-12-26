@@ -40,8 +40,3 @@ Research Notes
 - [Miscellaneous notes](https://shoelim.github.io/notes) 
 
 <br> 
-
-Consulting
-======
-- Private machine learning consulting: please contact me for more information
-
