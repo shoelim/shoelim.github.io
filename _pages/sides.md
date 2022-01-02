@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /services/
 title: "Outside of Academia"
 excerpt: "Outside of Academia"
 author_profile: true
