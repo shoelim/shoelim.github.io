@@ -40,6 +40,3 @@ Research Notes
 - [Miscellaneous notes](https://shoelim.github.io/notes) 
 
 <br> 
-
-[Outside of Academia]()
-======
