@@ -5,7 +5,7 @@ excerpt: "Outside of Academia"
 
 ---
 
-Outside of academia, I invest my time in various meaningful activities and adventures: <br>
+Outside of academia, I invest my time in various meaningful activities and adventures. Here are some of them: <br>
 
 
 ### Consulting
@@ -17,7 +17,7 @@ I am particularly interested in [Web 3.0](https://www.web3.university/). The key
 
 
 ### Biohacking 
-I am constantly adding small hacks into my daily life to help maintain and improve my health and fitness (both physical and [metabolic](https://www.levelshealth.com/blog/the-ultimate-guide-to-metabolic-fitness)). I have been doing intermittent fasting and following a mostly low carb, Mediterranean diet. Other daily hacks that I have been using include: having a [micronutrient smoothie](https://fastlifehacks.com/dr-rhonda-patrick-diet-and-exercise/#Micronutrient_Rich_Smoothies), having a [natto](https://www.nyrture.com/why-natto) dish with high quality olive oil, exercising, [meditation](https://www.headspace.com/meditation), sleeping >8 hours, among others.
+I am constantly adding little hacks into my daily life to help maintain and improve my health and fitness (both physical and [metabolic](https://www.levelshealth.com/blog/the-ultimate-guide-to-metabolic-fitness)). I have been doing intermittent fasting and following a mostly low carb, Mediterranean diet. Other daily hacks that I have been using include: having a [micronutrient smoothie](https://fastlifehacks.com/dr-rhonda-patrick-diet-and-exercise/#Micronutrient_Rich_Smoothies), having a [natto](https://www.nyrture.com/why-natto) dish with high quality olive oil, exercising, [meditation](https://www.headspace.com/meditation), sleeping >8 hours, among others.
 
 
 ### Traveling 
