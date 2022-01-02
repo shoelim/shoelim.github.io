@@ -23,6 +23,8 @@ I am constantly adding little hacks into my daily life to help maintain and impr
 ### Traveling 
 I enjoy traveling to different countries and collecting the unique experience each country offers. I have been to more than 12 countries in 4 different continents so far. I have also enjoyed hiking and other outdoor activities whilst visiting these countries. 
 
+Finally, I enjoy reading and talking to people about mathematics, physics, ML, the topics mentioned above, and life in general.
+
 
 
 
