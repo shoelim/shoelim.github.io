@@ -4,7 +4,7 @@ title: "Outside of Academia"
 excerpt: "Outside of Academia"
 author_profile: true
 redirect_from: 
-  - "/services/"
+  - "/sides/"
   - "/sides.html"
 ---
 
