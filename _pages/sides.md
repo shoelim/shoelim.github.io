@@ -9,7 +9,7 @@ Outside of academia, I invest my time in various meaningful activities and adven
 
 
 ### Consulting
-I am offering expert consulting service to help you understand and solve AI and machine learning problems using principled, scientific approaches. If you are curious about how AI and machine learning can help your organization (startups, established companies, etc.), or need help with a project in any phase, I am passionate to help you with your needs. Please contact me (via email) for more information on this.
+I am offering expert consulting service to help you understand and solve AI and machine learning problems using principled, scientific approaches. If you are curious about how AI and machine learning can help your organization (startups, established companies, etc.), or need help with a project in any phase, I am passionate to help you with your needs (provided that they are within my reach). Please contact me for more information on this.
 
 
 ### Technology 
