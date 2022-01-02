@@ -38,5 +38,3 @@ Teaching
 Research Notes
 ======
 - [Miscellaneous notes](https://shoelim.github.io/notes) 
-
-<br> 
