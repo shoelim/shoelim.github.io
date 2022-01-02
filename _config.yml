@@ -182,6 +182,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  sides:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -237,6 +240,14 @@ defaults:
       type: talks
     values:
       layout: talk
+      author_profile: true
+      share: true
+  # _sides
+  - scope:
+      path: ""
+      type: sides
+    values:
+      layout: sides
       author_profile: true
       share: true
 
