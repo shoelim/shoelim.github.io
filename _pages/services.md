@@ -38,3 +38,9 @@ Teaching
 Research Notes
 ======
 - [Miscellaneous notes](https://shoelim.github.io/notes) 
+
+<br> 
+
+
+Outside of academia, I am into various [activities and adventures](https://shoelim.github.io/sides/).  
+
