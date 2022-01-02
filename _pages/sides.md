@@ -5,7 +5,7 @@ excerpt: "Outside of Academia"
 
 ---
 
-Outside of academia, I invest my time in various meaningful activities and adventures. Here are some of them: <br>
+Outside of academia, I invest my time in various activities and adventures. Here are some of them: <br>
 
 
 ### Consulting
