@@ -2,10 +2,7 @@
 permalink: /sides/
 title: "Outside of Academia"
 excerpt: "Outside of Academia"
-author_profile: true
-redirect_from: 
-  - "/sides/"
-  - "/sides.html"
+
 ---
 
 Outside of academia, I invest my time in various projects and adventures.
