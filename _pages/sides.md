@@ -2,7 +2,7 @@
 permalink: /sides/
 title: "Outside of Academia"
 excerpt: "Outside of Academia"
-author_profile: false
+author_profile: true
 redirect_from: 
   - "/sides/"
   - "/sides.html"
