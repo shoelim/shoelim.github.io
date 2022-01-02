@@ -13,7 +13,7 @@ I am offering expert consulting service to help you understand and solve AI and 
 
 
 ### Technology 
-I am particularly interested in [Web 3.0](https://www.web3.university/). The key feature of Web 3.0 is that data will be interconnected in a decentralized manner, in contrast to the current generation of the internet (Web 2.0) where data is mostly stored in a centralized way. I am constantly learning and exploring the building blocks of Web 3.0: blockchain, cryptocurrency, and AI. I am also interested in autonomous electric vehicles, decentralized finance, NFTs, sustainable technologies, and technology investing.
+I am particularly interested in [Web 3.0](https://www.web3.university/). The key feature of Web 3.0 is that data will be interconnected in a decentralized manner, in contrast to the current generation of the internet (Web 2.0) where data is mostly stored in a centralized way. I am constantly learning and exploring the building blocks of Web 3.0: blockchain, cryptocurrency, and AI. I am also interested in autonomous electric vehicles, decentralized finance, NFTs, DAOs, sustainable technologies, and technology investing.
 
 
 ### Biohacking 
