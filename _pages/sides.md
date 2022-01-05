@@ -8,10 +8,6 @@ excerpt: "Outside of Academia"
 Outside of academia, I invest my time in various activities and adventures. Here are some of them: <br>
 
 
-### Consulting
-I am offering expert consulting service to help you understand and solve AI and machine learning problems using principled, scientific approaches. If you are curious about how AI and machine learning can help your organization (startups, established companies, etc.), or need help with a project in any phase, I am passionate to help you with your needs (provided that they are within my reach). Please contact me for more information on this.
-
-
 ### Technology 
 I am particularly interested in [Web 3.0](https://www.web3.university/) and the related applications. The key feature of Web 3.0 is that data will be interconnected in a decentralized manner, in contrast to the current generation of the internet (Web 2.0) where data is mostly stored in a centralized way. I am constantly learning and exploring the building blocks of Web 3.0: blockchain, cryptocurrency, and AI. I am also interested in [autonomous EVs](https://www.tesla.com/AI), decentralized finance, NFTs, DAOs, sustainable technologies, technology investing, and more.
 
