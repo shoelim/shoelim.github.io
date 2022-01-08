@@ -9,7 +9,7 @@ Outside of academia, I invest my time in various activities and adventures. Here
 
 
 ### Technology 
-I am particularly interested in [Web 3.0](https://www.web3.university/) and the related applications. The key feature of Web 3.0 is that data will be interconnected in a decentralized manner, in contrast to the current generation of the internet (Web 2.0) where data is mostly stored in a centralized way. I am constantly learning and exploring the building blocks of Web 3.0: blockchain, cryptocurrency, and AI. I am also interested in [autonomous EVs](https://www.tesla.com/AI), decentralized finance, NFTs, DAOs, sustainable technologies, technology investing, and more.
+I am particularly interested in the future of internet: [Web 3.0](https://www.web3.university/) and the related applications. The key feature of Web 3.0 is that data will be interconnected in a decentralized manner, in contrast to the current generation of the internet (Web 2.0) where data is mostly stored in a centralized way. I am constantly learning and exploring the building blocks of Web 3.0: blockchain, cryptocurrency, and AI. I am also interested in [autonomous EVs](https://www.tesla.com/AI), decentralized finance, NFTs, DAOs, sustainable technologies, technology investing, and more.
 
 
 ### Biohacking 
