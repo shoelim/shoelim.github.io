@@ -13,7 +13,7 @@ I am particularly interested in the future of internet: [Web 3.0](https://www.we
 
 
 ### Biohacking 
-I am constantly adding little hacks into my daily life to help maintain and improve my health and fitness (both physical and [metabolic](https://www.levelshealth.com/blog/the-ultimate-guide-to-metabolic-fitness)). Bringing down my [biological age](https://lifespanbook.com/) would be a bonus. I have been doing intermittent fasting and following a mostly low carb, Mediterranean-style diet. Other hacks that I have been using include: having a [micronutrient smoothie](https://fastlifehacks.com/dr-rhonda-patrick-diet-and-exercise/#Micronutrient_Rich_Smoothies), having a [natto](https://www.nyrture.com/why-natto) dish with high quality olive oil, exercising, doing sauna and cold showers, [meditating](https://www.headspace.com/meditation), sleeping >8 hours, among others.
+I am constantly adding little hacks into my daily life to help maintain and improve my health and fitness (both physical and [metabolic](https://www.levelshealth.com/blog/the-ultimate-guide-to-metabolic-fitness)). Bringing down my [biological age](https://lifespanbook.com/) would be a bonus. I have been doing intermittent fasting and following a mostly low carb, clean diet. Other hacks that I have been using include: having a [micronutrient smoothie](https://fastlifehacks.com/dr-rhonda-patrick-diet-and-exercise/#Micronutrient_Rich_Smoothies), having a [natto](https://www.nyrture.com/why-natto) dish with high quality olive oil, exercising, doing sauna and cold showers, [meditating](https://www.headspace.com/meditation), sleeping >8 hours, among others.
 
 
 ### Traveling 
