@@ -11,6 +11,7 @@ redirect_from:
 
 News
 =====
+- __Mar 2022:__ Invited talk at the Dynamical Systems seminar at University of Exeter
 - __November 2021:__ One awarded [starting grant](https://www.vr.se/english/applying-for-funding/calls/2020-11-10-starting-grant-within-natural-and-engineering-sciences.html), under the category of "Computational Mathematics, Data Science, and Statistics" 
 - __September 2021:__ One accepted paper at [NeurIPS 2021](https://openreview.net/forum?id=mf9XiRCEgZu) (watch the video summary [here](https://www.youtube.com/watch?v=1uvZCJIUGDI)) 
 - __September 2021:__ Contributed presentation at the [On Future Synergies for Stochastic and Learning Algorithms](https://conferences.cirm-math.fr/2389.html) at CIRM, Marseille  
@@ -24,5 +25,5 @@ News
 - __September 2020:__ Contributed talk at the [Second Symposium on Machine Learning and Dynamical Systems](http://www.fields.utoronto.ca/activities/20-21/dynamical) at the Fields Institute (watch the talk [here](https://www.youtube.com/watch?v=iQ23qaGcFjc))
 <br>
 <br>
-<small>Last updated: November 2021</small>
+<small>Last updated: January 2022</small>
 
