@@ -15,7 +15,7 @@ redirect_from:
 We are organizing a biweekly e-seminar to discuss the state-of-the-art of scientific machine learning this year. Sign up [here](https://scientific-ml.org/) to stay updated! <br>  
 
 
-*I am looking for highly motivated students (bachelor/master) and postdocs to join the group. <a href="https://drive.google.com/file/d/125rGaSGhWaSvcrwJeInJxVLpZ7ZQrRES/view?usp=sharing">Here</a> is a proposal for the bachelor/master project.
+*I am looking for highly motivated students (bachelor/master) and postdocs to join the group. 
 <br> 
 
 
