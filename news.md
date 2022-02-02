@@ -11,6 +11,7 @@ redirect_from:
 
 News
 =====
+- __December 2022:__ Invited talk at the [IMS International Conference on Statistics and Data Science](https://sites.google.com/view/icsds2022/home?authuser=0), Florence
 - __September 2022:__ Invited talk at the [Third Symposium on Machine Learning and Dynamical Systems](https://sites.google.com/site/boumedienehamzi/home/third-symposium-on-machine-learning-and-dynamical-systems), Fields Institute
 - __March 2022:__ Invited talk at the Dynamical Systems seminar at University of Exeter
 - __January 2022:__ One accepted paper at [ICLR 2022](https://openreview.net/forum?id=vJb4I2ANmy)
