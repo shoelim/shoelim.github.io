@@ -12,7 +12,7 @@ On a high level, my current research is inspired and driven by the following fun
 
 Some central themes related to the above question that I am investigating:<br>
 - Randomness in/of/for robust and reliable machine learning (the "setting")
-- Implicit regularization in machine learning (the "regime")
+- Implicit regularization and asymptotics in machine learning (the "regime")
 - Machine learning through the lens of dynamical systems and statistical mechanics (the "framework")
 <br>
 <br>
