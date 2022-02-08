@@ -35,9 +35,9 @@ Teaching
 
 <br> 
 
-Research Notes
+Notes
 ======
-- [Miscellaneous notes](https://shoelim.github.io/notes) 
+- [Miscellaneous](https://shoelim.github.io/notes) 
 
 <br> 
 
