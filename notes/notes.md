@@ -7,6 +7,12 @@ redirect_from:
   - /notes
 ---
 
+**Topics in Dynamical Systems x Machine Learning**
+- TBW 
+
+<br>
+
+**Other Topics**
 - A Short Introduction to Concentration Inequalities [[pdf]](https://github.com/shoelim/shoelim.github.io/blob/master/notes/An_Introduction_to_Concentration_Inequalities.pdf) 
 - Stochastic Lorenz Systems are Generalized Langevin Systems [[pdf]](https://github.com/shoelim/shoelim.github.io/blob/master/notes/From_Lorenz_to_Langevin.pdf)
 - Heavy-Tail Phenomena in Effective Models of Brownian Particle in Active Heat Bath [[pdf]](https://github.com/shoelim/shoelim.github.io/blob/master/notes/Heavy_Tail_Phenomena_in_Effective_Models_of_Brownian_Particle_in_Active_Heat_Bath.pdf)
