@@ -8,7 +8,7 @@ My primary research interests are in <font color="blue">mathematical and physics
 
 At a high level, my research is inspired and driven by the following fundamental question: 
 
-<font><i>Given a data set/model, a learning model and a learning algorithm, can we build a principled yet practical framework to *explore* and *exploit* the behavior of the learning model on test data, in various regimes and for various settings? </i></font><br>
+<font><i>Given a data set/model, a learning model and a learning algorithm, can we build a principled yet practical framework to *explore* and *exploit* the behavior of the learning model on test data, in various regimes and for various settings? </i></font>
 
 More concretely, some central themes related to the above question that I am investigating are:<br>
 - Randomness in/of/for robust and reliable machine learning (the "setting")
@@ -16,6 +16,7 @@ More concretely, some central themes related to the above question that I am inv
 - Machine learning through the lens of dynamical systems and statistical mechanics (the "framework")
 <br>
 <br>
+
 *I also maintain a <a href="https://shoelim.github.io/DSxML/">personal journal</a> to keep track of the progress in the research areas that I am interested in.
 <br>
 
