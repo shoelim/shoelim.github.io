@@ -34,8 +34,12 @@ Overfitting](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pd
 
 
 #### Modern ML x Dynamical Systems:
+- [A proposal on machine learning via dynamical systems](https://link.springer.com/article/10.1007/s40304-017-0103-z) (2017)
 - [Stable architectures for deep neural networks](https://iopscience.iop.org/article/10.1088/1361-6420/aa9a90/meta?casa_token=2bPH9NF1atgAAAAA:s1zabUy4XIbdKQ-2y-q6oJDHE2Zmq3ZdtNFC1cmYdXGfEtnrs1UnATuPRlpm8R1Vg3dmNxk) (2017)
+- [Beyond finite layer neural networks: Bridging deep architectures and numerical differential equations](http://proceedings.mlr.press/v80/lu18d.html) (2018)
 - [Neural Ordinary Differential Equations](https://arxiv.org/abs/1806.07366) (2018)
+- [ODE-inspired network design for single image super-resolution](https://openaccess.thecvf.com/content_CVPR_2019/html/He_ODE-Inspired_Network_Design_for_Single_Image_Super-Resolution_CVPR_2019_paper.html) (2019)
+- [Universal Differential Equations for Scientific Machine Learning](https://arxiv.org/abs/2001.04385) (2020)
 
 
 ## Other References
