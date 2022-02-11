@@ -185,6 +185,9 @@ collections:
   sides:
     output: true
     permalink: /:collection/:path/
+  DSxML:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -242,12 +245,12 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-  # _ranDSML
+  # _DSxML
   - scope:
       path: ""
-      type: ranDSML
+      type: DSxML
     values:
-      layout: ranDSML
+      layout: DSxML
       author_profile: true
       share: true
   # _sides
