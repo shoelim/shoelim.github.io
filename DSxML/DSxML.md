@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 ## Notebooks
-TBW <br>
+TBW 
+<br>
 
 
 ## Key Papers
@@ -35,6 +36,7 @@ Overfitting](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pd
 #### Modern ML x Dynamical Systems:
 - [Stable architectures for deep neural networks](https://iopscience.iop.org/article/10.1088/1361-6420/aa9a90/meta?casa_token=2bPH9NF1atgAAAAA:s1zabUy4XIbdKQ-2y-q6oJDHE2Zmq3ZdtNFC1cmYdXGfEtnrs1UnATuPRlpm8R1Vg3dmNxk) (2017)
 - [Neural Ordinary Differential Equations](https://arxiv.org/abs/1806.07366) (2018)
+
 
 ## Other References
 - [Software 2.0](https://karpathy.medium.com/software-2-0-a64152b37c35) (2017)
