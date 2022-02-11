@@ -52,6 +52,8 @@ overfitting](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pd
 - [Wide neural networks of any depth evolve as linear models under gradient descent](https://proceedings.neurips.cc/paper/2019/hash/0d1a9651497a38d8b1c3871c84528bd4-Abstract.html) (2019)
 - [Implicit regularization of discrete gradient dynamics in linear neural networks](https://proceedings.neurips.cc/paper/2019/hash/f39ae9ff3a81f499230c4126e01f421b-Abstract.html) (2019)
 - [High-dimensional dynamics of generalization error in neural networks](https://www.sciencedirect.com/science/article/pii/S0893608020303117) (2020)
+- [Stochasticity of deterministic gradient descent: Large learning rate for multiscale objective function](https://proceedings.neurips.cc//paper/2020/file/1b9a80606d74d3da6db2f1274557e644-Paper.pdf) (2020)
+
 
 
 ## Other References
