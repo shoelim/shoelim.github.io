@@ -64,3 +64,6 @@ overfitting](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pd
 
 ## Other References
 - [Software 2.0](https://karpathy.medium.com/software-2-0-a64152b37c35) (2017)
+- [One model to learn them all](https://arxiv.org/abs/1706.05137) (2017)
+- [Winner's curse? On pace, progress, and empirical rigor](https://openreview.net/forum?id=rJWF0Fywf) (2018)
+
