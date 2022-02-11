@@ -242,6 +242,14 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _ranDSML
+  - scope:
+      path: ""
+      type: ranDSML
+    values:
+      layout: ranDSML
+      author_profile: true
+      share: true
   # _sides
   - scope:
       path: ""
