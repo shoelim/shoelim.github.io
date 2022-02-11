@@ -13,7 +13,7 @@ TBW
 
 
 ## Key Papers
-#### Modern ML x Landmarks:
+### Modern ML x Landmarks:
 - [Learning internal representations by error-propagation](https://apps.dtic.mil/sti/pdfs/ADA164453.pdf) (1986)
 - [Gradient-based learning applied to document recognition](https://ieeexplore.ieee.org/abstract/document/726791) (1998)
 - [Learning Deep Architectures for AI](https://books.google.se/books?hl=en&lr=&id=cq5ewg7FniMC&oi=fnd&pg=PA1&dq=info:pYyS8T9g_kkJ:scholar.google.com&ots=Kpi8QTmpIy&sig=XfG1389bgdNINpRjGy67OReL9_c&redir_esc=y#v=onepage&q&f=false) (2009)
@@ -49,7 +49,7 @@ overfitting](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pd
 - [Learning strange attractors with reservoir systems](https://arxiv.org/abs/2108.05024) (2021)
 - [On Neural Differential Equations](https://arxiv.org/abs/2202.02435) (2022)
 
-#### Exploring Modern ML Using Tools from Dynamical Systems:
+### Exploring Modern ML Using Tools from Dynamical Systems:
 - [Neural Tangent Kernel: Convergence and generalization in neural networks](https://proceedings.neurips.cc/paper/2018/hash/5a4be1fa34e62bb8a6ec6b91d2462f5a-Abstract.html) (2018)
 - [Wide neural networks of any depth evolve as linear models under gradient descent](https://proceedings.neurips.cc/paper/2019/hash/0d1a9651497a38d8b1c3871c84528bd4-Abstract.html) (2019)
 - [Implicit regularization of discrete gradient dynamics in linear neural networks](https://proceedings.neurips.cc/paper/2019/hash/f39ae9ff3a81f499230c4126e01f421b-Abstract.html) (2019)
