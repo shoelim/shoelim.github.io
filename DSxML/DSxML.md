@@ -45,14 +45,19 @@ overfitting](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pd
 - [Universal Differential Equations for scientific machine learning](https://arxiv.org/abs/2001.04385) (2020)
 - [Learning differential equations that are easy to solve](https://arxiv.org/pdf/2007.04504.pdf) (2020)
 - [Momentum Residual Neural Networks](http://proceedings.mlr.press/v139/sander21a/sander21a.pdf) (2021)
+- [Learning strange attractors with reservoir systems](https://arxiv.org/abs/2108.05024) (2021)
 - [On Neural Differential Equations](https://arxiv.org/abs/2202.02435) (2022)
 
 #### Dynamical Systems for Modern ML:
 - [Neural Tangent Kernel: Convergence and generalization in neural networks](https://proceedings.neurips.cc/paper/2018/hash/5a4be1fa34e62bb8a6ec6b91d2462f5a-Abstract.html) (2018)
 - [Wide neural networks of any depth evolve as linear models under gradient descent](https://proceedings.neurips.cc/paper/2019/hash/0d1a9651497a38d8b1c3871c84528bd4-Abstract.html) (2019)
 - [Implicit regularization of discrete gradient dynamics in linear neural networks](https://proceedings.neurips.cc/paper/2019/hash/f39ae9ff3a81f499230c4126e01f421b-Abstract.html) (2019)
+- [Continuous-time models for stochastic optimization algorithms](https://proceedings.neurips.cc/paper/2019/hash/9cd78264cf2cd821ba651485c111a29a-Abstract.html) (2019)
 - [High-dimensional dynamics of generalization error in neural networks](https://www.sciencedirect.com/science/article/pii/S0893608020303117) (2020)
 - [Stochasticity of deterministic gradient descent: Large learning rate for multiscale objective function](https://proceedings.neurips.cc//paper/2020/file/1b9a80606d74d3da6db2f1274557e644-Paper.pdf) (2020)
+- [The heavy-tail phenomenon in SGD](http://proceedings.mlr.press/v139/gurbuzbalaban21a.html) (2021)
+- [SGD in the large: Average-case analysis, asymptotics, and stepsize criticality](https://proceedings.mlr.press/v134/paquette21a.html) (2021)
+
 
 
 
