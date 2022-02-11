@@ -15,6 +15,7 @@ More concretely, some central themes related to the above question that I am inv
 - Implicit regularization and asymptotics in machine learning (the "regime")
 - Machine learning through the lens of dynamical systems and statistical mechanics (the "framework")
 <br>
+<br>
 *I also maintain a <a href="https://shoelim.github.io/DSxML/">personal journal</a> to keep track of the progress in the research areas that I am interested in.
 <br>
 
