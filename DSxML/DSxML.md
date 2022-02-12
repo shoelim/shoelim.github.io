@@ -92,7 +92,7 @@ overfitting](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pd
 - [SciML Scientific Machine Learning Software](https://sciml.ai/roadmap/)
 
 
-## Other References (related articles, blogposts, tutorials, cool stuffs, etc.) 
+## Others (related articles, blogposts, tutorials, cool stuffs, etc.) 
 - [Deep Learning: Our Miraculous Year 1990-1991](https://people.idsia.ch/~juergen/deep-learning-miraculous-year-1990-1991.html)
 - [Software 2.0](https://karpathy.medium.com/software-2-0-a64152b37c35) (2017)
 - [One model to learn them all](https://arxiv.org/abs/1706.05137) (2017)
