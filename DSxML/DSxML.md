@@ -10,7 +10,7 @@ redirect_from:
 ## Personal Notebooks
 Personal perspective of modern ML: 
 
-**Deep learning can be viewed as an optimal control problem (solved using gradient descent based algorithms on top of some randomization tricks for a chosen objective) for randomly initialized dynamical systems (deep architectures) interacting with a noisy environment (large amount of possibly poor-quality data)**.
+**Deep learning can be viewed as an optimal control problem (solved, for a proper objective, using gradient descent based algorithms on top of some randomization tricks) for randomly initialized dynamical systems (deep architectures) interacting with a noisy environment (large amount of possibly poor-quality data)**.
 <br>
 
 
