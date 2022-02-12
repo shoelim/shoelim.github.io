@@ -28,7 +28,6 @@ overfitting](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pd
 - [Deep residual learning for image recognition](https://openaccess.thecvf.com/content_cvpr_2016/html/He_Deep_Residual_Learning_CVPR_2016_paper.html) (2016)
 - [Generative Adversarial Nets](https://proceedings.neurips.cc/paper/2014/hash/5ca3e9b122f61f8f06494c97b1afccf3-Abstract.html) (2014)
 - [Batch normalization: accelerating deep network training by reducing internal covariate shift](https://arxiv.org/abs/1502.03167) (2015)
-- [Deep Learning](https://www.deeplearningbook.org/) (2016)
 - [Attention is all you need](https://proceedings.neurips.cc/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html) (2017)
 - [On large-batch training for deep learning: generalization gap and sharp minima](https://arxiv.org/abs/1609.04836) (2017)
 - [Super-convergence: very fast training of neural networks using large learning rates](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11006/1100612/Super-convergence--very-fast-training-of-neural-networks-using/10.1117/12.2520589.full?SSO=1) (2019)
@@ -72,6 +71,7 @@ overfitting](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pd
 ## Review Papers/Monographs/Textbooks/Lecture Notes
 - [The Elements of Statistical Learning](https://link.springer.com/book/10.1007/978-3-319-31089-3) (2009)
 - [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/w~shais/UnderstandingMachineLearning/) (2014)
+- [Deep Learning](https://www.deeplearningbook.org/) (2016)
 - [Brownian Motion, Martingales, and Stochastic Calculus](https://link.springer.com/book/10.1007/978-3-319-31089-3) (2016)
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) (2019)
 - [Dive Into Deep Learning](https://d2l.ai/)
