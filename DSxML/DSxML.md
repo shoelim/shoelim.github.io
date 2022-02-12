@@ -71,7 +71,8 @@ overfitting](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pd
 - [Dynamical Systems and Machine Learning](https://www.math.pku.edu.cn/amel/docs/20200719122925684287.pdf) (2021)
 - [The Principles of Deep Learning Theory](https://arxiv.org/abs/2106.10165) (2021)
 - [Dive Into Deep Learning](https://d2l.ai/)
-- [NYU Deep Learning Course, Spring 2020](https://atcold.github.io/pytorch-Deep-Learning/)
+- [Deep Learning (NYU), Spring 2020](https://atcold.github.io/pytorch-Deep-Learning/)
+- [Foundations of Deep Learning (Maryland), Fall 2020)](http://www.cs.umd.edu/class/fall2020/cmsc828W/index.html)
 
 
 ## Softwares
