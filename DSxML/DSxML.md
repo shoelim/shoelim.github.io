@@ -68,14 +68,19 @@ overfitting](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pd
 ## Review Papers/Monographs/Textbooks/Lecture Notes
 - [Dynamical Systems and Machine Learning](https://www.math.pku.edu.cn/amel/docs/20200719122925684287.pdf) (2021)
 - [The Principles of Deep Learning Theory](https://arxiv.org/abs/2106.10165) (2021)
+- [Dive Into Deep Learning](https://d2l.ai/)
 
 
 ## Softwares
+- [PyTorch](https://pytorch.org/)
+- [Jax](https://github.com/google/jax)
 - [SciML Scientific Machine Learning Software](https://sciml.ai/roadmap/)
 
 
-## Other References (articles, blogposts, tutorials, etc.) 
+## Other References (articles, blogposts, tutorials, cool stuffs, etc.) 
 - [Software 2.0](https://karpathy.medium.com/software-2-0-a64152b37c35) (2017)
 - [One model to learn them all](https://arxiv.org/abs/1706.05137) (2017)
 - [Winner's curse? On pace, progress, and empirical rigor](https://openreview.net/forum?id=rJWF0Fywf) (2018)
-
+- [AI Summer](https://theaisummer.com/) 
+- [Teach Yourself Computer Science](https://teachyourselfcs.com/)
+- [Tesla AI](https://www.tesla.com/AI)
