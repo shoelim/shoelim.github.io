@@ -1,6 +1,6 @@
 ---
 #layout: archive
-title: "Topics at the Interface of Dynamical Systems and Modern ML"
+title: "Modern Machine Learning, Dynamical Systems, and All That"
 permalink: /DSxML/
 author_profile: true
 redirect_from:
