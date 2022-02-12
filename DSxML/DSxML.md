@@ -33,7 +33,6 @@ overfitting](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pd
 - [On large-batch training for deep learning: generalization gap and sharp minima](https://arxiv.org/abs/1609.04836) (2017)
 - [Understanding deep learning requires rethinking generalization](https://dl.acm.org/doi/abs/10.1145/3446776) (2017, 2021)
 
-
 ### Using DS to Improve ML:
 - [FractalNet: Ultra-deep neural networks without residuals](https://arxiv.org/abs/1605.07648) (2016)
 - [A proposal on machine learning via dynamical systems](https://link.springer.com/article/10.1007/s40304-017-0103-z) (2017)
@@ -51,7 +50,6 @@ overfitting](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pd
 - [Learning strange attractors with reservoir systems](https://arxiv.org/abs/2108.05024) (2021)
 - [On Neural Differential Equations](https://arxiv.org/abs/2202.02435) (2022)
 
-
 ### Using DS to Understand Modern ML:
 - [Neural Tangent Kernel: Convergence and generalization in neural networks](https://proceedings.neurips.cc/paper/2018/hash/5a4be1fa34e62bb8a6ec6b91d2462f5a-Abstract.html) (2018)
 - [Wide neural networks of any depth evolve as linear models under gradient descent](https://proceedings.neurips.cc/paper/2019/hash/0d1a9651497a38d8b1c3871c84528bd4-Abstract.html) (2019)
@@ -61,7 +59,6 @@ overfitting](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pd
 - [Stochasticity of deterministic gradient descent: Large learning rate for multiscale objective function](https://proceedings.neurips.cc//paper/2020/file/1b9a80606d74d3da6db2f1274557e644-Paper.pdf) (2020)
 - [The heavy-tail phenomenon in SGD](http://proceedings.mlr.press/v139/gurbuzbalaban21a.html) (2021)
 - [SGD in the large: Average-case analysis, asymptotics, and stepsize criticality](https://proceedings.mlr.press/v134/paquette21a.html) (2021)
-
 
 ### Using ML to Study DS:
 - [PDE-Net: Learning PDEs from data](http://proceedings.mlr.press/v80/long18a.html?ref=https://githubhelp.com)
@@ -76,6 +73,7 @@ overfitting](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pd
 - [Foundations of Deep Learning (Maryland), Fall 2020](http://www.cs.umd.edu/class/fall2020/cmsc828W/index.html)
 - [Dynamical Systems and Machine Learning](https://www.math.pku.edu.cn/amel/docs/20200719122925684287.pdf) (2021)
 - [The Principles of Deep Learning Theory](https://arxiv.org/abs/2106.10165) (2021)
+- [Rough Path Theory (ETH), Spring 2021](https://metaphor.ethz.ch/x/2021/fs/401-4611-21L/#recordings)
 
 
 ## Softwares
