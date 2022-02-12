@@ -1,6 +1,6 @@
 ---
 #layout: archive
-title: "Machine Learning (ML), Dynamical Systems (DS), and All That"
+title: "Machine Learning, Dynamical Systems, and All That"
 permalink: /DSxML/
 author_profile: true
 redirect_from:
