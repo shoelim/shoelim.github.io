@@ -89,6 +89,7 @@ overfitting](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pd
 - [Winner's curse? On pace, progress, and empirical rigor](https://openreview.net/forum?id=rJWF0Fywf) (2018)
 - [The Dawning of a New Era in Applied Mathematics](https://www.ams.org/journals/notices/202104/rnoti-p565.pdf) (2021)
 - [AI Summer](https://theaisummer.com/) 
+- [Full Stack Deep Learning](https://fullstackdeeplearning.com/spring2021/)
 - [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/)
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 - [Tesla AI](https://www.tesla.com/AI)
