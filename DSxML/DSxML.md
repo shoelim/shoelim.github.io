@@ -93,6 +93,7 @@ overfitting](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pd
 - [AI Summer](https://theaisummer.com/) 
 - [Full Stack Deep Learning](https://fullstackdeeplearning.com/spring2021/)
 - [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/)
+- [Sebastian Raschka's Resources](https://sebastianraschka.com/resources/)
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 - [Tesla AI](https://www.tesla.com/AI)
 
