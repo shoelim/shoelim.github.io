@@ -10,7 +10,7 @@ redirect_from:
 ## Personal Notebooks
 Personal perspective of modern ML: 
 
-**Deep learning is some kind of optimal control problem** (with the control parameters optimized, for a proper objective, using gradient descent based algorithms on top of some randomization tricks) **for randomly initialized dynamical systems** (deep architectures) **interacting with a noisy environment** (large amount of possibly poor-quality data)**, with the hope that the solution found can be applied successfully to new environments** (test data, possibly of poor quality)**.**
+**Deep learning is some kind of optimal control problem** (with the control parameters optimized, for a proper objective, using gradient descent based algorithms on top of some randomization tricks) **for randomly initialized dynamical systems** (deep architectures) **interacting with a noisy environment** (large amount of possibly noisy data)**, with the hope that the solution found can be applied successfully to new environments** (test data, possibly poor-quality)**.**
 <br>
 
 
