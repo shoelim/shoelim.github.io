@@ -66,6 +66,7 @@ overfitting](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pd
 - [Scaling properties of deep residual networks](https://arxiv.org/abs/2105.12245) (2021)
 - [The future is log-Gaussian: ResNets and their infinite-depth-and-width limit at initialization](https://arxiv.org/pdf/2106.04013.pdf) (2021)
 - [The high-dimensional asymptotics of first order methods with random data](https://arxiv.org/abs/2112.07572) (2021)
+- [Phase diagram of SGD in high-dimensional two-layer neural networks](https://arxiv.org/abs/2202.00293) (2022)
 
 
 ### Using ML to Study DS:
@@ -74,13 +75,14 @@ overfitting](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pd
 - [An end-to-end deep learning approach for extracting stochastic dynamical systems with α-stable Levy noise](https://arxiv.org/pdf/2201.13114.pdf) (2022)
 
 
-## Review Papers/Monographs/Textbooks/Lecture Notes
+## Related Review Papers/Monographs/Textbooks/Lecture Notes
 - [Dynamical Systems and Numerical Analysis](https://books.google.se/books?hl=en&lr=&id=ymoQA8s5pNIC&oi=fnd&pg=PR11&dq=dynamical+systems+and+numerical+analysis&ots=TYk2JZiNVG&sig=0mCqPchp17JHceSdTerWUMjjAhE&redir_esc=y#v=onepage&q=dynamical%20systems%20and%20numerical%20analysis&f=false) (1996)
 - [The Elements of Statistical Learning](https://link.springer.com/book/10.1007/978-3-319-31089-3) (2009)
 - [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/w~shais/UnderstandingMachineLearning/) (2014)
 - [Deep Learning](https://www.deeplearningbook.org/) (2016)
 - [Brownian Motion, Martingales, and Stochastic Calculus](https://link.springer.com/book/10.1007/978-3-319-31089-3) (2016)
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) (2019)
+- [Machine learning and the physical sciences](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.91.045002) (2019)
 - [Dive Into Deep Learning](https://d2l.ai/)
 - [Deep Learning (NYU), Spring 2020](https://atcold.github.io/pytorch-Deep-Learning/)
 - [Foundations of Deep Learning (Maryland), Fall 2020](http://www.cs.umd.edu/class/fall2020/cmsc828W/index.html)
