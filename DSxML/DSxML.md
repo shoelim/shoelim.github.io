@@ -67,6 +67,7 @@ overfitting](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pd
 
 ## Review Papers/Monographs/Textbooks/Lecture Notes
 - [Dynamical Systems and Machine Learning](https://www.math.pku.edu.cn/amel/docs/20200719122925684287.pdf) (2021)
+- [The Principles of Deep Learning Theory](https://arxiv.org/abs/2106.10165) (2021)
 
 
 ## Softwares
