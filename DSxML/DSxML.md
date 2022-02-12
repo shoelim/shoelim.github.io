@@ -65,6 +65,7 @@ overfitting](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pd
 - [SGD in the large: Average-case analysis, asymptotics, and stepsize criticality](https://proceedings.mlr.press/v134/paquette21a.html) (2021)
 - [Scaling properties of deep residual networks](https://arxiv.org/abs/2105.12245) (2021)
 - [The future is log-Gaussian: ResNets and their infinite-depth-and-width limit at initialization](https://arxiv.org/pdf/2106.04013.pdf) (2021)
+- [The high-dimensional asymptotics of first order methods with random data](https://arxiv.org/abs/2112.07572) (2021)
 
 
 ### Using ML to Study DS:
@@ -88,6 +89,8 @@ overfitting](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pd
 - [Towards a Mathematical Understanding of Neural Network-Based Machine Learning: what we know and what we don't](https://arxiv.org/abs/2009.10713) (2020)
 - [Dynamical Systems and Machine Learning](https://www.math.pku.edu.cn/amel/docs/20200719122925684287.pdf) (2021)
 - [The Principles of Deep Learning Theory](https://arxiv.org/abs/2106.10165) (2021)
+- [Deep learning: A statistical viewpoint](https://www.cambridge.org/core/journals/acta-numerica/article/deep-learning-a-statistical-viewpoint/7BCB89D860CEDDD5726088FAD64F2A5A) (2021)
+- [Fit without fear: Remarkable mathematical phenomena of deep learning through the prism of interpolation](https://www.cambridge.org/core/journals/acta-numerica/article/fit-without-fear-remarkable-mathematical-phenomena-of-deep-learning-through-the-prism-of-interpolation/DBAC769EB7F4DBA5C4720932C2826014) (2021)
 - [Rough Path Theory (ETH), Spring 2021](https://metaphor.ethz.ch/x/2021/fs/401-4611-21L/#recordings)
 - [Nonlinear Dynamics (Georgia Tech), Spring 2022](https://chaosbook.org/course1/about.html) 
 
@@ -103,6 +106,7 @@ overfitting](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pd
 - [Software 2.0](https://karpathy.medium.com/software-2-0-a64152b37c35) (2017)
 - [One model to learn them all](https://arxiv.org/abs/1706.05137) (2017)
 - [Winner's curse? On pace, progress, and empirical rigor](https://openreview.net/forum?id=rJWF0Fywf) (2018)
+- [The science of deep learning](https://www.pnas.org/content/117/48/30029) (2020)
 - [The Dawning of a New Era in Applied Mathematics](https://www.ams.org/journals/notices/202104/rnoti-p565.pdf) (2021)
 - [AI Summer](https://theaisummer.com/) 
 - [Full Stack Deep Learning](https://fullstackdeeplearning.com/spring2021/)
