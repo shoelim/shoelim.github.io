@@ -120,7 +120,6 @@ overfitting](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pd
 
 ## Others (related articles, blogposts, tutorials, cool stuffs, etc.) 
 - [Deep Learning: Our Miraculous Year 1990-1991](https://people.idsia.ch/~juergen/deep-learning-miraculous-year-1990-1991.html)
-- [Software 2.0](https://karpathy.medium.com/software-2-0-a64152b37c35) (2017)
 - [One model to learn them all](https://arxiv.org/abs/1706.05137) (2017)
 - [Winner's curse? On pace, progress, and empirical rigor](https://openreview.net/forum?id=rJWF0Fywf) (2018)
 - [The science of deep learning](https://www.pnas.org/content/117/48/30029) (2020)
@@ -131,5 +130,6 @@ overfitting](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pd
 - [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/)
 - [Sebastian Raschka's Resources](https://sebastianraschka.com/resources/)
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
+- [Software 2.0](https://karpathy.medium.com/software-2-0-a64152b37c35) (see also [here](https://www.youtube.com/watch?v=y57wwucbXR8))
 - [Tesla AI](https://www.tesla.com/AI)
 
