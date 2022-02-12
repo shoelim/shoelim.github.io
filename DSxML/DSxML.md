@@ -31,6 +31,7 @@ overfitting](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pd
 - [Deep Learning](https://www.deeplearningbook.org/) (2016)
 - [Attention is all you need](https://proceedings.neurips.cc/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html) (2017)
 - [On large-batch training for deep learning: generalization gap and sharp minima](https://arxiv.org/abs/1609.04836) (2017)
+- [Super-convergence: very fast training of neural networks using large learning rates](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11006/1100612/Super-convergence--very-fast-training-of-neural-networks-using/10.1117/12.2520589.full?SSO=1) (2019)
 - [Understanding deep learning requires rethinking generalization](https://dl.acm.org/doi/abs/10.1145/3446776) (2017, 2021)
 
 ### Using DS to Improve ML:
