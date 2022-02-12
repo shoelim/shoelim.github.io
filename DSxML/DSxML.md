@@ -61,7 +61,8 @@ overfitting](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pd
 
 
 ### Using Modern ML to Study Dynamical Systems:
-- [Universal Differential Equations for scientific machine learning](https://arxiv.org/abs/2001.04385) (2020)
+- [Universal Differential Equations for Scientific Machine Learning](https://arxiv.org/abs/2001.04385) (2020)
+- [An end-to-end deep learning approach for extracting stochastic dynamical systems with α-stable Levy noise](https://arxiv.org/pdf/2201.13114.pdf) (2022)
 
 
 ## Review Papers/Monographs/Textbooks/Lecture Notes
