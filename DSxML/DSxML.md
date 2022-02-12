@@ -58,11 +58,13 @@ overfitting](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pd
 - [Wide neural networks of any depth evolve as linear models under gradient descent](https://proceedings.neurips.cc/paper/2019/hash/0d1a9651497a38d8b1c3871c84528bd4-Abstract.html) (2019)
 - [Implicit regularization of discrete gradient dynamics in linear neural networks](https://proceedings.neurips.cc/paper/2019/hash/f39ae9ff3a81f499230c4126e01f421b-Abstract.html) (2019)
 - [Continuous-time models for stochastic optimization algorithms](https://proceedings.neurips.cc/paper/2019/hash/9cd78264cf2cd821ba651485c111a29a-Abstract.html) (2019)
+- [Finite depth and width corrections to the Neural Tangent Kernel](https://arxiv.org/abs/1909.05989) (2019)
 - [High-dimensional dynamics of generalization error in neural networks](https://www.sciencedirect.com/science/article/pii/S0893608020303117) (2020)
 - [Stochasticity of deterministic gradient descent: Large learning rate for multiscale objective function](https://proceedings.neurips.cc//paper/2020/file/1b9a80606d74d3da6db2f1274557e644-Paper.pdf) (2020)
 - [The heavy-tail phenomenon in SGD](http://proceedings.mlr.press/v139/gurbuzbalaban21a.html) (2021)
 - [SGD in the large: Average-case analysis, asymptotics, and stepsize criticality](https://proceedings.mlr.press/v134/paquette21a.html) (2021)
 - [Scaling properties of deep residual networks](https://arxiv.org/abs/2105.12245) (2021)
+- [The future is log-Gaussian: ResNets and their infinite-depth-and-width limit at initialization](https://arxiv.org/pdf/2106.04013.pdf) (2021)
 
 
 ### Using ML to Study DS:
