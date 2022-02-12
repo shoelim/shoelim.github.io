@@ -14,7 +14,7 @@ News
 - __September 2022:__ Invited talk at the [Third Symposium on Machine Learning and Dynamical Systems](https://sites.google.com/site/boumedienehamzi/home/third-symposium-on-machine-learning-and-dynamical-systems), Fields Institute
 - __March 2022:__ Invited talk at the Dynamical Systems seminar at University of Exeter
 - __January 2022:__ One accepted paper at [ICLR 2022](https://openreview.net/forum?id=vJb4I2ANmy)
-- __November 2021:__ One awarded [starting grant](https://www.vr.se/english/applying-for-funding/calls/2020-11-10-starting-grant-within-natural-and-engineering-sciences.html), under the category of "Computational Mathematics, Data Science, and Statistics" 
+- __November 2021:__ One awarded [starting grant](https://www.vr.se/english/applying-for-funding/calls/2020-11-10-starting-grant-within-natural-and-engineering-sciences.html) for the project "Randomness in Dynamical Systems and Machine Learning", under the category of "Computational Mathematics, Data Science, and Statistics" 
 - __September 2021:__ One accepted paper at [NeurIPS 2021](https://openreview.net/forum?id=mf9XiRCEgZu) (watch the video summary [here](https://www.youtube.com/watch?v=1uvZCJIUGDI)) 
 - __September 2021:__ Contributed presentation at the [On Future Synergies for Stochastic and Learning Algorithms](https://conferences.cirm-math.fr/2389.html) at CIRM, Marseille  
 - __August 2021:__ Invited talk at the [Conference on Mathematics of Machine Learning](https://www.mis.mpg.de/calendar/conferences/2021/mml2021.html) at the ZiF, Bielefeld University
