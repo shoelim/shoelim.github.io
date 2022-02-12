@@ -33,6 +33,7 @@ overfitting](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pd
 - [Batch normalization: accelerating deep network training by reducing internal covariate shift](https://arxiv.org/abs/1502.03167) (2015)
 - [Attention is all you need](https://proceedings.neurips.cc/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html) (2017)
 - [On large-batch training for deep learning: generalization gap and sharp minima](https://arxiv.org/abs/1609.04836) (2017)
+- [Towards deep learning models resistant to adversarial attacks](https://arxiv.org/abs/1706.06083) (2017)
 - [Super-convergence: very fast training of neural networks using large learning rates](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11006/1100612/Super-convergence--very-fast-training-of-neural-networks-using/10.1117/12.2520589.full?SSO=1) (2019)
 - [Reconciling modern machine-learning practice and the classical bias–variance trade-off](https://www.pnas.org/content/116/32/15849.short) (2019)
 - [Language models are few-shot learners](https://arxiv.org/abs/2005.14165) (2020)
