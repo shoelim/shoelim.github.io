@@ -1,6 +1,6 @@
 ---
 #layout: archive
-title: "Machine Learning, Dynamical Systems, and All That"
+title: "Machine Learning (ML), Dynamical Systems (DS), and All That"
 permalink: /DSxML/
 author_profile: true
 redirect_from:
@@ -34,7 +34,7 @@ overfitting](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pd
 - [Understanding deep learning requires rethinking generalization](https://dl.acm.org/doi/abs/10.1145/3446776) (2017, 2021)
 
 
-### Using Dynamical Systems to Improve ML:
+### Using DS to Improve ML:
 - [A proposal on machine learning via dynamical systems](https://link.springer.com/article/10.1007/s40304-017-0103-z) (2017)
 - [Stable architectures for deep neural networks](https://iopscience.iop.org/article/10.1088/1361-6420/aa9a90/meta?casa_token=2bPH9NF1atgAAAAA:s1zabUy4XIbdKQ-2y-q6oJDHE2Zmq3ZdtNFC1cmYdXGfEtnrs1UnATuPRlpm8R1Vg3dmNxk) (2017)
 - [The reversible residual network: Backpropagation without storing activations](https://proceedings.neurips.cc/paper/2017/hash/f9be311e65d81a9ad8150a60844bb94c-Abstract.html) (2017)
@@ -49,7 +49,7 @@ overfitting](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pd
 - [On Neural Differential Equations](https://arxiv.org/abs/2202.02435) (2022)
 
 
-### Using Dynamical Systems to Understand Modern ML:
+### Using DS to Understand Modern ML:
 - [Neural Tangent Kernel: Convergence and generalization in neural networks](https://proceedings.neurips.cc/paper/2018/hash/5a4be1fa34e62bb8a6ec6b91d2462f5a-Abstract.html) (2018)
 - [Wide neural networks of any depth evolve as linear models under gradient descent](https://proceedings.neurips.cc/paper/2019/hash/0d1a9651497a38d8b1c3871c84528bd4-Abstract.html) (2019)
 - [Implicit regularization of discrete gradient dynamics in linear neural networks](https://proceedings.neurips.cc/paper/2019/hash/f39ae9ff3a81f499230c4126e01f421b-Abstract.html) (2019)
@@ -60,7 +60,7 @@ overfitting](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pd
 - [SGD in the large: Average-case analysis, asymptotics, and stepsize criticality](https://proceedings.mlr.press/v134/paquette21a.html) (2021)
 
 
-### Using ML to Study Dynamical Systems:
+### Using ML to Study DS:
 - [Universal Differential Equations for Scientific Machine Learning](https://arxiv.org/abs/2001.04385) (2020)
 - [An end-to-end deep learning approach for extracting stochastic dynamical systems with α-stable Levy noise](https://arxiv.org/pdf/2201.13114.pdf) (2022)
 
