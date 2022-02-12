@@ -15,6 +15,7 @@ TBW
 ## Key Papers
 ### Modern ML x Landmarks:
 - [Learning internal representations by error-propagation](https://apps.dtic.mil/sti/pdfs/ADA164453.pdf) (1986)
+- [A theoretical framework for back-propagation](http://yann.lecun.com/exdb/publis/pdf/lecun-88.pdf) (1988)
 - [Gradient-based learning applied to document recognition](https://ieeexplore.ieee.org/abstract/document/726791) (1998)
 - [Learning Deep Architectures for AI](https://books.google.se/books?hl=en&lr=&id=cq5ewg7FniMC&oi=fnd&pg=PA1&dq=info:pYyS8T9g_kkJ:scholar.google.com&ots=Kpi8QTmpIy&sig=XfG1389bgdNINpRjGy67OReL9_c&redir_esc=y#v=onepage&q&f=false) (2009)
 - [Understanding the difficulty of training deep feedforward neural networks](http://proceedings.mlr.press/v9/glorot10a) (2010)
