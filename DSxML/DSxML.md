@@ -1,6 +1,6 @@
 ---
 #layout: archive
-title: "Modern Machine Learning, Dynamical Systems, and All That"
+title: "Machine Learning, Dynamical Systems, and All That"
 permalink: /DSxML/
 author_profile: true
 redirect_from:
@@ -60,7 +60,7 @@ overfitting](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pd
 - [SGD in the large: Average-case analysis, asymptotics, and stepsize criticality](https://proceedings.mlr.press/v134/paquette21a.html) (2021)
 
 
-### Using Modern ML to Study Dynamical Systems:
+### Using ML to Study Dynamical Systems:
 - [Universal Differential Equations for Scientific Machine Learning](https://arxiv.org/abs/2001.04385) (2020)
 - [An end-to-end deep learning approach for extracting stochastic dynamical systems with α-stable Levy noise](https://arxiv.org/pdf/2201.13114.pdf) (2022)
 
