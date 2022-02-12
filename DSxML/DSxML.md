@@ -7,7 +7,7 @@ redirect_from:
   - /DSxML
 ---
 
-## Exploratory Notebooks
+## Personal Notebooks
 TBW 
 <br>
 
