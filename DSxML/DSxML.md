@@ -87,7 +87,9 @@ overfitting](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pd
 - [Software 2.0](https://karpathy.medium.com/software-2-0-a64152b37c35) (2017)
 - [One model to learn them all](https://arxiv.org/abs/1706.05137) (2017)
 - [Winner's curse? On pace, progress, and empirical rigor](https://openreview.net/forum?id=rJWF0Fywf) (2018)
+- [The Dawning of a New Era in Applied Mathematics](https://www.ams.org/journals/notices/202104/rnoti-p565.pdf) (2021)
 - [AI Summer](https://theaisummer.com/) 
 - [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/)
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 - [Tesla AI](https://www.tesla.com/AI)
+
