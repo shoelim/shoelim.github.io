@@ -72,6 +72,7 @@ overfitting](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pd
 ### Using ML to Study DS:
 - [PDE-Net: Learning PDEs from data](http://proceedings.mlr.press/v80/long18a.html?ref=https://githubhelp.com) (2017)
 - [Universal Differential Equations for Scientific Machine Learning](https://arxiv.org/abs/2001.04385) (2020)
+- [Bridging physics-based and data-driven modeling for learning dynamical systems](https://proceedings.mlr.press/v144/wang21a.html) (2021)
 - [An end-to-end deep learning approach for extracting stochastic dynamical systems with α-stable Levy noise](https://arxiv.org/pdf/2201.13114.pdf) (2022)
 - Physics-informed neural networks, data-driven discovery of complex systems using neural networks, solving/simulating differential equations using neural networks, integrating ML with physics-based modeling, etc. (too many to list here)
 
