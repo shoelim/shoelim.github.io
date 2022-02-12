@@ -10,7 +10,7 @@ redirect_from:
 ## Personal Notebooks
 Personal perspective of modern ML: 
 
-**Deep learning can be viewed as an optimal control problem (solved, for a proper objective, using gradient descent based algorithms on top of some randomization tricks) for randomly initialized dynamical systems (deep architectures) interacting with a noisy environment (large amount of possibly poor-quality data), with the hope that the dynamical system solution can be applied successfully to new environments (test data)**.
+**Deep learning can be viewed as an optimal control problem (solved, for a proper objective, using gradient descent based algorithms on top of some randomization tricks) for randomly initialized dynamical systems (deep architectures) interacting with a noisy environment (large amount of possibly poor-quality data), with the hope that the solution can be applied successfully to new environments (test data)**.
 <br>
 
 
@@ -34,6 +34,9 @@ overfitting](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pd
 - [Attention is all you need](https://proceedings.neurips.cc/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html) (2017)
 - [On large-batch training for deep learning: generalization gap and sharp minima](https://arxiv.org/abs/1609.04836) (2017)
 - [Super-convergence: very fast training of neural networks using large learning rates](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11006/1100612/Super-convergence--very-fast-training-of-neural-networks-using/10.1117/12.2520589.full?SSO=1) (2019)
+- [Reconciling modern machine-learning practice and the classical bias–variance trade-off](https://www.pnas.org/content/116/32/15849.short) (2019)
+- [Language models are few-shot learners](https://arxiv.org/abs/2005.14165) (2020)
+- [Hopfield networks is all you need](https://arxiv.org/abs/2008.02217) (2020)
 - [Understanding deep learning requires rethinking generalization](https://dl.acm.org/doi/abs/10.1145/3446776) (2017, 2021)
 
 ### Using DS to Improve ML:
@@ -58,6 +61,7 @@ overfitting](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pd
 
 ### Using DS to Understand Modern ML:
 - [Neural Tangent Kernel: Convergence and generalization in neural networks](https://proceedings.neurips.cc/paper/2018/hash/5a4be1fa34e62bb8a6ec6b91d2462f5a-Abstract.html) (2018)
+- [A mean-field optimal control formulation of deep learning](https://arxiv.org/abs/1807.01083) (2018)
 - [Wide neural networks of any depth evolve as linear models under gradient descent](https://proceedings.neurips.cc/paper/2019/hash/0d1a9651497a38d8b1c3871c84528bd4-Abstract.html) (2019)
 - [Implicit regularization of discrete gradient dynamics in linear neural networks](https://proceedings.neurips.cc/paper/2019/hash/f39ae9ff3a81f499230c4126e01f421b-Abstract.html) (2019)
 - [Continuous-time models for stochastic optimization algorithms](https://proceedings.neurips.cc/paper/2019/hash/9cd78264cf2cd821ba651485c111a29a-Abstract.html) (2019)
@@ -65,6 +69,7 @@ overfitting](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pd
 - [High-dimensional dynamics of generalization error in neural networks](https://www.sciencedirect.com/science/article/pii/S0893608020303117) (2020)
 - [Stochasticity of deterministic gradient descent: Large learning rate for multiscale objective function](https://proceedings.neurips.cc//paper/2020/file/1b9a80606d74d3da6db2f1274557e644-Paper.pdf) (2020)
 - [The heavy-tail phenomenon in SGD](http://proceedings.mlr.press/v139/gurbuzbalaban21a.html) (2021)
+- [Gradient descent on neural networks typically occurs at the edge of stability](https://arxiv.org/abs/2103.00065) (2021)
 - [SGD in the large: Average-case analysis, asymptotics, and stepsize criticality](https://proceedings.mlr.press/v134/paquette21a.html) (2021)
 - [Scaling properties of deep residual networks](https://arxiv.org/abs/2105.12245) (2021)
 - [The future is log-Gaussian: ResNets and their infinite-depth-and-width limit at initialization](https://arxiv.org/pdf/2106.04013.pdf) (2021)
@@ -87,6 +92,7 @@ overfitting](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pd
 - [Deep Learning](https://www.deeplearningbook.org/) (2016)
 - [Brownian Motion, Martingales, and Stochastic Calculus](https://link.springer.com/book/10.1007/978-3-319-31089-3) (2016)
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) (2019)
+- [Statistical mechanics of deep learning](https://www.annualreviews.org/doi/abs/10.1146/annurev-conmatphys-031119-050745) (2019)
 - [Machine learning and the physical sciences](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.91.045002) (2019)
 - [Dive Into Deep Learning](https://d2l.ai/)
 - [Deep Learning (NYU), Spring 2020](https://atcold.github.io/pytorch-Deep-Learning/)
@@ -102,7 +108,7 @@ overfitting](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pd
 - [Fit without fear: Remarkable mathematical phenomena of deep learning through the prism of interpolation](https://www.cambridge.org/core/journals/acta-numerica/article/fit-without-fear-remarkable-mathematical-phenomena-of-deep-learning-through-the-prism-of-interpolation/DBAC769EB7F4DBA5C4720932C2826014) (2021)
 - [Rough Path Theory (ETH), Spring 2021](https://metaphor.ethz.ch/x/2021/fs/401-4611-21L/#recordings)
 - [Nonlinear Dynamics (Georgia Tech), Spring 2022](https://chaosbook.org/course1/about.html) 
-
+- [Probabilistic Machine Learning](https://probml.github.io/pml-book/) (2022)
 
 ## Softwares/Libraries
 - [PyTorch](https://pytorch.org/)
