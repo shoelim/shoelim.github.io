@@ -44,6 +44,7 @@ overfitting](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pd
 - [ODE-inspired network design for single image super-resolution](https://openaccess.thecvf.com/content_CVPR_2019/html/He_ODE-Inspired_Network_Design_for_Single_Image_Super-Resolution_CVPR_2019_paper.html) (2019)
 - [Invertible Residual Networks](https://proceedings.mlr.press/v97/behrmann19a.html) (2019)
 - [Learning differential equations that are easy to solve](https://arxiv.org/pdf/2007.04504.pdf) (2020)
+- [Score-based generative modeling through stochastic differential equations](https://arxiv.org/abs/2011.13456) (2020)
 - [Momentum Residual Neural Networks](http://proceedings.mlr.press/v139/sander21a/sander21a.pdf) (2021)
 - [Learning strange attractors with reservoir systems](https://arxiv.org/abs/2108.05024) (2021)
 - [On Neural Differential Equations](https://arxiv.org/abs/2202.02435) (2022)
