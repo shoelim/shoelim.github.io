@@ -62,6 +62,8 @@ overfitting](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pd
 - [Stochasticity of deterministic gradient descent: Large learning rate for multiscale objective function](https://proceedings.neurips.cc//paper/2020/file/1b9a80606d74d3da6db2f1274557e644-Paper.pdf) (2020)
 - [The heavy-tail phenomenon in SGD](http://proceedings.mlr.press/v139/gurbuzbalaban21a.html) (2021)
 - [SGD in the large: Average-case analysis, asymptotics, and stepsize criticality](https://proceedings.mlr.press/v134/paquette21a.html) (2021)
+- [Scaling properties of deep residual networks](https://arxiv.org/abs/2105.12245) (2021)
+
 
 ### Using ML to Study DS:
 - [PDE-Net: Learning PDEs from data](http://proceedings.mlr.press/v80/long18a.html?ref=https://githubhelp.com) (2017)
