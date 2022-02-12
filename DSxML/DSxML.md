@@ -34,7 +34,7 @@ overfitting](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pd
 - [Understanding deep learning requires rethinking generalization](https://dl.acm.org/doi/abs/10.1145/3446776) (2017, 2021)
 
 
-#### Exploiting Dynamical Systems for Improving Modern ML:
+### Exploiting Dynamical Systems for Improving Modern ML:
 - [A proposal on machine learning via dynamical systems](https://link.springer.com/article/10.1007/s40304-017-0103-z) (2017)
 - [Stable architectures for deep neural networks](https://iopscience.iop.org/article/10.1088/1361-6420/aa9a90/meta?casa_token=2bPH9NF1atgAAAAA:s1zabUy4XIbdKQ-2y-q6oJDHE2Zmq3ZdtNFC1cmYdXGfEtnrs1UnATuPRlpm8R1Vg3dmNxk) (2017)
 - [The reversible residual network: Backpropagation without storing activations](https://proceedings.neurips.cc/paper/2017/hash/f9be311e65d81a9ad8150a60844bb94c-Abstract.html) (2017)
