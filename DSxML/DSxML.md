@@ -114,7 +114,7 @@ overfitting](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pd
 
 ## Softwares/Libraries
 - [PyTorch](https://pytorch.org/)
-- [Jax](https://github.com/google/jax)
+- [Jax](https://jax.readthedocs.io/en/latest/)
 - [SciML Scientific Machine Learning Software](https://sciml.ai/roadmap/)
 
 
