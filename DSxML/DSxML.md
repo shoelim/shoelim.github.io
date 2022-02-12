@@ -10,7 +10,7 @@ redirect_from:
 ## Personal Notebooks
 Personal perspective of modern ML: 
 
-**Deep learning can be viewed as an optimal control problem (solved using gradient descent based algorithms) for dynamical systems (deep architectures) interacting with a noisy environment (data)**.
+**Deep learning can be viewed as an optimal control problem (solved using gradient descent based algorithms on top of some randomization tricks) for randomly initialized dynamical systems (deep architectures) interacting with a noisy environment (large amount of possibly poor-quality data)**.
 <br>
 
 
@@ -94,6 +94,7 @@ overfitting](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pd
 - [Machine Learning, Dynamical Systems and Control](http://databookuw.com/)
 - [Deep Learning Theory Review: An Optimal Control and Dynamical Systems Perspective](https://arxiv.org/abs/1908.10920) (2019)
 - [Towards a Mathematical Understanding of Neural Network-Based Machine Learning: what we know and what we don't](https://arxiv.org/abs/2009.10713) (2020)
+- [Theoretical issues in deep networks](https://www.pnas.org/content/117/48/30039) (2020)
 - [Patterns, predictions, and actions: A story about machine learning](https://mlstory.org/) (2021)
 - [Dynamical Systems and Machine Learning](https://www.math.pku.edu.cn/amel/docs/20200719122925684287.pdf) (2021)
 - [The Principles of Deep Learning Theory](https://arxiv.org/abs/2106.10165) (2021)
