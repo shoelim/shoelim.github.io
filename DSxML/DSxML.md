@@ -86,7 +86,7 @@ overfitting](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pd
 - [Nonlinear Dynamics (Georgia Tech), Spring 2022](https://chaosbook.org/course1/about.html) 
 
 
-## Softwares
+## Softwares/Libraries
 - [PyTorch](https://pytorch.org/)
 - [Jax](https://github.com/google/jax)
 - [SciML Scientific Machine Learning Software](https://sciml.ai/roadmap/)
