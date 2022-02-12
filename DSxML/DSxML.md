@@ -112,6 +112,7 @@ overfitting](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pd
 - [Rough Path Theory (ETH), Spring 2021](https://metaphor.ethz.ch/x/2021/fs/401-4611-21L/#recordings)
 - [Nonlinear Dynamics (Georgia Tech), Spring 2022](https://chaosbook.org/course1/about.html) 
 - [Probabilistic Machine Learning](https://probml.github.io/pml-book/) (2022)
+- [Parallel Computing and Scientific Machine Learning (MIT)](https://mitmath.github.io/18337/) 
 
 ## Softwares/Libraries
 - [PyTorch](https://pytorch.org/)
