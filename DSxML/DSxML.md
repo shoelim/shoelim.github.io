@@ -34,7 +34,7 @@ overfitting](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pd
 - [Understanding deep learning requires rethinking generalization](https://dl.acm.org/doi/abs/10.1145/3446776) (2017, 2021)
 
 
-### Exploiting Dynamical Systems for Improving Modern ML:
+### Using Dynamical Systems to Improve ML:
 - [A proposal on machine learning via dynamical systems](https://link.springer.com/article/10.1007/s40304-017-0103-z) (2017)
 - [Stable architectures for deep neural networks](https://iopscience.iop.org/article/10.1088/1361-6420/aa9a90/meta?casa_token=2bPH9NF1atgAAAAA:s1zabUy4XIbdKQ-2y-q6oJDHE2Zmq3ZdtNFC1cmYdXGfEtnrs1UnATuPRlpm8R1Vg3dmNxk) (2017)
 - [The reversible residual network: Backpropagation without storing activations](https://proceedings.neurips.cc/paper/2017/hash/f9be311e65d81a9ad8150a60844bb94c-Abstract.html) (2017)
@@ -43,13 +43,13 @@ overfitting](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pd
 - [Neural Ordinary Differential Equations](https://arxiv.org/abs/1806.07366) (2018)
 - [ODE-inspired network design for single image super-resolution](https://openaccess.thecvf.com/content_CVPR_2019/html/He_ODE-Inspired_Network_Design_for_Single_Image_Super-Resolution_CVPR_2019_paper.html) (2019)
 - [Invertible Residual Networks](https://proceedings.mlr.press/v97/behrmann19a.html) (2019)
-- [Universal Differential Equations for scientific machine learning](https://arxiv.org/abs/2001.04385) (2020)
 - [Learning differential equations that are easy to solve](https://arxiv.org/pdf/2007.04504.pdf) (2020)
 - [Momentum Residual Neural Networks](http://proceedings.mlr.press/v139/sander21a/sander21a.pdf) (2021)
 - [Learning strange attractors with reservoir systems](https://arxiv.org/abs/2108.05024) (2021)
 - [On Neural Differential Equations](https://arxiv.org/abs/2202.02435) (2022)
 
-### Exploring Modern ML Using Tools from Dynamical Systems:
+
+### Using Dynamical Systems to Understand Modern ML:
 - [Neural Tangent Kernel: Convergence and generalization in neural networks](https://proceedings.neurips.cc/paper/2018/hash/5a4be1fa34e62bb8a6ec6b91d2462f5a-Abstract.html) (2018)
 - [Wide neural networks of any depth evolve as linear models under gradient descent](https://proceedings.neurips.cc/paper/2019/hash/0d1a9651497a38d8b1c3871c84528bd4-Abstract.html) (2019)
 - [Implicit regularization of discrete gradient dynamics in linear neural networks](https://proceedings.neurips.cc/paper/2019/hash/f39ae9ff3a81f499230c4126e01f421b-Abstract.html) (2019)
@@ -60,9 +60,19 @@ overfitting](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pd
 - [SGD in the large: Average-case analysis, asymptotics, and stepsize criticality](https://proceedings.mlr.press/v134/paquette21a.html) (2021)
 
 
+### Using Modern ML to Study Dynamical Systems:
+- [Universal Differential Equations for scientific machine learning](https://arxiv.org/abs/2001.04385) (2020)
 
 
-## Other References
+## Review Papers/Monographs/Textbooks/Lecture Notes
+- [Dynamical Systems and Machine Learning](https://www.math.pku.edu.cn/amel/docs/20200719122925684287.pdf) (2021)
+
+
+## Softwares
+- [SciML Scientific Machine Learning Software](https://sciml.ai/roadmap/)
+
+
+## Other References (blogposts, articles, tutorials, etc.) 
 - [Software 2.0](https://karpathy.medium.com/software-2-0-a64152b37c35) (2017)
 - [One model to learn them all](https://arxiv.org/abs/1706.05137) (2017)
 - [Winner's curse? On pace, progress, and empirical rigor](https://openreview.net/forum?id=rJWF0Fywf) (2018)
