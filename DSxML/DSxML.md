@@ -117,6 +117,7 @@ overfitting](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pd
 - [Parallel Computing and Scientific Machine Learning (MIT)](https://mitmath.github.io/18337/) 
 
 ## Softwares/Libraries
+- [TensorFlow](https://www.tensorflow.org/)
 - [PyTorch](https://pytorch.org/)
 - [Jax](https://jax.readthedocs.io/en/latest/)
 - [SciML Scientific Machine Learning Software](https://sciml.ai/roadmap/)
