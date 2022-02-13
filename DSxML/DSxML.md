@@ -87,6 +87,8 @@ overfitting](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pd
 
 ## Related Review Papers/Monographs/Textbooks/Lecture Notes
 - [Dynamical Systems and Numerical Analysis](https://books.google.se/books?hl=en&lr=&id=ymoQA8s5pNIC&oi=fnd&pg=PR11&dq=dynamical+systems+and+numerical+analysis&ots=TYk2JZiNVG&sig=0mCqPchp17JHceSdTerWUMjjAhE&redir_esc=y#v=onepage&q=dynamical%20systems%20and%20numerical%20analysis&f=false) (1996)
+- [Information Theory, Inference, and Learning Algorithms](http://www.inference.org.uk/mackay/itila/book.html) (2003)
+- [Information, Physics, and Computation](https://web.stanford.edu/~montanar/RESEARCH/book.html) (2009) 
 - [The Elements of Statistical Learning](https://link.springer.com/book/10.1007/978-3-319-31089-3) (2009)
 - [Probability and Stochastics](https://link.springer.com/book/10.1007/978-0-387-87859-1) (2011)
 - [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/w~shais/UnderstandingMachineLearning/) (2014)
