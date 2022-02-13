@@ -107,6 +107,7 @@ overfitting](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pd
 - [Towards a Mathematical Understanding of Neural Network-Based Machine Learning: what we know and what we don't](https://arxiv.org/abs/2009.10713) (2020)
 - [Theoretical issues in deep networks](https://www.pnas.org/content/117/48/30039) (2020)
 - [Mathematics for Machine Learning](https://mml-book.github.io/) (2020)
+- [An Introduction to the Numerical Simulation of Stochastic Differential Equations](https://www.amazon.com/Introduction-Numerical-Simulation-Stochastic-Differential/dp/1611976421) (2021)
 - [Patterns, predictions, and actions: A story about machine learning](https://mlstory.org/) (2021)
 - [Foundations of Deep Learning (Maryland), Fall 2021](http://www.cs.umd.edu/class/fall2021/cmsc828W/)
 - [Dynamical Systems and Machine Learning](https://www.math.pku.edu.cn/amel/docs/20200719122925684287.pdf) (2021)
