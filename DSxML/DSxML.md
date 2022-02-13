@@ -119,7 +119,7 @@ overfitting](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pd
 ## Softwares/Libraries
 - [TensorFlow](https://www.tensorflow.org/)
 - [PyTorch](https://pytorch.org/)
-- [Jax](https://jax.readthedocs.io/en/latest/)
+- [JAX](https://jax.readthedocs.io/en/latest/)
 - [SciML Scientific Machine Learning Software](https://sciml.ai/roadmap/)
 
 
@@ -134,6 +134,7 @@ overfitting](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pd
 - [Physics-based Deep Learning](https://physicsbaseddeeplearning.org/intro.html)
 - [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/)
 - [Sebastian Raschka's Resources](https://sebastianraschka.com/resources/)
+- [Differential Programming with JAX](https://ericmjl.github.io/dl-workshop/)
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 - [Software 2.0](https://karpathy.medium.com/software-2-0-a64152b37c35) (see also [here](https://www.youtube.com/watch?v=y57wwucbXR8))
 - [Tesla AI](https://www.tesla.com/AI)
