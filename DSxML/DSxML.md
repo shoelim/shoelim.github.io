@@ -14,11 +14,12 @@ Personal take on modern ML:
 <br>
 
 
-## Key Papers
-### Modern ML x Landmarks:
+## Selected Papers
+### Modern ML x Must-Read:
 - [Learning internal representations by error-propagation](https://apps.dtic.mil/sti/pdfs/ADA164453.pdf) (1986)
 - [A theoretical framework for back-propagation](http://yann.lecun.com/exdb/publis/pdf/lecun-88.pdf) (1988)
 - [Gradient-based learning applied to document recognition](https://ieeexplore.ieee.org/abstract/document/726791) (1998)
+- [Random features for large-scale kernel machines](https://papers.nips.cc/paper/2007/hash/013a006f03dbc5392effeb8f18fda755-Abstract.html) (2007)
 - [Learning Deep Architectures for AI](https://books.google.se/books?hl=en&lr=&id=cq5ewg7FniMC&oi=fnd&pg=PA1&dq=info:pYyS8T9g_kkJ:scholar.google.com&ots=Kpi8QTmpIy&sig=XfG1389bgdNINpRjGy67OReL9_c&redir_esc=y#v=onepage&q&f=false) (2009)
 - [Understanding the difficulty of training deep feedforward neural networks](http://proceedings.mlr.press/v9/glorot10a) (2010)
 - [ImageNet classification with deep convolutional neural networks](https://proceedings.neurips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html) (2012)
