@@ -18,10 +18,12 @@ More concretely, some central themes related to the above question that I am inv
 <br>
 <br>
 
-*I also maintain a <a href="https://shoelim.github.io/DSxML/">personal journal</a> to keep track of the progress in the research areas that I am interested in.
 <br>
 
+
 <!-- Some more specific research projects are: <br>
+
+*I also maintain a <a href="https://shoelim.github.io/DSxML/">personal journal</a> to keep track of the progress in the research areas that I am interested in.
 
 <img src="principle.png" width="280" height="280" style="float:right">
 
