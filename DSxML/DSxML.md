@@ -144,6 +144,7 @@ overfitting](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pd
 - [The Dawning of a New Era in Applied Mathematics](https://www.ams.org/journals/notices/202104/rnoti-p565.pdf) (2021)
 - [AI Summer](https://theaisummer.com/) 
 - [Full Stack Deep Learning](https://fullstackdeeplearning.com/spring2021/)
+- [Machine Learning Systems Design](https://stanford-cs329s.github.io/syllabus.html)
 - [Physics-based Deep Learning](https://physicsbaseddeeplearning.org/intro.html)
 - [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/)
 - [Sebastian Raschka's Resources](https://sebastianraschka.com/resources/)
