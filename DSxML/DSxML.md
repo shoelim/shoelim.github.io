@@ -76,6 +76,7 @@ overfitting](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pd
 - [The future is log-Gaussian: ResNets and their infinite-depth-and-width limit at initialization](https://arxiv.org/pdf/2106.04013.pdf) (2021)
 - [The high-dimensional asymptotics of first order methods with random data](https://arxiv.org/abs/2112.07572) (2021)
 - [Phase diagram of SGD in high-dimensional two-layer neural networks](https://arxiv.org/abs/2202.00293) (2022)
+- [Continuous-time stochastic gradient descent for optimizing over the stationary distribution of stochastic differential equations](https://arxiv.org/abs/2202.06637) (2022)
 
 
 ### Using ML to Study DS:
