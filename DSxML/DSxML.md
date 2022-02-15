@@ -87,6 +87,8 @@ overfitting](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pd
 
 ### Other Papers:
 - [Probabilistic supervised learning](https://arxiv.org/pdf/1801.00753.pdf) (2019)
+- [Fourier Neural Operator for Parametric Partial Differential Equations](https://arxiv.org/abs/2010.08895) (2020)
+- [Neural Operator: Learning Maps Between Function Spaces](https://arxiv.org/abs/2108.08481) (2021)
 - [How Data Augmentation affects Optimization for Linear Regression](https://arxiv.org/pdf/2010.11171.pdf) (2021)
 - [Fractal Structure and Generalization Properties of Stochastic Optimization Algorithms](https://proceedings.neurips.cc/paper/2021/file/9bdb8b1faffa4b3d41779bb495d79fb9-Paper.pdf) (2021)
 - [The curse of overparametrization in adversarial training: Precise analysis of robust generalization for random features regression](https://arxiv.org/pdf/2201.05149.pdf) (2022)
