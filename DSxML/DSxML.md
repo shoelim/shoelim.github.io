@@ -86,6 +86,7 @@ overfitting](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pd
 - Physics-informed neural networks, data-driven discovery of complex systems using neural networks, solving/simulating differential equations using neural networks, integrating ML with physics-based modeling, etc. (too many to list here)
 
 ### Other Noteworthy Papers:
+- [The Loss Surfaces of Multilayer Networks](https://arxiv.org/abs/1412.0233) (2014)
 - [Visualizing the Loss Landscape of Neural Nets](https://arxiv.org/abs/1712.09913) (2017)
 - [Probabilistic supervised learning](https://arxiv.org/pdf/1801.00753.pdf) (2019)
 - [Fourier Neural Operator for Parametric Partial Differential Equations](https://arxiv.org/abs/2010.08895) (2020)
