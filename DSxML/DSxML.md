@@ -78,13 +78,22 @@ overfitting](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pd
 - [Phase diagram of SGD in high-dimensional two-layer neural networks](https://arxiv.org/abs/2202.00293) (2022)
 - [Continuous-time stochastic gradient descent for optimizing over the stationary distribution of stochastic differential equations](https://arxiv.org/abs/2202.06637) (2022)
 
-
 ### Using ML to Study DS:
 - [PDE-Net: Learning PDEs from data](http://proceedings.mlr.press/v80/long18a.html?ref=https://githubhelp.com) (2017)
 - [Universal Differential Equations for Scientific Machine Learning](https://arxiv.org/abs/2001.04385) (2020)
 - [Bridging physics-based and data-driven modeling for learning dynamical systems](https://proceedings.mlr.press/v144/wang21a.html) (2021)
 - [An end-to-end deep learning approach for extracting stochastic dynamical systems with α-stable Levy noise](https://arxiv.org/pdf/2201.13114.pdf) (2022)
 - Physics-informed neural networks, data-driven discovery of complex systems using neural networks, solving/simulating differential equations using neural networks, integrating ML with physics-based modeling, etc. (too many to list here)
+
+### Others:
+- [How Data Augmentation affects Optimization for Linear Regression](https://arxiv.org/pdf/2010.11171.pdf) (2021)
+- [Fractal Structure and Generalization Properties of Stochastic Optimization Algorithms](https://proceedings.neurips.cc/paper/2021/file/9bdb8b1faffa4b3d41779bb495d79fb9-Paper.pdf) (2021)
+- [Improving generalization via uncertainty driven perturbations](https://arxiv.org/abs/2202.05737) (2022)
+- [Benign Overfitting without Linearity: Neural Network Classifiers Trained by Gradient Descent for Noisy Linear Data](https://arxiv.org/abs/2202.05928) (2022)
+- [Learning from Randomly Initialized Neural Network Features](https://arxiv.org/abs/2202.06438) (2022)
+- [How to Learn when Data Reacts to Your Model: Performative Gradient Descent](https://arxiv.org/pdf/2102.07698.pdf) (2022)
+- [Kernel Methods and Multi-layer Perceptrons Learn Linear Models in High Dimensions](https://arxiv.org/pdf/2201.08082.pdf) (2022)
+- [How Do Vision Transformers Work?](https://arxiv.org/abs/2202.06709) (2022)
 
 
 ## Related Review Papers/Monographs/Textbooks/Lecture Notes
