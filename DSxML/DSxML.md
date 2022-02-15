@@ -85,7 +85,8 @@ overfitting](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pd
 - [An end-to-end deep learning approach for extracting stochastic dynamical systems with α-stable Levy noise](https://arxiv.org/pdf/2201.13114.pdf) (2022)
 - Physics-informed neural networks, data-driven discovery of complex systems using neural networks, solving/simulating differential equations using neural networks, integrating ML with physics-based modeling, etc. (too many to list here)
 
-### Other Papers:
+### Other Noteworthy Papers:
+- [Visualizing the Loss Landscape of Neural Nets](https://arxiv.org/abs/1712.09913) (2017)
 - [Probabilistic supervised learning](https://arxiv.org/pdf/1801.00753.pdf) (2019)
 - [Fourier Neural Operator for Parametric Partial Differential Equations](https://arxiv.org/abs/2010.08895) (2020)
 - [Neural Operator: Learning Maps Between Function Spaces](https://arxiv.org/abs/2108.08481) (2021)
