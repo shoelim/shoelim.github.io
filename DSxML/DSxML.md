@@ -147,6 +147,7 @@ overfitting](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pd
 - [Physics-based Deep Learning](https://physicsbaseddeeplearning.org/intro.html)
 - [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/)
 - [Sebastian Raschka's Resources](https://sebastianraschka.com/resources/)
+- [ML-University](https://github.com/d0r1h/ML-University#machine-learning)
 - [Differential Programming with JAX](https://ericmjl.github.io/dl-workshop/)
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 - [Software 2.0](https://karpathy.medium.com/software-2-0-a64152b37c35) (see also [here](https://www.youtube.com/watch?v=y57wwucbXR8))
