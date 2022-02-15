@@ -89,11 +89,13 @@ overfitting](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pd
 - [Probabilistic supervised learning](https://arxiv.org/pdf/1801.00753.pdf) (2019)
 - [How Data Augmentation affects Optimization for Linear Regression](https://arxiv.org/pdf/2010.11171.pdf) (2021)
 - [Fractal Structure and Generalization Properties of Stochastic Optimization Algorithms](https://proceedings.neurips.cc/paper/2021/file/9bdb8b1faffa4b3d41779bb495d79fb9-Paper.pdf) (2021)
+- [The curse of overparametrization in adversarial training: Precise analysis of robust generalization for random features regression](https://arxiv.org/pdf/2201.05149.pdf) (2022)
 - [Improving generalization via uncertainty driven perturbations](https://arxiv.org/abs/2202.05737) (2022)
 - [Benign Overfitting without Linearity: Neural Network Classifiers Trained by Gradient Descent for Noisy Linear Data](https://arxiv.org/abs/2202.05928) (2022)
 - [Learning from Randomly Initialized Neural Network Features](https://arxiv.org/abs/2202.06438) (2022)
 - [How to Learn when Data Reacts to Your Model: Performative Gradient Descent](https://arxiv.org/pdf/2102.07698.pdf) (2022)
 - [Kernel Methods and Multi-layer Perceptrons Learn Linear Models in High Dimensions](https://arxiv.org/pdf/2201.08082.pdf) (2022)
+- [Anticorrelated Noise Injection for Improved Generalization](https://arxiv.org/abs/2202.02831) (2022)
 - [How Do Vision Transformers Work?](https://arxiv.org/abs/2202.06709) (2022)
 
 
