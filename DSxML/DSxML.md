@@ -85,7 +85,7 @@ overfitting](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pd
 - [An end-to-end deep learning approach for extracting stochastic dynamical systems with α-stable Levy noise](https://arxiv.org/pdf/2201.13114.pdf) (2022)
 - Physics-informed neural networks, data-driven discovery of complex systems using neural networks, solving/simulating differential equations using neural networks, integrating ML with physics-based modeling, etc. (too many to list here)
 
-### Others:
+### Other Papers:
 - [How Data Augmentation affects Optimization for Linear Regression](https://arxiv.org/pdf/2010.11171.pdf) (2021)
 - [Fractal Structure and Generalization Properties of Stochastic Optimization Algorithms](https://proceedings.neurips.cc/paper/2021/file/9bdb8b1faffa4b3d41779bb495d79fb9-Paper.pdf) (2021)
 - [Improving generalization via uncertainty driven perturbations](https://arxiv.org/abs/2202.05737) (2022)
