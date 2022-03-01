@@ -18,7 +18,7 @@ redirect_from:
 {% endfor %}
  -->
 
-The following is a list of papers (sorted by themes/topics) that my collaborators and I have worked on (up to year 2021). A full list of up-to-date preprints/tech reports and publications is available on [Google Scholar](https://scholar.google.com/citations?user=ufTqvyoAAAAJ&hl=en&authuser=2). <br>
+The following is a list of papers (sorted by themes/topics) that my collaborators and I have worked on (up to year 2021). A full list of up-to-date preprints/techical reports and publications is available on [Google Scholar](https://scholar.google.com/citations?user=ufTqvyoAAAAJ&hl=en&authuser=2). <br>
 
 (1) [Randomness, machine learning and open dynamical systems](https://shoelim.github.io/portfolio/portfolio-1/)
 - Soon Hoe Lim,  N. Benjamin Erichson, Francisco Utrera, Winnie Xu, and Michael W. Mahoney. Noisy Feature Mixup. <i>Preprint </i> (2021) [<a href="https://arxiv.org/abs/2110.02180">link</a>] (accepted in [ICLR 2022](https://openreview.net/forum?id=vJb4I2ANmy))
