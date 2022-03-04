@@ -32,9 +32,12 @@ overfitting](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pd
 - [Deep residual learning for image recognition](https://openaccess.thecvf.com/content_cvpr_2016/html/He_Deep_Residual_Learning_CVPR_2016_paper.html) (2016)
 - [Generative Adversarial Nets](https://proceedings.neurips.cc/paper/2014/hash/5ca3e9b122f61f8f06494c97b1afccf3-Abstract.html) (2014)
 - [Batch normalization: accelerating deep network training by reducing internal covariate shift](https://arxiv.org/abs/1502.03167) (2015)
+- [Train faster, generalize better: Stability of stochastic gradient descent](https://arxiv.org/pdf/1509.01240.pdf) (2016) 
 - [Attention is all you need](https://proceedings.neurips.cc/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html) (2017)
 - [On large-batch training for deep learning: generalization gap and sharp minima](https://arxiv.org/abs/1609.04836) (2017)
 - [Towards deep learning models resistant to adversarial attacks](https://arxiv.org/abs/1706.06083) (2017)
+- [Train longer, generalize better: closing the generalization gap in large batch training of neural
+networks](https://arxiv.org/pdf/1705.08741.pdf) (2018)
 - [Super-convergence: very fast training of neural networks using large learning rates](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11006/1100612/Super-convergence--very-fast-training-of-neural-networks-using/10.1117/12.2520589.full?SSO=1) (2019)
 - [Reconciling modern machine-learning practice and the classical bias–variance trade-off](https://www.pnas.org/content/116/32/15849.short) (2019)
 - [Language models are few-shot learners](https://arxiv.org/abs/2005.14165) (2020)
@@ -69,12 +72,14 @@ overfitting](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pd
 - [Finite depth and width corrections to the Neural Tangent Kernel](https://arxiv.org/abs/1909.05989) (2019)
 - [High-dimensional dynamics of generalization error in neural networks](https://www.sciencedirect.com/science/article/pii/S0893608020303117) (2020)
 - [Stochasticity of deterministic gradient descent: Large learning rate for multiscale objective function](https://proceedings.neurips.cc//paper/2020/file/1b9a80606d74d3da6db2f1274557e644-Paper.pdf) (2020)
+- [Modeling from Features: a Mean-field Framework for Over-parameterized Deep Neural Networks](https://proceedings.mlr.press/v134/fang21a.html) (2021)
 - [The heavy-tail phenomenon in SGD](http://proceedings.mlr.press/v139/gurbuzbalaban21a.html) (2021)
 - [Gradient descent on neural networks typically occurs at the edge of stability](https://arxiv.org/abs/2103.00065) (2021)
 - [SGD in the large: Average-case analysis, asymptotics, and stepsize criticality](https://proceedings.mlr.press/v134/paquette21a.html) (2021)
 - [Scaling properties of deep residual networks](https://arxiv.org/abs/2105.12245) (2021)
 - [The future is log-Gaussian: ResNets and their infinite-depth-and-width limit at initialization](https://arxiv.org/pdf/2106.04013.pdf) (2021)
 - [The high-dimensional asymptotics of first order methods with random data](https://arxiv.org/abs/2112.07572) (2021)
+- [Interpolation and approximation via Momentum ResNets and Neural ODEs](https://arxiv.org/pdf/2110.08761.pdf) (2021)
 - [Phase diagram of SGD in high-dimensional two-layer neural networks](https://arxiv.org/abs/2202.00293) (2022)
 - [Continuous-time stochastic gradient descent for optimizing over the stationary distribution of stochastic differential equations](https://arxiv.org/abs/2202.06637) (2022)
 
@@ -93,6 +98,7 @@ overfitting](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pd
 - [Neural Operator: Learning Maps Between Function Spaces](https://arxiv.org/abs/2108.08481) (2021)
 - [How Data Augmentation affects Optimization for Linear Regression](https://arxiv.org/pdf/2010.11171.pdf) (2021)
 - [Fractal Structure and Generalization Properties of Stochastic Optimization Algorithms](https://proceedings.neurips.cc/paper/2021/file/9bdb8b1faffa4b3d41779bb495d79fb9-Paper.pdf) (2021)
+- [Gradient Descent on Infinitely Wide Neural Networks: Global Convergence and Generalization](https://arxiv.org/pdf/2110.08084.pdf) (2021)
 - [The curse of overparametrization in adversarial training: Precise analysis of robust generalization for random features regression](https://arxiv.org/pdf/2201.05149.pdf) (2022)
 - [Improving generalization via uncertainty driven perturbations](https://arxiv.org/abs/2202.05737) (2022)
 - [Benign Overfitting without Linearity: Neural Network Classifiers Trained by Gradient Descent for Noisy Linear Data](https://arxiv.org/abs/2202.05928) (2022)
@@ -138,6 +144,7 @@ overfitting](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pd
 - [Parallel Computing and Scientific Machine Learning (MIT)](https://mitmath.github.io/18337/) 
 
 ## Softwares/Libraries
+- [Git](https://git-scm.com/)
 - [TensorFlow](https://www.tensorflow.org/)
 - [PyTorch](https://pytorch.org/)
 - [JAX](https://jax.readthedocs.io/en/latest/)
@@ -150,6 +157,7 @@ overfitting](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pd
 - [Winner's curse? On pace, progress, and empirical rigor](https://openreview.net/forum?id=rJWF0Fywf) (2018)
 - [The science of deep learning](https://www.pnas.org/content/117/48/30029) (2020)
 - [The Dawning of a New Era in Applied Mathematics](https://www.ams.org/journals/notices/202104/rnoti-p565.pdf) (2021)
+- [AI Accelerators](https://medium.com/@adi.fu7/ai-accelerators-part-i-intro-822c2cdb4ca4)
 - [AI Summer](https://theaisummer.com/) 
 - [Full Stack Deep Learning](https://fullstackdeeplearning.com/spring2021/)
 - [Machine Learning Systems Design](https://stanford-cs329s.github.io/syllabus.html)
@@ -161,4 +169,5 @@ overfitting](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pd
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 - [Software 2.0](https://karpathy.medium.com/software-2-0-a64152b37c35) (see also [here](https://www.youtube.com/watch?v=y57wwucbXR8))
 - [Tesla AI](https://www.tesla.com/AI)
+- [Web3 University](https://www.web3.university/)
 
