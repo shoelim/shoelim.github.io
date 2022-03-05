@@ -107,7 +107,7 @@ networks](https://arxiv.org/pdf/1705.08741.pdf) (2018)
 - [Kernel Methods and Multi-layer Perceptrons Learn Linear Models in High Dimensions](https://arxiv.org/pdf/2201.08082.pdf) (2022)
 - [Anticorrelated Noise Injection for Improved Generalization](https://arxiv.org/abs/2202.02831) (2022)
 - [How Do Vision Transformers Work?](https://arxiv.org/abs/2202.06709) (2022)
-
+- [Patches are all you need?](https://openreview.net/pdf?id=TVHS5Y4dNvM) (2022)
 
 ## Related Review Papers/Monographs/Textbooks/Lecture Notes
 - [Solving Ordinary Differential Equations I](https://link.springer.com/book/10.1007/978-3-540-78862-1) (1993)
@@ -169,5 +169,6 @@ networks](https://arxiv.org/pdf/1705.08741.pdf) (2018)
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 - [Software 2.0](https://karpathy.medium.com/software-2-0-a64152b37c35) (see also [here](https://www.youtube.com/watch?v=y57wwucbXR8))
 - [Tesla AI](https://www.tesla.com/AI)
+- [Crypto Reading List](https://jumpcrypto.github.io/crypto-reading-list/)
 - [Web3 University](https://www.web3.university/)
 
