@@ -179,6 +179,5 @@ networks](https://arxiv.org/pdf/1705.08741.pdf) (2018)
 - [Software 2.0](https://karpathy.medium.com/software-2-0-a64152b37c35) (see also [here](https://www.youtube.com/watch?v=y57wwucbXR8))
 - [Hugging Face](https://huggingface.co/)
 - [Tesla AI](https://www.tesla.com/AI)
-- [Crypto Reading List](https://jumpcrypto.github.io/crypto-reading-list/)
 - [Web3 University](https://www.web3.university/)
 
