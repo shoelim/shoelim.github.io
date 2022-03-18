@@ -44,6 +44,17 @@ networks](https://arxiv.org/pdf/1705.08741.pdf) (2018)
 - [Hopfield networks is all you need](https://arxiv.org/abs/2008.02217) (2020)
 - [Understanding deep learning requires rethinking generalization](https://dl.acm.org/doi/abs/10.1145/3446776) (2017, 2021)
 
+
+### Sequence Modeling:
+- [Do RNN and LSTM have Long Memory?](https://arxiv.org/pdf/2006.03860.pdf) (2020)
+- [A Neural Programming Language for the Reservoir Computer](https://arxiv.org/pdf/2203.05032.pdf) (2022) 
+- [Efficient Transformers: A Survey](https://arxiv.org/pdf/2009.06732.pdf) (2022)
+- [HyperMixer: An MLP-based Green AI Alternative to Transformers](https://arxiv.org/pdf/2203.03691.pdf) (2022)
+- [Block-Recurrent Transformers](https://arxiv.org/pdf/2203.07852.pdf) (2022)
+
+### Model Robustness:
+- [Relating Adversarially Robust Generalization to Flat Minima](https://arxiv.org/abs/2104.04448) (2021)
+
 ### Using DS to Improve ML:
 - [FractalNet: Ultra-deep neural networks without residuals](https://arxiv.org/abs/1605.07648) (2016)
 - [A proposal on machine learning via dynamical systems](https://link.springer.com/article/10.1007/s40304-017-0103-z) (2017)
@@ -61,13 +72,17 @@ networks](https://arxiv.org/pdf/1705.08741.pdf) (2018)
 - [Optimizing neural networks via Koopman operator theory](https://proceedings.neurips.cc/paper/2020/hash/169806bb68ccbf5e6f96ddc60c40a044-Abstract.html) (2020)
 - [Momentum Residual Neural Networks](http://proceedings.mlr.press/v139/sander21a/sander21a.pdf) (2021)
 - [Learning strange attractors with reservoir systems](https://arxiv.org/abs/2108.05024) (2021)
+- [MALI: A memory efficient and reverse accurate integrator for Neural ODEs](https://arxiv.org/abs/2102.04668) (2021)
 - [On Neural Differential Equations](https://arxiv.org/abs/2202.02435) (2022)
+- [LyaNet: A Lyapunov Framework for Training Neural ODEs](https://arxiv.org/pdf/2202.02526.pdf) (2022)
 
 ### Using DS to Understand Modern ML:
 - [Neural Tangent Kernel: Convergence and generalization in neural networks](https://proceedings.neurips.cc/paper/2018/hash/5a4be1fa34e62bb8a6ec6b91d2462f5a-Abstract.html) (2018)
 - [A mean-field optimal control formulation of deep learning](https://arxiv.org/abs/1807.01083) (2018)
 - [Wide neural networks of any depth evolve as linear models under gradient descent](https://proceedings.neurips.cc/paper/2019/hash/0d1a9651497a38d8b1c3871c84528bd4-Abstract.html) (2019)
 - [Implicit regularization of discrete gradient dynamics in linear neural networks](https://proceedings.neurips.cc/paper/2019/hash/f39ae9ff3a81f499230c4126e01f421b-Abstract.html) (2019)
+- [Stochastic Modified Equations and Dynamics of Stochastic
+Gradient Algorithms I: Mathematical Foundations](https://www.jmlr.org/papers/volume20/17-526/17-526.pdf) (2019)
 - [Continuous-time models for stochastic optimization algorithms](https://proceedings.neurips.cc/paper/2019/hash/9cd78264cf2cd821ba651485c111a29a-Abstract.html) (2019)
 - [Finite depth and width corrections to the Neural Tangent Kernel](https://arxiv.org/abs/1909.05989) (2019)
 - [High-dimensional dynamics of generalization error in neural networks](https://www.sciencedirect.com/science/article/pii/S0893608020303117) (2020)
@@ -82,6 +97,8 @@ networks](https://arxiv.org/pdf/1705.08741.pdf) (2018)
 - [Interpolation and approximation via Momentum ResNets and Neural ODEs](https://arxiv.org/pdf/2110.08761.pdf) (2021)
 - [Phase diagram of SGD in high-dimensional two-layer neural networks](https://arxiv.org/abs/2202.00293) (2022)
 - [Continuous-time stochastic gradient descent for optimizing over the stationary distribution of stochastic differential equations](https://arxiv.org/abs/2202.06637) (2022)
+- [Anti-Oversmoothing in Deep Vision Transformers via the Fourier Domain Analysis: From Theory to Practice
+](https://arxiv.org/abs/2203.05962) (2022)
 
 ### Using ML to Study DS:
 - [PDE-Net: Learning PDEs from data](http://proceedings.mlr.press/v80/long18a.html?ref=https://githubhelp.com) (2017)
@@ -99,6 +116,7 @@ networks](https://arxiv.org/pdf/1705.08741.pdf) (2018)
 - [How Data Augmentation affects Optimization for Linear Regression](https://arxiv.org/pdf/2010.11171.pdf) (2021)
 - [Fractal Structure and Generalization Properties of Stochastic Optimization Algorithms](https://proceedings.neurips.cc/paper/2021/file/9bdb8b1faffa4b3d41779bb495d79fb9-Paper.pdf) (2021)
 - [Gradient Descent on Infinitely Wide Neural Networks: Global Convergence and Generalization](https://arxiv.org/pdf/2110.08084.pdf) (2021)
+- [MLP-Mixer: An all-MLP Architecture for Vision](https://arxiv.org/pdf/2105.01601.pdf) (2021)
 - [The curse of overparametrization in adversarial training: Precise analysis of robust generalization for random features regression](https://arxiv.org/pdf/2201.05149.pdf) (2022)
 - [Improving generalization via uncertainty driven perturbations](https://arxiv.org/abs/2202.05737) (2022)
 - [Benign Overfitting without Linearity: Neural Network Classifiers Trained by Gradient Descent for Noisy Linear Data](https://arxiv.org/abs/2202.05928) (2022)
@@ -156,6 +174,7 @@ networks](https://arxiv.org/pdf/1705.08741.pdf) (2018)
 
 
 ## Others (related articles, blogposts, tutorials, cool stuffs, etc.)
+- [Off the Convex Path](https://www.offconvex.org/)
 - [Almost Sure](https://almostsuremath.com/)
 - [Fabrice Baudoin](https://fabricebaudoin.wordpress.com/)
 - [Terrence Tao](https://terrytao.wordpress.com/)
@@ -177,7 +196,9 @@ networks](https://arxiv.org/pdf/1705.08741.pdf) (2018)
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 - [Software Carpentry](https://software-carpentry.org/lessons/index.html)
 - [Software 2.0](https://karpathy.medium.com/software-2-0-a64152b37c35) (see also [here](https://www.youtube.com/watch?v=y57wwucbXR8))
+- [Green AI](https://arxiv.org/abs/1907.10597)
 - [Hugging Face](https://huggingface.co/)
 - [Tesla AI](https://www.tesla.com/AI)
 - [Web3 University](https://www.web3.university/)
+
 
