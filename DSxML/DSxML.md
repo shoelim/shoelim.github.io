@@ -49,13 +49,9 @@ networks](https://arxiv.org/pdf/1705.08741.pdf) (2018)
 - [Do RNN and LSTM have Long Memory?](https://arxiv.org/pdf/2006.03860.pdf) (2020)
 - [A Neural Programming Language for the Reservoir Computer](https://arxiv.org/pdf/2203.05032.pdf) (2022) 
 - [Efficient Transformers: A Survey](https://arxiv.org/pdf/2009.06732.pdf) (2022)
-- [HyperMixer: An MLP-based Green AI Alternative to Transformers](https://arxiv.org/pdf/2203.03691.pdf) (2022)
 - [Block-Recurrent Transformers](https://arxiv.org/pdf/2203.07852.pdf) (2022)
 
-### Model Robustness:
-- [Relating Adversarially Robust Generalization to Flat Minima](https://arxiv.org/abs/2104.04448) (2021)
-
-### Using DS to Improve ML:
+### Neural Differential Equations and All That:
 - [FractalNet: Ultra-deep neural networks without residuals](https://arxiv.org/abs/1605.07648) (2016)
 - [A proposal on machine learning via dynamical systems](https://link.springer.com/article/10.1007/s40304-017-0103-z) (2017)
 - [Stable architectures for deep neural networks](https://iopscience.iop.org/article/10.1088/1361-6420/aa9a90/meta?casa_token=2bPH9NF1atgAAAAA:s1zabUy4XIbdKQ-2y-q6oJDHE2Zmq3ZdtNFC1cmYdXGfEtnrs1UnATuPRlpm8R1Vg3dmNxk) (2017)
@@ -75,8 +71,9 @@ networks](https://arxiv.org/pdf/1705.08741.pdf) (2018)
 - [MALI: A memory efficient and reverse accurate integrator for Neural ODEs](https://arxiv.org/abs/2102.04668) (2021)
 - [On Neural Differential Equations](https://arxiv.org/abs/2202.02435) (2022)
 - [LyaNet: A Lyapunov Framework for Training Neural ODEs](https://arxiv.org/pdf/2202.02526.pdf) (2022)
+- [HyperMixer: An MLP-based Green AI Alternative to Transformers](https://arxiv.org/pdf/2203.03691.pdf) (2022)
 
-### Using DS to Understand Modern ML:
+### Understanding Modern ML + DS:
 - [Neural Tangent Kernel: Convergence and generalization in neural networks](https://proceedings.neurips.cc/paper/2018/hash/5a4be1fa34e62bb8a6ec6b91d2462f5a-Abstract.html) (2018)
 - [A mean-field optimal control formulation of deep learning](https://arxiv.org/abs/1807.01083) (2018)
 - [Wide neural networks of any depth evolve as linear models under gradient descent](https://proceedings.neurips.cc/paper/2019/hash/0d1a9651497a38d8b1c3871c84528bd4-Abstract.html) (2019)
@@ -106,6 +103,13 @@ Gradient Algorithms I: Mathematical Foundations](https://www.jmlr.org/papers/vol
 - [Bridging physics-based and data-driven modeling for learning dynamical systems](https://proceedings.mlr.press/v144/wang21a.html) (2021)
 - [An end-to-end deep learning approach for extracting stochastic dynamical systems with α-stable Levy noise](https://arxiv.org/pdf/2201.13114.pdf) (2022)
 - Physics-informed neural networks, data-driven discovery of complex systems using neural networks, solving/simulating differential equations using neural networks, integrating ML with physics-based modeling, etc. (too many to list here)
+
+### Model Robustness:
+- [Mixup: Beyond Empirical Risk Minimization](https://arxiv.org/abs/1710.09412) (2017)
+- [Adversarial Examples Are Not Bugs, They Are Features](https://arxiv.org/pdf/1905.02175.pdf) (2019)
+- [Relating Adversarially Robust Generalization to Flat Minima](https://arxiv.org/abs/2104.04448) (2021)
+- [PixMix: Dreamlike Pictures Comprehensively Improve Safety Measures](https://arxiv.org/abs/2112.05135) (2021)
+- [RobustBench](https://robustbench.github.io/)
 
 ### Other Noteworthy Papers:
 - [The Loss Surfaces of Multilayer Networks](https://arxiv.org/abs/1412.0233) (2014)
@@ -200,5 +204,4 @@ Gradient Algorithms I: Mathematical Foundations](https://www.jmlr.org/papers/vol
 - [Hugging Face](https://huggingface.co/)
 - [Tesla AI](https://www.tesla.com/AI)
 - [Web3 University](https://www.web3.university/)
-
 
