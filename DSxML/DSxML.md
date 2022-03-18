@@ -177,7 +177,7 @@ Gradient Algorithms I: Mathematical Foundations](https://www.jmlr.org/papers/vol
 - [SciML Scientific Machine Learning Software](https://sciml.ai/roadmap/)
 
 
-## Others (related articles, blogposts, tutorials, cool stuffs, etc.)
+## Others (related articles/blogposts/tutorials and random cool stuffs)
 - [Off the Convex Path](https://www.offconvex.org/)
 - [Almost Sure](https://almostsuremath.com/)
 - [Fabrice Baudoin](https://fabricebaudoin.wordpress.com/)
