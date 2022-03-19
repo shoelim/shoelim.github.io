@@ -46,7 +46,16 @@ networks](https://arxiv.org/pdf/1705.08741.pdf) (2018)
 
 
 ### Sequence Modeling:
+- [Unitary Evolution Recurrent Neural Networks](https://arxiv.org/abs/1511.06464) (2016)
+- [An empirical evaluation of generic convolutional and recurrent networks for sequence modeling](https://arxiv.org/abs/1803.01271) (2018)
+- [Legendre memory units: Continuous-time representation in recurrent neural networks](https://papers.nips.cc/paper/2019/hash/952285b9b7e7a1be5aa7849f32ffff05-Abstract.html) (2019)
 - [Do RNN and LSTM have Long Memory?](https://arxiv.org/pdf/2006.03860.pdf) (2020)
+- [Long Range Arena: A Benchmark for Efficient Transformers](https://arxiv.org/abs/2011.04006) (2020)
+- [Lipschitz Recurrent Neural Networks](https://arxiv.org/abs/2006.12070) (2021)
+- [UnICORNN: A recurrent model for learning very long time dependencies](https://arxiv.org/pdf/2103.05487v2.pdf) (2021)
+- [Combining Recurrent, Convolutional, and Continuous-time Models with Linear State-Space Layers](https://paperswithcode.com/paper/combining-recurrent-convolutional-and) (2021)
+- [Efficiently Modeling Long Sequences with Structured State Spaces](https://openreview.net/forum?id=uYLFoz1vlAC) (2022)
+- [Long Expressive Memory for Sequence Modeling](https://arxiv.org/pdf/2110.04744v2.pdf) (2022)
 - [A Neural Programming Language for the Reservoir Computer](https://arxiv.org/pdf/2203.05032.pdf) (2022) 
 - [Efficient Transformers: A Survey](https://arxiv.org/pdf/2009.06732.pdf) (2022)
 - [Block-Recurrent Transformers](https://arxiv.org/pdf/2203.07852.pdf) (2022)
@@ -94,8 +103,7 @@ Gradient Algorithms I: Mathematical Foundations](https://www.jmlr.org/papers/vol
 - [Interpolation and approximation via Momentum ResNets and Neural ODEs](https://arxiv.org/pdf/2110.08761.pdf) (2021)
 - [Phase diagram of SGD in high-dimensional two-layer neural networks](https://arxiv.org/abs/2202.00293) (2022)
 - [Continuous-time stochastic gradient descent for optimizing over the stationary distribution of stochastic differential equations](https://arxiv.org/abs/2202.06637) (2022)
-- [Anti-Oversmoothing in Deep Vision Transformers via the Fourier Domain Analysis: From Theory to Practice
-](https://arxiv.org/abs/2203.05962) (2022)
+- [Anti-Oversmoothing in Deep Vision Transformers via the Fourier Domain Analysis: From Theory to Practice](https://arxiv.org/abs/2203.05962) (2022)
 
 ### Using ML to Study DS:
 - [PDE-Net: Learning PDEs from data](http://proceedings.mlr.press/v80/long18a.html?ref=https://githubhelp.com) (2017)
@@ -132,6 +140,9 @@ Gradient Algorithms I: Mathematical Foundations](https://www.jmlr.org/papers/vol
 - [Patches are all you need?](https://openreview.net/pdf?id=TVHS5Y4dNvM) (2022)
 - [Learning by Directional Gradient Descent](https://openreview.net/pdf?id=5i7lJLuhTm) (2022)
 - [Gradients without Backpropagation](https://arxiv.org/pdf/2202.08587.pdf) (2022)
+- [Continuous-Time Meta-Learning with Forward Mode Differentiation](https://arxiv.org/abs/2203.01443) (2022)
+- [Tensor Programs V: Tuning Large Neural Networks via Zero-Shot Hyperparameter Transfer](https://proceedings.neurips.cc/paper/2021/file/8df7c2e3c3c3be098ef7b382bd2c37ba-Paper.pdf) (2022)
+
 
 ## Related Review Papers/Monographs/Textbooks/Lecture Notes
 - [Solving Ordinary Differential Equations I](https://link.springer.com/book/10.1007/978-3-540-78862-1) (1993)
