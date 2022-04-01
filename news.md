@@ -12,7 +12,7 @@ redirect_from:
 News
 =====
 - __September 2022:__ Invited talk at the [Third Symposium on Machine Learning and Dynamical Systems](http://www.fields.utoronto.ca/activities/22-23/3rd-machine-learning), Fields Institute
-- __March 2022:__ One talk at [Applied Machine Learning Days](https://appliedmldays.org/events/amld-epfl-2022/talks/boosting-model-robustness-by-leveraging-data-augmentations-stability-training-and-noise-injections), EPFL
+- __March 2022:__ One talk at the [Applied Machine Learning Days](https://appliedmldays.org/events/amld-epfl-2022/talks/boosting-model-robustness-by-leveraging-data-augmentations-stability-training-and-noise-injections), EPFL
 - __March 2022:__ Invited talk at the Dynamical Systems seminar at University of Exeter
 - __January 2022:__ One accepted paper at [ICLR 2022](https://openreview.net/forum?id=vJb4I2ANmy)
 - __November 2021:__ One awarded [starting grant](https://www.vr.se/english/applying-for-funding/calls/2020-11-10-starting-grant-within-natural-and-engineering-sciences.html), under the category of "Computational Mathematics, Data Science, and Statistics" 
