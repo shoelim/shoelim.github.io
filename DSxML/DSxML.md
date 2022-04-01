@@ -110,6 +110,8 @@ Gradient Algorithms I: Mathematical Foundations](https://www.jmlr.org/papers/vol
 - [Universal Differential Equations for Scientific Machine Learning](https://arxiv.org/abs/2001.04385) (2020)
 - [Bridging physics-based and data-driven modeling for learning dynamical systems](https://proceedings.mlr.press/v144/wang21a.html) (2021)
 - [An end-to-end deep learning approach for extracting stochastic dynamical systems with α-stable Levy noise](https://arxiv.org/pdf/2201.13114.pdf) (2022)
+- [Scientific Machine Learning through Physics-Informed Neural Networks: Where we are and What's next](https://arxiv.org/abs/2201.05624) (2022)
+- [When Physics Meets Machine Learning: A Survey of Physics-Informed Machine Learning](https://arxiv.org/abs/2203.16797) (2022)
 - Physics-informed neural networks, data-driven discovery of complex systems using neural networks, solving/simulating differential equations using neural networks, integrating ML with physics-based modeling, etc. (too many to list here)
 
 ### Model Robustness:
