@@ -7,8 +7,7 @@ redirect_from:
   - /DSxML
 ---
 
-## Personal Notebooks
-Personal take on modern ML: 
+## Personal take on modern ML: 
 
 **Deep learning is some kind of optimal control problem** (with the control parameters optimized, for a proper objective, using gradient descent based algorithms and some randomization tricks) **for randomly initialized open dynamical systems** (deep architectures) **interacting with a noisy environment** (large amount of typically noisy data)**, with the hope that the solution found can be applied successfully to new environments** (test data, possibly poor-quality)**.**
 <br>
