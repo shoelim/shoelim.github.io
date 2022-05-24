@@ -8,7 +8,7 @@ My primary research interests are in <font color="blue">mathematical and physics
 
 Some central themes of interest:<br>
 - Randomness in/of/for robust and reliable machine learning 
-- Implicit regularization in machine learning
+- Implicit regularization and optimization in machine learning
 - Machine learning through the lens of dynamical systems and statistical mechanics
 
 
