@@ -4,24 +4,21 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-My primary research interests are in <font color="blue">mathematical and physics-inspired machine learning</font>, particularly learning with <a href="https://arxiv.org/abs/1312.6199"><font><i>modern</i></font> neural networks</a>. While there is a focus on using foundational/theoretical questions to drive advances in the science and engineering of learning systems, the theory is strongly tied to implementational problems and a wide range of very practical applications.  <br>
+My primary research interests are in <font color="blue">mathematical and physics-inspired machine learning</font>, particularly topics at the interface of random dynamical systems and <a href="https://arxiv.org/abs/1312.6199"><font><i>modern</i></font> neural networks</a>. While there is a focus on using foundational/theoretical questions to drive advances in the science and engineering of learning systems, the theory is strongly tied to implementational problems and a wide range of very practical applications.  <br>
+
+Some central themes of interest:<br>
+- Randomness in/of/for robust and reliable machine learning 
+- Implicit regularization in machine learning
+- Machine learning through the lens of dynamical systems and statistical mechanics
+
+
+<!-- Some more specific research projects are: <br>
+
 
 At a high level, my research is inspired and driven by the following fundamental question: 
 
 <font><i>Given a data set/model, a learning model and a learning algorithm, can we build a principled yet practical framework to *explore* and *exploit* the behavior of the learning model on test data, in various regimes and for various settings? </i></font>
 <br>
-
-More concretely, some central themes related to the above question that I am investigating are:<br>
-- Randomness in/of/for robust and reliable machine learning (the "setting")
-- Implicit regularization in machine learning (the "regime")
-- Machine learning through the lens of dynamical systems and statistical mechanics (the "framework")
-<br>
-<br>
-
-<br>
-
-
-<!-- Some more specific research projects are: <br>
 
 *I also maintain a <a href="https://shoelim.github.io/DSxML/">personal journal</a> to keep track of the progress in the research areas that I am interested in.
 
