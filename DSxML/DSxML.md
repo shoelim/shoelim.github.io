@@ -120,6 +120,17 @@ Gradient Algorithms I: Mathematical Foundations](https://www.jmlr.org/papers/vol
 - [PixMix: Dreamlike Pictures Comprehensively Improve Safety Measures](https://arxiv.org/abs/2112.05135) (2021)
 - [RobustBench](https://robustbench.github.io/)
 
+### Generative Modeling:
+- [Deep Unsupervised Learning using Nonequilibrium Thermodynamics](https://proceedings.mlr.press/v37/sohl-dickstein15.html) (2015)
+- [Pixel Recurrent Neural Networks](https://proceedings.mlr.press/v48/oord16.pdf) (2016)
+- [Denoising Diffusion Probabilistic Models](https://arxiv.org/pdf/2006.11239.pdf) (2020)
+- [Score-Based Generative Modeling through Stochastic Differential Equations](https://arxiv.org/abs/2011.13456) (2020)
+- [Diffusion Models Beat GANs on Image Synthesis](https://proceedings.neurips.cc/paper/2021/hash/49ad23d1ec9fa4bd8d77d02681df5cfa-Abstract.html) (2021)
+- [Deep Generative Learning via Schrödinger Bridge](https://proceedings.mlr.press/v139/wang21l.html) (2021)
+- [Deep Generative Modelling: A Comparative Review of VAEs, GANs, Normalizing Flows, Energy-Based and Autoregressive Models](https://arxiv.org/abs/2103.04922) (2021)
+- [Video Diffusion Models](https://arxiv.org/pdf/2204.03458.pdf) (2022)
+- [Flexible Diffusion Modeling of Long Videos](https://arxiv.org/pdf/2205.11495.pdf) (2022)
+
 ### Other Noteworthy Papers:
 - [The Loss Surfaces of Multilayer Networks](https://arxiv.org/abs/1412.0233) (2014)
 - [Visualizing the Loss Landscape of Neural Nets](https://arxiv.org/abs/1712.09913) (2017)
@@ -143,7 +154,7 @@ Gradient Algorithms I: Mathematical Foundations](https://www.jmlr.org/papers/vol
 - [Gradients without Backpropagation](https://arxiv.org/pdf/2202.08587.pdf) (2022)
 - [Continuous-Time Meta-Learning with Forward Mode Differentiation](https://arxiv.org/abs/2203.01443) (2022)
 - [Tensor Programs V: Tuning Large Neural Networks via Zero-Shot Hyperparameter Transfer](https://proceedings.neurips.cc/paper/2021/file/8df7c2e3c3c3be098ef7b382bd2c37ba-Paper.pdf) (2022)
-
+- [Understanding Gradient Descent on Edge of Stability in Deep Learning](https://arxiv.org/pdf/2205.09745.pdf) (2022)
 
 ## Related Review Papers/Monographs/Textbooks/Lecture Notes
 - [Solving Ordinary Differential Equations I](https://link.springer.com/book/10.1007/978-3-540-78862-1) (1993)
@@ -216,4 +227,3 @@ Gradient Algorithms I: Mathematical Foundations](https://www.jmlr.org/papers/vol
 - [Hugging Face](https://huggingface.co/)
 - [Tesla AI](https://www.tesla.com/AI)
 - [Web3 University](https://www.web3.university/)
-
