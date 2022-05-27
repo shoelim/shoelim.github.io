@@ -12,6 +12,7 @@ redirect_from:
 News
 =====
 - __September 2022:__ Invited talk at the [Third Symposium on Machine Learning and Dynamical Systems](http://www.fields.utoronto.ca/activities/22-23/3rd-machine-learning), Fields Institute
+- __June 2022:__ Started new position as an Assistant Professor at [Nordita](https://www.nordita.org/)
 - __March 2022:__ One talk at the [Applied Machine Learning Days](https://appliedmldays.org/events/amld-epfl-2022/talks/boosting-model-robustness-by-leveraging-data-augmentations-stability-training-and-noise-injections), EPFL (watch the talk [here](https://www.youtube.com/watch?v=p147ueuniKI&list=PLOMUcsGYfYasfTuGmshpDiNCsY16XcayD&index=7))
 - __March 2022:__ Invited talk at the Dynamical Systems seminar at University of Exeter
 - __January 2022:__ One accepted paper at [ICLR 2022](https://openreview.net/forum?id=vJb4I2ANmy)
@@ -28,5 +29,5 @@ News
 - __September 2020:__ Contributed talk at the [Second Symposium on Machine Learning and Dynamical Systems](http://www.fields.utoronto.ca/activities/20-21/dynamical) at the Fields Institute (watch the talk [here](https://www.youtube.com/watch?v=iQ23qaGcFjc))
 <br>
 <br>
-<small>Last updated: March 2022</small>
+<small>Last updated: May 2022</small>
 
