@@ -15,7 +15,7 @@ redirect_from:
 We are organizing a biweekly e-seminar to discuss the state-of-the-art of scientific machine learning this year. Sign up [here](https://scientific-ml.org/) to stay updated! <br>  
 
 
-*I am looking for highly motivated students (bachelor/master) and postdocs to join the group. 
+*If you are a highly motivated student/postdoc interested in cool projects at the interface of dynamical systems and machine learning, please contact me for more details. 
 <br> 
 
 
