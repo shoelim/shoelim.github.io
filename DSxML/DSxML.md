@@ -131,6 +131,13 @@ Gradient Algorithms I: Mathematical Foundations](https://www.jmlr.org/papers/vol
 - [Video Diffusion Models](https://arxiv.org/pdf/2204.03458.pdf) (2022)
 - [Flexible Diffusion Modeling of Long Videos](https://arxiv.org/pdf/2205.11495.pdf) (2022)
 
+### Networks x Dynamical Systems:
+- [Collective dynamics of ‘small-world’ networks](https://www.nature.com/articles/30918) (1998)
+- [Emergence of Scaling in Random Networks](https://www.science.org/doi/10.1126/science.286.5439.509) (1999)
+- [Synchronization in complex networks](https://www.sciencedirect.com/science/article/abs/pii/S0370157308003384) (2008)
+- [Recurrence networks—a novel paradigm for nonlinear time series analysis](https://iopscience.iop.org/article/10.1088/1367-2630/12/3/033025/meta) (2010)
+- [Deep Reservoir Computing](https://link.springer.com/chapter/10.1007/978-981-13-1687-6_4) (2021)
+
 ### Other Noteworthy Papers:
 - [The Loss Surfaces of Multilayer Networks](https://arxiv.org/abs/1412.0233) (2014)
 - [Visualizing the Loss Landscape of Neural Nets](https://arxiv.org/abs/1712.09913) (2017)
