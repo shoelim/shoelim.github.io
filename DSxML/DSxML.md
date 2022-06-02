@@ -58,6 +58,7 @@ networks](https://arxiv.org/pdf/1705.08741.pdf) (2018)
 - [A Neural Programming Language for the Reservoir Computer](https://arxiv.org/pdf/2203.05032.pdf) (2022) 
 - [Efficient Transformers: A Survey](https://arxiv.org/pdf/2009.06732.pdf) (2022)
 - [Block-Recurrent Transformers](https://arxiv.org/pdf/2203.07852.pdf) (2022)
+- [Transformer with Fourier Integral Attentions](https://arxiv.org/abs/2206.00206) (2022)
 
 ### Neural Differential Equations and All That:
 - [FractalNet: Ultra-deep neural networks without residuals](https://arxiv.org/abs/1605.07648) (2016)
@@ -130,6 +131,7 @@ Gradient Algorithms I: Mathematical Foundations](https://www.jmlr.org/papers/vol
 - [Deep Generative Modelling: A Comparative Review of VAEs, GANs, Normalizing Flows, Energy-Based and Autoregressive Models](https://arxiv.org/abs/2103.04922) (2021)
 - [Video Diffusion Models](https://arxiv.org/pdf/2204.03458.pdf) (2022)
 - [Flexible Diffusion Modeling of Long Videos](https://arxiv.org/pdf/2205.11495.pdf) (2022)
+- [A Continuous Time Framework for Discrete Denoising Models](https://arxiv.org/abs/2205.14987) (2022)
 
 ### Networks x Dynamical Systems:
 - [Collective dynamics of ‘small-world’ networks](https://www.nature.com/articles/30918) (1998)
