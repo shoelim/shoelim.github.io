@@ -133,7 +133,7 @@ Gradient Algorithms I: Mathematical Foundations](https://www.jmlr.org/papers/vol
 - [Flexible Diffusion Modeling of Long Videos](https://arxiv.org/pdf/2205.11495.pdf) (2022)
 - [A Continuous Time Framework for Discrete Denoising Models](https://arxiv.org/abs/2205.14987) (2022)
 
-### Networks x Dynamical Systems:
+### Complex Networks x Dynamical Systems:
 - [Collective dynamics of ‘small-world’ networks](https://www.nature.com/articles/30918) (1998)
 - [Emergence of Scaling in Random Networks](https://www.science.org/doi/10.1126/science.286.5439.509) (1999)
 - [Exploring complex networks](https://www.nature.com/articles/35065725) (2001)
