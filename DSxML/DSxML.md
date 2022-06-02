@@ -136,6 +136,7 @@ Gradient Algorithms I: Mathematical Foundations](https://www.jmlr.org/papers/vol
 ### Networks x Dynamical Systems:
 - [Collective dynamics of ‘small-world’ networks](https://www.nature.com/articles/30918) (1998)
 - [Emergence of Scaling in Random Networks](https://www.science.org/doi/10.1126/science.286.5439.509) (1999)
+- [Complex networks: Structure and dynamics](https://www.sciencedirect.com/science/article/pii/S037015730500462X?casa_token=fdsB4rSD7yQAAAAA:2Nm__5s4abTVq9oFlbnc7BNdGcllaVXEP0LK_klJocg7TZaSCH8-Lv0N8wiVneCfHxQDICVjxYdd) (2005)
 - [Synchronization in complex networks](https://www.sciencedirect.com/science/article/abs/pii/S0370157308003384) (2008)
 - [Recurrence networks—a novel paradigm for nonlinear time series analysis](https://iopscience.iop.org/article/10.1088/1367-2630/12/3/033025/meta) (2010)
 - [Deep Reservoir Computing](https://link.springer.com/chapter/10.1007/978-981-13-1687-6_4) (2021)
