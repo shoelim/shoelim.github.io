@@ -208,6 +208,7 @@ Gradient Algorithms I: Mathematical Foundations](https://www.jmlr.org/papers/vol
 - [Parallel Computing and Scientific Machine Learning (MIT)](https://mitmath.github.io/18337/) 
 - [Ergodic Theory (Lecture Notes)](https://www.ma.imperial.ac.uk/~mrasmuss/ergodictheory/ErgodicTheoryNotes.pdf)
 - [Modern applications of machine learning in quantum sciences](https://arxiv.org/abs/2204.04198) (2022) 
+- [A high bias low-variance introduction to Machine Learning for physicists](https://physics.bu.edu/~pankajm/MLnotebooks.html) 
 
 ## Softwares/Libraries
 - [TensorFlow](https://www.tensorflow.org/)
