@@ -146,6 +146,7 @@ Gradient Algorithms I: Mathematical Foundations](https://www.jmlr.org/papers/vol
 - [The Loss Surfaces of Multilayer Networks](https://arxiv.org/abs/1412.0233) (2014)
 - [Visualizing the Loss Landscape of Neural Nets](https://arxiv.org/abs/1712.09913) (2017)
 - [Probabilistic supervised learning](https://arxiv.org/pdf/1801.00753.pdf) (2019)
+- [On Learning Rates and Schrödinger Operators](https://arxiv.org/abs/2004.06977) (2020)
 - [Fourier Neural Operator for Parametric Partial Differential Equations](https://arxiv.org/abs/2010.08895) (2020)
 - [Neural Operator: Learning Maps Between Function Spaces](https://arxiv.org/abs/2108.08481) (2021)
 - [How Data Augmentation affects Optimization for Linear Regression](https://arxiv.org/pdf/2010.11171.pdf) (2021)
@@ -164,6 +165,7 @@ Gradient Algorithms I: Mathematical Foundations](https://www.jmlr.org/papers/vol
 - [Learning by Directional Gradient Descent](https://openreview.net/pdf?id=5i7lJLuhTm) (2022)
 - [Gradients without Backpropagation](https://arxiv.org/pdf/2202.08587.pdf) (2022)
 - [Continuous-Time Meta-Learning with Forward Mode Differentiation](https://arxiv.org/abs/2203.01443) (2022)
+- [General Cyclical Training of Neural Networks](https://arxiv.org/pdf/2202.08835.pdf) (2022)
 - [Tensor Programs V: Tuning Large Neural Networks via Zero-Shot Hyperparameter Transfer](https://proceedings.neurips.cc/paper/2021/file/8df7c2e3c3c3be098ef7b382bd2c37ba-Paper.pdf) (2022)
 - [Understanding Gradient Descent on Edge of Stability in Deep Learning](https://arxiv.org/pdf/2205.09745.pdf) (2022)
 
@@ -230,6 +232,7 @@ Gradient Algorithms I: Mathematical Foundations](https://www.jmlr.org/papers/vol
 - [Machine Learning Systems Design](https://stanford-cs329s.github.io/syllabus.html)
 - [Physics-based Deep Learning](https://physicsbaseddeeplearning.org/intro.html)
 - [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/)
+- [Implicit Bias in Some Machine Learning Problems](https://hanin.princeton.edu/implicitbiastalk.pdf)
 - [Sebastian Raschka's Resources](https://sebastianraschka.com/resources/)
 - [ML-University](https://github.com/d0r1h/ML-University#machine-learning)
 - [Differential Programming with JAX](https://ericmjl.github.io/dl-workshop/)
