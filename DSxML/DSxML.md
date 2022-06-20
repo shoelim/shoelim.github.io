@@ -59,6 +59,7 @@ networks](https://arxiv.org/pdf/1705.08741.pdf) (2018)
 - [Efficient Transformers: A Survey](https://arxiv.org/pdf/2009.06732.pdf) (2022)
 - [Block-Recurrent Transformers](https://arxiv.org/pdf/2203.07852.pdf) (2022)
 - [Transformer with Fourier Integral Attentions](https://arxiv.org/abs/2206.00206) (2022)
+- [Deep Learning for Time Series Forecasting: Tutorial and Literature Survey](https://arxiv.org/pdf/2004.10240.pdf) (2022)
 
 ### Neural Differential Equations and All That:
 - [FractalNet: Ultra-deep neural networks without residuals](https://arxiv.org/abs/1605.07648) (2016)
