@@ -169,6 +169,7 @@ Gradient Algorithms I: Mathematical Foundations](https://www.jmlr.org/papers/vol
 - [General Cyclical Training of Neural Networks](https://arxiv.org/pdf/2202.08835.pdf) (2022)
 - [Tensor Programs V: Tuning Large Neural Networks via Zero-Shot Hyperparameter Transfer](https://proceedings.neurips.cc/paper/2021/file/8df7c2e3c3c3be098ef7b382bd2c37ba-Paper.pdf) (2022)
 - [Understanding Gradient Descent on Edge of Stability in Deep Learning](https://arxiv.org/pdf/2205.09745.pdf) (2022)
+- [Reconstructing Training Data from Trained Neural Networks](https://arxiv.org/pdf/2206.07758v1.pdf) (2022)
 
 ## Related Review Papers/Monographs/Textbooks/Lecture Notes
 - [Solving Ordinary Differential Equations I](https://link.springer.com/book/10.1007/978-3-540-78862-1) (1993)
@@ -206,6 +207,7 @@ Gradient Algorithms I: Mathematical Foundations](https://www.jmlr.org/papers/vol
 - [Probabilistic Machine Learning](https://probml.github.io/pml-book/) (2022)
 - [Parallel Computing and Scientific Machine Learning (MIT)](https://mitmath.github.io/18337/) 
 - [Ergodic Theory (Lecture Notes)](https://www.ma.imperial.ac.uk/~mrasmuss/ergodictheory/ErgodicTheoryNotes.pdf)
+- [Modern applications of machine learning in quantum sciences](https://arxiv.org/abs/2204.04198) (2022) 
 
 ## Softwares/Libraries
 - [TensorFlow](https://www.tensorflow.org/)
