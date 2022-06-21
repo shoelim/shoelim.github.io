@@ -220,6 +220,7 @@ Gradient Algorithms I: Mathematical Foundations](https://www.jmlr.org/papers/vol
 
 ## Others (related articles/blogposts/tutorials and random cool stuffs)
 - [Papers with Codes](https://paperswithcode.com/)
+- [Windows on Theory](https://windowsontheory.org/)
 - [Off the Convex Path](https://www.offconvex.org/)
 - [How to Differentiate with a Computer](https://www.ams.org/publicoutreach/feature-column/fc-2017-12)
 - [Almost Sure](https://almostsuremath.com/)
