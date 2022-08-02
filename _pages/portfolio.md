@@ -4,7 +4,7 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-My primary research interests are in <font color="blue">mathematical and physics-inspired machine learning</font>, particularly topics at the interface of random dynamical systems and <a href="https://arxiv.org/abs/1312.6199"><font><i>modern</i></font> neural networks</a>. While there is a focus on using foundational/theoretical questions to drive advances in the science and engineering of learning systems, the theory is strongly tied to implementational problems and a wide range of very practical applications.  <br>
+My primary research interests are in <font color="blue">mathematical and statistical machine learning</font>, particularly topics at the interface of random dynamical systems and <a href="https://arxiv.org/abs/1312.6199"><font><i>modern</i></font> neural networks</a>. While there is a focus on using foundational/theoretical questions to drive advances in the science and engineering of learning systems, the theory is strongly tied to implementational problems and a wide range of very practical applications.  <br>
 
 Some central themes of interest:<br>
 - Randomness in/of/for robust and reliable machine learning 
