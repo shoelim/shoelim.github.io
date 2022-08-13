@@ -25,3 +25,6 @@ Stay tuned!
 ## Projects 
 Check out my reading list [here](https://shoelim.github.io/DSxML/). Until then, stay tuned!
 <br>
+
+## Contact 
+Email: soon DOT hoe DOT lim AT su DOT se
