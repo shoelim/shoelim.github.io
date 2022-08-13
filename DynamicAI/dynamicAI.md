@@ -22,5 +22,5 @@ Stay tuned!
 <br>
 
 ## Projects 
-Stay tuned!
+Check out my reading list [here](https://shoelim.github.io/DSxML/). Until then, stay tuned!
 <br>
