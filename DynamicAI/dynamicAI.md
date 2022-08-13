@@ -24,5 +24,3 @@ Stay tuned!
 ## Projects 
 Stay tuned!
 <br>
-
-##
