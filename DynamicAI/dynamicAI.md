@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## Welcome to Dynamic AI!
-Dynamic AI is a platform focusing on exploring ideas and concepts at the interface of dynamical systems and machine learning (ML). 
+Dynamic AI is a platform focusing on exploring and developing ideas and concepts at the interface of dynamical systems and machine learning (ML). Rooted in academia rigor, we are obssessed with anything that has to do with dynamical systems and ML in our lab. We are excited to turn our obsession into not only academic publications but also valuable products in the form of impactful real world applications! 
 <br>
 
 ## Missions
