@@ -29,4 +29,4 @@ Check out my reading list [here](https://shoelim.github.io/DSxML/). Until then, 
 <br>
 
 ## Contact 
-Email: soon DOT hoe DOT lim AT su DOT se
+We are happy to hear from you! For any enquiries and comments, please contact me via soon DOT hoe DOT lim AT su DOT se. 
