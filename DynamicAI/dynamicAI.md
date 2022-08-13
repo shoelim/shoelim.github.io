@@ -19,8 +19,10 @@ The Dynamic AI Lab strives to:
 - To disseminate knowledge and information about the progress in this interface to the general audience 
 
 ## Services
-Stay tuned!
-<br>
+- Research 
+- Private consulting
+- Software developing 
+- Teaching/lecturing    
 
 ## Projects 
 Check out my reading list [here](https://shoelim.github.io/DSxML/). Until then, stay tuned!
