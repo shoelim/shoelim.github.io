@@ -11,7 +11,8 @@ redirect_from:
 Dynamic AI is a platform focusing on exploring ideas and concepts at the interface of dynamical systems and machine learning (ML). 
 <br>
 
-## Missions  
+## Missions
+The Dynamic AI Lab strives to:
 - To survey and review the state-of-the-arts of research results at the interface of dynamical systems and ML 
 - To explore various foundational topics at the interface of dynamical systems and ML 
 - To build various real world applications inspired by the explorations in this interface
