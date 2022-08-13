@@ -1,7 +1,7 @@
 ---
 #layout: archive
 title: "Dynamic AI"
-permalink: /DSxML/
+permalink: /DynamicAI/
 author_profile: true
 redirect_from:
   - /DSxML
