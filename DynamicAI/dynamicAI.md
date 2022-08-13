@@ -4,7 +4,7 @@ title: "Dynamic AI"
 permalink: /DynamicAI/
 author_profile: true
 redirect_from:
-  - /DSxML
+  - /DynamicAI
 ---
 
 ## Welcome to Dynamic AI!
