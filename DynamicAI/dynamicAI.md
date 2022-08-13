@@ -25,7 +25,7 @@ The Dynamic AI Lab strives to:
 - Teaching/lecturing    
 
 ## Projects 
-Check out my reading list [here](https://shoelim.github.io/DSxML/). Until then, stay tuned!
+Check out our reading list [here](https://shoelim.github.io/DSxML/). Until then, stay tuned!
 <br>
 
 ## Contact 
