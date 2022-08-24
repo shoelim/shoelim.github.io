@@ -12,10 +12,12 @@ redirect_from:
 - I am currently an Assistant Professor and a WINQ Fellow at <a href="https://www.nordita.org/">Nordita</a>, hosted jointly by <a href="https://www.kth.se/en">KTH Royal Institute of Technology</a> and <a href="https://www.su.se/">Stockholm University</a>. <br> 
 - I completed my PhD in Applied Mathematics at the <a href="http://math.arizona.edu/">University of Arizona</a> in May 2018, under supervision of <a href="http://math.arizona.edu/~wehr/">Jan Wehr</a>. Prior to that, I studied mathematics and physics at the <a href="https://umich.edu/">University of Michigan</a>. I also dabbled in actuarial and financial mathematics in my earlier student days. <br>  
 
-We are organizing a biweekly e-seminar to discuss the state-of-the-art of scientific machine learning this year. Sign up [here](https://scientific-ml.org/) to stay updated! <br>  
 
+<font color="blue">Announcements</font>:
+> We are looking for highly motivated students/postdocs to join [Dynamic AI](https://shoelim.github.io/DynamicAI/)! <br>   
 
-*If you are a highly motivated student/postdoc interested in cool projects at the interface of dynamical systems and machine learning, please contact me for more details. 
+> We are organizing a biweekly e-seminar to discuss the state-of-the-art of scientific machine learning this year. Sign up [here](https://scientific-ml.org/) to stay updated! <br>  
+
 <br> 
 
 
