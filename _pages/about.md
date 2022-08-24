@@ -13,7 +13,7 @@ redirect_from:
 - I completed my PhD in Applied Mathematics at the <a href="http://math.arizona.edu/">University of Arizona</a> in May 2018, under supervision of <a href="http://math.arizona.edu/~wehr/">Jan Wehr</a>. Prior to that, I studied mathematics and physics at the <a href="https://umich.edu/">University of Michigan</a>. I also dabbled in actuarial and financial mathematics in my earlier student days. <br>  
 
 
-<font color="blue">Announcements</font>:
+<b><font color="blue">Announcements</font></b>:
 > We are looking for highly motivated students/postdocs to join [Dynamic AI](https://shoelim.github.io/DynamicAI/)! <br>   
 
 > We are organizing a biweekly e-seminar to discuss the state-of-the-art of scientific machine learning this year. Sign up [here](https://scientific-ml.org/) to stay updated! <br>  
