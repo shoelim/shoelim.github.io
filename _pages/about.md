@@ -14,9 +14,8 @@ redirect_from:
 
 
 <b>Announcements</b>:
-> We are looking for highly motivated students/postdocs to join [Dynamic AI](https://shoelim.github.io/DynamicAI/)!    
-
-> We are organizing a biweekly e-seminar to discuss the state-of-the-art of scientific machine learning this year. Sign up [here](https://scientific-ml.org/) to stay updated!  
+- We are looking for highly motivated students/postdocs to join [Dynamic AI](https://shoelim.github.io/DynamicAI/)! <br>     
+- We are organizing a biweekly e-seminar to discuss the state-of-the-art of scientific machine learning this year. Sign up [here](https://scientific-ml.org/) to stay updated!  
 
 
 
