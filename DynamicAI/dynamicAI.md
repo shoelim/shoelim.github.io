@@ -22,7 +22,7 @@ Dynamic AI strives to:
 - Research 
 - Private consulting
 - Software developing 
-- Teaching/lecturing    
+- Education    
 
 ## Projects 
 Check out our reading list [here](https://shoelim.github.io/DSxML/) and the notebook [here](https://shoelim.github.io/dynamicAI/notebooks.html) (still under construction). Until then, stay tuned!
