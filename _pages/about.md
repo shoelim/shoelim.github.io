@@ -14,7 +14,6 @@ redirect_from:
 
 
 <b>Announcements</b>:
-- We are looking for highly motivated candidates to join [Dynamic AI](https://dynamicailab.github.io)! <br>     
 - We are organizing a biweekly e-seminar to discuss the state-of-the-art of scientific machine learning this year. Sign up [here](https://scientific-ml.org/) to stay updated!  
 
 
