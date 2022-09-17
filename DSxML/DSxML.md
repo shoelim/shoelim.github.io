@@ -114,6 +114,7 @@ Gradient Algorithms I: Mathematical Foundations](https://www.jmlr.org/papers/vol
 - [An end-to-end deep learning approach for extracting stochastic dynamical systems with α-stable Levy noise](https://arxiv.org/pdf/2201.13114.pdf) (2022)
 - [Scientific Machine Learning through Physics-Informed Neural Networks: Where we are and What's next](https://arxiv.org/abs/2201.05624) (2022)
 - [When Physics Meets Machine Learning: A Survey of Physics-Informed Machine Learning](https://arxiv.org/abs/2203.16797) (2022)
+- [Auto-SDE: Learning effective reduced dynamics from data-driven stochastic dynamical systems](https://arxiv.org/pdf/2205.04151.pdf) (2022)
 - Physics-informed neural networks, data-driven discovery of complex systems using neural networks, solving/simulating differential equations using neural networks, integrating ML with physics-based modeling, etc. (too many to list here)
 
 ### Model Robustness:
@@ -134,6 +135,7 @@ Gradient Algorithms I: Mathematical Foundations](https://www.jmlr.org/papers/vol
 - [Video Diffusion Models](https://arxiv.org/pdf/2204.03458.pdf) (2022)
 - [Flexible Diffusion Modeling of Long Videos](https://arxiv.org/pdf/2205.11495.pdf) (2022)
 - [A Continuous Time Framework for Discrete Denoising Models](https://arxiv.org/abs/2205.14987) (2022)
+- [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/pdf/2112.10752.pdf) (2022)
 
 ### Complex Networks x Dynamical Systems:
 - [Collective dynamics of ‘small-world’ networks](https://www.nature.com/articles/30918) (1998)
@@ -171,6 +173,8 @@ Gradient Algorithms I: Mathematical Foundations](https://www.jmlr.org/papers/vol
 - [Tensor Programs V: Tuning Large Neural Networks via Zero-Shot Hyperparameter Transfer](https://proceedings.neurips.cc/paper/2021/file/8df7c2e3c3c3be098ef7b382bd2c37ba-Paper.pdf) (2022)
 - [Understanding Gradient Descent on Edge of Stability in Deep Learning](https://arxiv.org/pdf/2205.09745.pdf) (2022)
 - [Reconstructing Training Data from Trained Neural Networks](https://arxiv.org/pdf/2206.07758v1.pdf) (2022)
+- [Pre-training without Natural Images](https://arxiv.org/pdf/2101.08515.pdf)
+- [Learning with Differentiable Algorithms](https://arxiv.org/pdf/2209.00616.pdf)
 
 ## Related Review Papers/Monographs/Textbooks/Lecture Notes
 - [Solving Ordinary Differential Equations I](https://link.springer.com/book/10.1007/978-3-540-78862-1) (1993)
@@ -211,6 +215,8 @@ Gradient Algorithms I: Mathematical Foundations](https://www.jmlr.org/papers/vol
 - [Modern applications of machine learning in quantum sciences](https://arxiv.org/abs/2204.04198) (2022) 
 - [A high bias low-variance introduction to Machine Learning for physicists](https://physics.bu.edu/~pankajm/MLnotebooks.html) 
 - [CS 231N Stanford](https://github.com/cs231n)
+- [Practical Deep Learning for Coders](https://course.fast.ai/)
+
 
 ## Softwares/Libraries
 - [TensorFlow](https://www.tensorflow.org/)
@@ -220,6 +226,7 @@ Gradient Algorithms I: Mathematical Foundations](https://www.jmlr.org/papers/vol
 
 
 ## Others (related articles/blogposts/tutorials and random cool stuffs)
+- [Predicting tipping points in chaotic systems with ML](https://www.quantamagazine.org/ai-algorithm-foresees-chaotic-tipping-points-20220915/)
 - [Papers with Codes](https://paperswithcode.com/)
 - [Windows on Theory](https://windowsontheory.org/)
 - [Off the Convex Path](https://www.offconvex.org/)
