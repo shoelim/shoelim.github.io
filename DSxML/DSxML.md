@@ -37,6 +37,7 @@ overfitting](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pd
 - [Towards deep learning models resistant to adversarial attacks](https://arxiv.org/abs/1706.06083) (2017)
 - [Train longer, generalize better: closing the generalization gap in large batch training of neural
 networks](https://arxiv.org/pdf/1705.08741.pdf) (2018)
+- [Automatic Differentiation in Machine Learning: a Survey](https://arxiv.org/pdf/1502.05767.pdf) (2018)
 - [Super-convergence: very fast training of neural networks using large learning rates](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11006/1100612/Super-convergence--very-fast-training-of-neural-networks-using/10.1117/12.2520589.full?SSO=1) (2019)
 - [Reconciling modern machine-learning practice and the classical bias–variance trade-off](https://www.pnas.org/content/116/32/15849.short) (2019)
 - [Language models are few-shot learners](https://arxiv.org/abs/2005.14165) (2020)
@@ -60,6 +61,7 @@ networks](https://arxiv.org/pdf/1705.08741.pdf) (2018)
 - [Block-Recurrent Transformers](https://arxiv.org/pdf/2203.07852.pdf) (2022)
 - [Transformer with Fourier Integral Attentions](https://arxiv.org/abs/2206.00206) (2022)
 - [Deep Learning for Time Series Forecasting: Tutorial and Literature Survey](https://arxiv.org/pdf/2004.10240.pdf) (2022)
+- [Diffusion-based Time Series Imputation and Forecasting with Structured State Space Models](https://arxiv.org/pdf/2208.09399.pdf) (2022)
 
 ### Neural Differential Equations and All That:
 - [FractalNet: Ultra-deep neural networks without residuals](https://arxiv.org/abs/1605.07648) (2016)
@@ -131,11 +133,15 @@ Gradient Algorithms I: Mathematical Foundations](https://www.jmlr.org/papers/vol
 - [Score-Based Generative Modeling through Stochastic Differential Equations](https://arxiv.org/abs/2011.13456) (2020)
 - [Diffusion Models Beat GANs on Image Synthesis](https://proceedings.neurips.cc/paper/2021/hash/49ad23d1ec9fa4bd8d77d02681df5cfa-Abstract.html) (2021)
 - [Deep Generative Learning via Schrödinger Bridge](https://proceedings.mlr.press/v139/wang21l.html) (2021)
+- [Score-based Generative Modeling in Latent Space](https://arxiv.org/pdf/2106.05931v3.pdf) (2021)
 - [Deep Generative Modelling: A Comparative Review of VAEs, GANs, Normalizing Flows, Energy-Based and Autoregressive Models](https://arxiv.org/abs/2103.04922) (2021)
+- [DiffWave: A Versatile Diffusion Model for Audio Synthesis](https://arxiv.org/abs/2009.09761) (2021)
 - [Video Diffusion Models](https://arxiv.org/pdf/2204.03458.pdf) (2022)
 - [Flexible Diffusion Modeling of Long Videos](https://arxiv.org/pdf/2205.11495.pdf) (2022)
 - [A Continuous Time Framework for Discrete Denoising Models](https://arxiv.org/abs/2205.14987) (2022)
 - [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/pdf/2112.10752.pdf) (2022)
+- [Cold Diffusion: Inverting Arbitrary Image Transforms Without Noise](https://arxiv.org/pdf/2208.09392.pdf) (2022)
+- [Understanding Diffusion Models: A Unified Perspective](https://arxiv.org/pdf/2208.11970.pdf) (2022)
 
 ### Complex Networks x Dynamical Systems:
 - [Collective dynamics of ‘small-world’ networks](https://www.nature.com/articles/30918) (1998)
@@ -145,6 +151,7 @@ Gradient Algorithms I: Mathematical Foundations](https://www.jmlr.org/papers/vol
 - [Synchronization in complex networks](https://www.sciencedirect.com/science/article/abs/pii/S0370157308003384) (2008)
 - [Recurrence networks—a novel paradigm for nonlinear time series analysis](https://iopscience.iop.org/article/10.1088/1367-2630/12/3/033025/meta) (2010)
 - [Deep Reservoir Computing](https://link.springer.com/chapter/10.1007/978-981-13-1687-6_4) (2021)
+- [Constructing Neural Network-Based Models for Simulating Dynamical Systems](https://arxiv.org/pdf/2111.01495.pdf) (2022)
 
 ### Other Noteworthy Papers:
 - [The Loss Surfaces of Multilayer Networks](https://arxiv.org/abs/1412.0233) (2014)
@@ -175,6 +182,7 @@ Gradient Algorithms I: Mathematical Foundations](https://www.jmlr.org/papers/vol
 - [Reconstructing Training Data from Trained Neural Networks](https://arxiv.org/pdf/2206.07758v1.pdf) (2022)
 - [Pre-training without Natural Images](https://arxiv.org/pdf/2101.08515.pdf)
 - [Learning with Differentiable Algorithms](https://arxiv.org/pdf/2209.00616.pdf)
+- [Neural Tangent Kernel: A Survey](https://arxiv.org/pdf/2208.13614.pdf) 
 
 ## Related Review Papers/Monographs/Textbooks/Lecture Notes
 - [Solving Ordinary Differential Equations I](https://link.springer.com/book/10.1007/978-3-540-78862-1) (1993)
