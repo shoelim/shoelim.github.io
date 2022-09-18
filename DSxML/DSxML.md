@@ -266,6 +266,7 @@ Gradient Algorithms I: Mathematical Foundations](https://www.jmlr.org/papers/vol
 - [Software 2.0](https://karpathy.medium.com/software-2-0-a64152b37c35) (see also [here](https://www.youtube.com/watch?v=y57wwucbXR8))
 - [Lightning.ai](https://lightning.ai/)
 - [Stability.ai](https://stability.ai/)
+- [Lil’Log](https://lilianweng.github.io/)
 - [Green AI](https://arxiv.org/abs/1907.10597)
 - [Hugging Face](https://huggingface.co/)
 - [Tesla AI](https://www.tesla.com/AI)
