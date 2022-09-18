@@ -24,6 +24,7 @@ redirect_from:
 - [ImageNet classification with deep convolutional neural networks](https://proceedings.neurips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html) (2012)
 - [Intriguing properties of neural networks](https://arxiv.org/abs/1312.6199) (2013)
 - [Explaining and harnessing adversarial examples](https://arxiv.org/abs/1412.6572) (2014)
+- [Identifying and attacking the saddle point problem in high-dimensional non-convex optimization](https://arxiv.org/pdf/1406.2572.pdf) (2014)
 - [Neural machine translation by jointly learning to align and translate](https://arxiv.org/abs/1409.0473) (2014)
 - [Adam: A method for stochastic optimization](https://arxiv.org/abs/1412.6980) (2014)
 - [Dropout: A simple way to prevent neural networks from
