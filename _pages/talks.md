@@ -8,6 +8,8 @@ author_profile: true
   {% include archive-single-talk.html %}
 {% endfor %} -->
 
+*I no longer maintain this page, please visit [News](https://shoelim.github.io/news/) for my latest presentations.
+
 __In 2021:__
 - __August 7:__ (Invited talk) Noisy Recurrent Neural Networks. [Conference on Mathematics of Machine Learning](https://www.mis.mpg.de/calendar/conferences/2021/mml2021/program.html), Center for Interdisciplinary Research, Bielefeld University
 - __June 1:__ (Invited talk) Noisy Recurrent Neural Networks. [SIG on Machine Learning and Dynamical Systems](https://www.youtube.com/watch?v=9t-UTLvkhyk&t=22s)
