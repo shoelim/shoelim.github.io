@@ -186,6 +186,7 @@ Gradient Algorithms I: Mathematical Foundations](https://www.jmlr.org/papers/vol
 - [Neural Tangent Kernel: A Survey](https://arxiv.org/pdf/2208.13614.pdf) 
 
 ## Related Review Papers/Monographs/Textbooks/Lecture Notes
+- [The Fractal Geometry of Nature](https://www.amazon.com/Fractal-Geometry-Nature-Benoit-Mandelbrot/dp/1648370403) (1977)
 - [Solving Ordinary Differential Equations I](https://link.springer.com/book/10.1007/978-3-540-78862-1) (1993)
 - [Dynamical Systems and Numerical Analysis](https://books.google.se/books?hl=en&lr=&id=ymoQA8s5pNIC&oi=fnd&pg=PR11&dq=dynamical+systems+and+numerical+analysis&ots=TYk2JZiNVG&sig=0mCqPchp17JHceSdTerWUMjjAhE&redir_esc=y#v=onepage&q=dynamical%20systems%20and%20numerical%20analysis&f=false) (1996)
 - [Information Theory, Inference, and Learning Algorithms](http://www.inference.org.uk/mackay/itila/book.html) (2003)
