@@ -224,6 +224,7 @@ Gradient Algorithms I: Mathematical Foundations](https://www.jmlr.org/papers/vol
 - [A high bias low-variance introduction to Machine Learning for physicists](https://physics.bu.edu/~pankajm/MLnotebooks.html) 
 - [CS 231N Stanford](https://github.com/cs231n)
 - [Practical Deep Learning for Coders](https://course.fast.ai/)
+- [Transformer Circuits Thread](https://transformer-circuits.pub/)
 
 
 ## Softwares/Libraries
@@ -261,6 +262,8 @@ Gradient Algorithms I: Mathematical Foundations](https://www.jmlr.org/papers/vol
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 - [Software Carpentry](https://software-carpentry.org/lessons/index.html)
 - [Software 2.0](https://karpathy.medium.com/software-2-0-a64152b37c35) (see also [here](https://www.youtube.com/watch?v=y57wwucbXR8))
+- [Lightning.ai](https://lightning.ai/)
+- [Stability.ai](https://stability.ai/)
 - [Green AI](https://arxiv.org/abs/1907.10597)
 - [Hugging Face](https://huggingface.co/)
 - [Tesla AI](https://www.tesla.com/AI)
