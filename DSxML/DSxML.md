@@ -268,5 +268,6 @@ Gradient Algorithms I: Mathematical Foundations](https://www.jmlr.org/papers/vol
 - [Green AI](https://arxiv.org/abs/1907.10597)
 - [Hugging Face](https://huggingface.co/)
 - [Tesla AI](https://www.tesla.com/AI)
+- [Google AI](https://ai.google/)
 - [Web3 University](https://www.web3.university/)
 - [Xanadu](https://www.xanadu.ai/) 
