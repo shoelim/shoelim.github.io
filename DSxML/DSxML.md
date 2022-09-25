@@ -131,8 +131,11 @@ Dynamical Systems](https://arxiv.org/pdf/2207.00521.pdf) (2022)
 - Physics-informed neural networks, data-driven discovery of complex systems using neural networks, solving/simulating differential equations using neural networks, integrating ML with physics-based modeling, etc. (too many to list here)
 
 ### Model Robustness:
+- [Towards Deep Learning Models Resistant to Adversarial Attacks](https://arxiv.org/abs/1706.06083) (2017)
+- [Adversarially Robust Generalization Requires More Data](https://arxiv.org/abs/1804.11285) (2018)
 - [Mixup: Beyond Empirical Risk Minimization](https://arxiv.org/abs/1710.09412) (2017)
 - [Adversarial Examples Are Not Bugs, They Are Features](https://arxiv.org/pdf/1905.02175.pdf) (2019)
+- [Robustness May Be at Odds with Accuracy](https://arxiv.org/abs/1805.12152) (2019)
 - [Relating Adversarially Robust Generalization to Flat Minima](https://arxiv.org/abs/2104.04448) (2021)
 - [PixMix: Dreamlike Pictures Comprehensively Improve Safety Measures](https://arxiv.org/abs/2112.05135) (2021)
 - [RobustBench](https://robustbench.github.io/)
