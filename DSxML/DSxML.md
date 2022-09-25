@@ -63,6 +63,7 @@ networks](https://arxiv.org/pdf/1705.08741.pdf) (2018)
 - [Transformer with Fourier Integral Attentions](https://arxiv.org/abs/2206.00206) (2022)
 - [Deep Learning for Time Series Forecasting: Tutorial and Literature Survey](https://arxiv.org/pdf/2004.10240.pdf) (2022)
 - [Diffusion-based Time Series Imputation and Forecasting with Structured State Space Models](https://arxiv.org/pdf/2208.09399.pdf) (2022)
+- [Mega: Moving Average Equipped Gated Attention](https://arxiv.org/pdf/2209.10655.pdf) (2022)
 
 ### Neural Differential Equations and All That:
 - [FractalNet: Ultra-deep neural networks without residuals](https://arxiv.org/abs/1605.07648) (2016)
@@ -109,6 +110,8 @@ Gradient Algorithms I: Mathematical Foundations](https://www.jmlr.org/papers/vol
 - [Phase diagram of SGD in high-dimensional two-layer neural networks](https://arxiv.org/abs/2202.00293) (2022)
 - [Continuous-time stochastic gradient descent for optimizing over the stationary distribution of stochastic differential equations](https://arxiv.org/abs/2202.06637) (2022)
 - [Anti-Oversmoothing in Deep Vision Transformers via the Fourier Domain Analysis: From Theory to Practice](https://arxiv.org/abs/2203.05962) (2022)
+- [On the Theoretical Properties of Noise Correlation in Stochastic Optimization](https://arxiv.org/pdf/2209.09162.pdf) (2022)
+
 
 ### Using ML to Study DS:
 - [PDE-Net: Learning PDEs from data](http://proceedings.mlr.press/v80/long18a.html?ref=https://githubhelp.com) (2017)
@@ -143,6 +146,8 @@ Gradient Algorithms I: Mathematical Foundations](https://www.jmlr.org/papers/vol
 - [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/pdf/2112.10752.pdf) (2022)
 - [Cold Diffusion: Inverting Arbitrary Image Transforms Without Noise](https://arxiv.org/pdf/2208.09392.pdf) (2022)
 - [Understanding Diffusion Models: A Unified Perspective](https://arxiv.org/pdf/2208.11970.pdf) (2022)
+- [Sampling is as easy as learning the score: theory for diffusion models with minimal data assumptions](https://arxiv.org/pdf/2209.11215.pdf) (2022)
+- [Poisson Flow Generative Models](https://arxiv.org/abs/2209.11178) (2022)
 
 ### Complex Networks x Dynamical Systems:
 - [Collective dynamics of ‘small-world’ networks](https://www.nature.com/articles/30918) (1998)
@@ -241,6 +246,7 @@ Gradient Algorithms I: Mathematical Foundations](https://www.jmlr.org/papers/vol
 - [Papers with Codes](https://paperswithcode.com/)
 - [Windows on Theory](https://windowsontheory.org/)
 - [Off the Convex Path](https://www.offconvex.org/)
+- [Francis Bach's ML Research Blog](https://francisbach.com/implicit-bias-sgd/)
 - [How to Differentiate with a Computer](https://www.ams.org/publicoutreach/feature-column/fc-2017-12)
 - [Almost Sure](https://almostsuremath.com/)
 - [Fabrice Baudoin](https://fabricebaudoin.wordpress.com/)
