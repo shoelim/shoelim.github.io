@@ -145,6 +145,7 @@ Dynamical Systems](https://arxiv.org/pdf/2207.00521.pdf) (2022)
 - [Score-based Generative Modeling in Latent Space](https://arxiv.org/pdf/2106.05931v3.pdf) (2021)
 - [Deep Generative Modelling: A Comparative Review of VAEs, GANs, Normalizing Flows, Energy-Based and Autoregressive Models](https://arxiv.org/abs/2103.04922) (2021)
 - [DiffWave: A Versatile Diffusion Model for Audio Synthesis](https://arxiv.org/abs/2009.09761) (2021)
+- [Infinite Nature: Perpetual View Generation of Natural Scenes from a Single Image](https://infinite-nature.github.io/) (2021)
 - [Video Diffusion Models](https://arxiv.org/pdf/2204.03458.pdf) (2022)
 - [Flexible Diffusion Modeling of Long Videos](https://arxiv.org/pdf/2205.11495.pdf) (2022)
 - [A Continuous Time Framework for Discrete Denoising Models](https://arxiv.org/abs/2205.14987) (2022)
@@ -239,6 +240,7 @@ Dynamical Systems](https://arxiv.org/pdf/2207.00521.pdf) (2022)
 - [CS 231N Stanford](https://github.com/cs231n)
 - [Practical Deep Learning for Coders](https://course.fast.ai/)
 - [Transformer Circuits Thread](https://transformer-circuits.pub/)
+- [Parallel Computing and Scientific Computing](https://book.sciml.ai/lectures/#lecture_overview)
 
 
 ## Softwares/Libraries
