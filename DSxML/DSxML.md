@@ -87,6 +87,8 @@ networks](https://arxiv.org/pdf/1705.08741.pdf) (2018)
 - [LyaNet: A Lyapunov Framework for Training Neural ODEs](https://arxiv.org/pdf/2202.02526.pdf) (2022)
 - [HyperMixer: An MLP-based Green AI Alternative to Transformers](https://arxiv.org/pdf/2203.03691.pdf) (2022)
 - [Do Residual Neural Networks discretize Neural Ordinary Differential Equations?](https://arxiv.org/abs/2205.14612) (2022)
+- [Neural Differential Equations for Learning to Program Neural Nets Through Continuous Learning Rules](https://arxiv.org/abs/2206.01649) (2022)
+
 
 ### Understanding Modern ML + DS:
 - [Neural Tangent Kernel: Convergence and generalization in neural networks](https://proceedings.neurips.cc/paper/2018/hash/5a4be1fa34e62bb8a6ec6b91d2462f5a-Abstract.html) (2018)
