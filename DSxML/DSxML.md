@@ -117,10 +117,15 @@ Gradient Algorithms I: Mathematical Foundations](https://www.jmlr.org/papers/vol
 - [PDE-Net: Learning PDEs from data](http://proceedings.mlr.press/v80/long18a.html?ref=https://githubhelp.com) (2017)
 - [Universal Differential Equations for Scientific Machine Learning](https://arxiv.org/abs/2001.04385) (2020)
 - [Bridging physics-based and data-driven modeling for learning dynamical systems](https://proceedings.mlr.press/v144/wang21a.html) (2021)
+- [Machine learning prediction of critical transition and system collapse](https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.3.013090) (2021)
+- [Using machine learning to predict statistical properties of non-stationary dynamical processes: System climate,regime transitions, and the effect of stochasticity](https://aip.scitation.org/doi/pdf/10.1063/5.0042598) (2021)
+- [Emergence of transient chaos and intermittency in machine learning](https://iopscience.iop.org/article/10.1088/2632-072X/ac0b00/pdf) (2021)
 - [An end-to-end deep learning approach for extracting stochastic dynamical systems with α-stable Levy noise](https://arxiv.org/pdf/2201.13114.pdf) (2022)
 - [Scientific Machine Learning through Physics-Informed Neural Networks: Where we are and What's next](https://arxiv.org/abs/2201.05624) (2022)
 - [When Physics Meets Machine Learning: A Survey of Physics-Informed Machine Learning](https://arxiv.org/abs/2203.16797) (2022)
 - [Auto-SDE: Learning effective reduced dynamics from data-driven stochastic dynamical systems](https://arxiv.org/pdf/2205.04151.pdf) (2022)
+- [Using Machine Learning to Anticipate Tipping Points and Extrapolate to Post-Tipping Dynamics of Non-Stationary
+Dynamical Systems](https://arxiv.org/pdf/2207.00521.pdf) (2022)
 - Physics-informed neural networks, data-driven discovery of complex systems using neural networks, solving/simulating differential equations using neural networks, integrating ML with physics-based modeling, etc. (too many to list here)
 
 ### Model Robustness:
@@ -146,6 +151,7 @@ Gradient Algorithms I: Mathematical Foundations](https://www.jmlr.org/papers/vol
 - [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/pdf/2112.10752.pdf) (2022)
 - [Cold Diffusion: Inverting Arbitrary Image Transforms Without Noise](https://arxiv.org/pdf/2208.09392.pdf) (2022)
 - [Understanding Diffusion Models: A Unified Perspective](https://arxiv.org/pdf/2208.11970.pdf) (2022)
+- [Diffusion Models in Vision: A Survey](https://arxiv.org/pdf/2209.04747v1.pdf) (2022)
 - [Sampling is as easy as learning the score: theory for diffusion models with minimal data assumptions](https://arxiv.org/pdf/2209.11215.pdf) (2022)
 - [Poisson Flow Generative Models](https://arxiv.org/abs/2209.11178) (2022)
 
@@ -170,6 +176,7 @@ Gradient Algorithms I: Mathematical Foundations](https://www.jmlr.org/papers/vol
 - [Fractal Structure and Generalization Properties of Stochastic Optimization Algorithms](https://proceedings.neurips.cc/paper/2021/file/9bdb8b1faffa4b3d41779bb495d79fb9-Paper.pdf) (2021)
 - [Gradient Descent on Infinitely Wide Neural Networks: Global Convergence and Generalization](https://arxiv.org/pdf/2110.08084.pdf) (2021)
 - [MLP-Mixer: An all-MLP Architecture for Vision](https://arxiv.org/pdf/2105.01601.pdf) (2021)
+- [Learning to See by Looking at Noise](https://proceedings.neurips.cc/paper/2021/file/14f2ebeab937ca128186e7ba876faef9-Paper.pdf) (2021)
 - [The curse of overparametrization in adversarial training: Precise analysis of robust generalization for random features regression](https://arxiv.org/pdf/2201.05149.pdf) (2022)
 - [Improving generalization via uncertainty driven perturbations](https://arxiv.org/abs/2202.05737) (2022)
 - [Benign Overfitting without Linearity: Neural Network Classifiers Trained by Gradient Descent for Noisy Linear Data](https://arxiv.org/abs/2202.05928) (2022)
@@ -275,6 +282,7 @@ Gradient Algorithms I: Mathematical Foundations](https://www.jmlr.org/papers/vol
 - [Lil’Log](https://lilianweng.github.io/)
 - [Green AI](https://arxiv.org/abs/1907.10597)
 - [Hugging Face](https://huggingface.co/)
+- [Deep Learning Drizzle](https://github.com/kmario23/deep-learning-drizzle#tada-deep-learning-deep-neural-networks-confetti_ball-balloon)
 - [Tesla AI](https://www.tesla.com/AI)
 - [Google AI](https://ai.google/)
 - [Web3 University](https://www.web3.university/)
