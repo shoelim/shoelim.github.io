@@ -14,6 +14,8 @@ redirect_from:
 
 We are organizing a biweekly e-seminar to discuss the state-of-the-art of scientific machine learning this year. Sign up [here](https://scientific-ml.org/) to stay updated!  
 
+*I am on the academia market looking for a tenure-track position this year*
+
 
 
 
