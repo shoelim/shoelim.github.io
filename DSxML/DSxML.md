@@ -160,6 +160,8 @@ Dynamical Systems](https://arxiv.org/pdf/2207.00521.pdf) (2022)
 - [Diffusion Models in Vision: A Survey](https://arxiv.org/pdf/2209.04747v1.pdf) (2022)
 - [Sampling is as easy as learning the score: theory for diffusion models with minimal data assumptions](https://arxiv.org/pdf/2209.11215.pdf) (2022)
 - [Poisson Flow Generative Models](https://arxiv.org/abs/2209.11178) (2022)
+- [What's the Score?](https://scorebasedgenerativemodeling.github.io/)
+
 
 ### Complex Networks x Dynamical Systems:
 - [Collective dynamics of ‘small-world’ networks](https://www.nature.com/articles/30918) (1998)
