@@ -247,6 +247,7 @@ Dynamical Systems](https://arxiv.org/pdf/2207.00521.pdf) (2022)
 - [Practical Deep Learning for Coders](https://course.fast.ai/)
 - [Transformer Circuits Thread](https://transformer-circuits.pub/)
 - [Parallel Computing and Scientific Computing](https://book.sciml.ai/lectures/#lecture_overview)
+- [Deep Implicit Layers](https://implicit-layers-tutorial.org/)
 
 
 ## Softwares/Libraries
