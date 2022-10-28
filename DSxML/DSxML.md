@@ -270,7 +270,8 @@ Dynamical Systems](https://arxiv.org/pdf/2207.00521.pdf) (2022)
 - [Transformer Circuits Thread](https://transformer-circuits.pub/)
 - [Parallel Computing and Scientific Computing](https://book.sciml.ai/lectures/#lecture_overview)
 - [Deep Implicit Layers](https://implicit-layers-tutorial.org/)
-- [Probabilistic Numerics](https://www.probabilistic-numerics.org/textbooks/)
+- [Probabilistic Numerics](https://www.probabilistic-numerics.org/textbooks/) 
+- [A course in time series analysis](https://web.stat.tamu.edu/~suhasini/teaching673/time_series.pdf) 
 
 
 ## Softwares/Libraries
