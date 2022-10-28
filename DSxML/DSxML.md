@@ -49,6 +49,7 @@ networks](https://arxiv.org/pdf/1705.08741.pdf) (2018)
 
 ### Sequence Modeling:
 - [Unitary Evolution Recurrent Neural Networks](https://arxiv.org/abs/1511.06464) (2016)
+- [RNNs without Chaos](https://arxiv.org/pdf/1612.06212.pdf) (2017)
 - [An empirical evaluation of generic convolutional and recurrent networks for sequence modeling](https://arxiv.org/abs/1803.01271) (2018)
 - [Can recurrent neural networks warp time?](https://arxiv.org/abs/1804.11188) (2018)
 - [Legendre memory units: Continuous-time representation in recurrent neural networks](https://papers.nips.cc/paper/2019/hash/952285b9b7e7a1be5aa7849f32ffff05-Abstract.html) (2019)
@@ -190,6 +191,7 @@ Dynamical Systems](https://arxiv.org/pdf/2207.00521.pdf) (2022)
 - [Visualizing the Loss Landscape of Neural Nets](https://arxiv.org/abs/1712.09913) (2017)
 - [Probabilistic supervised learning](https://arxiv.org/pdf/1801.00753.pdf) (2019)
 - [A critical analysis of self-supervision, or what we can learn from a single image](https://arxiv.org/abs/1904.13132) (2019)
+- [Expressivity of Deep Neural Networks](https://arxiv.org/pdf/2007.04759.pdf) (2020)
 - [On Learning Rates and Schrödinger Operators](https://arxiv.org/abs/2004.06977) (2020)
 - [Fourier Neural Operator for Parametric Partial Differential Equations](https://arxiv.org/abs/2010.08895) (2020)
 - [Neural Operator: Learning Maps Between Function Spaces](https://arxiv.org/abs/2108.08481) (2021)
@@ -219,6 +221,8 @@ Dynamical Systems](https://arxiv.org/pdf/2207.00521.pdf) (2022)
 - [Learning with Differentiable Algorithms](https://arxiv.org/pdf/2209.00616.pdf) (2022)
 - [Neural Tangent Kernel: A Survey](https://arxiv.org/pdf/2208.13614.pdf) (2022)
 - [The Mori-Zwanzig formulation of deep learning](https://arxiv.org/pdf/2209.05544.pdf) (2022)
+- [Neural Networks are Decision Trees](https://arxiv.org/pdf/2210.05189.pdf) (2022)
+
 
 ## Related Review Papers/Monographs/Textbooks/Lecture Notes
 - [The Fractal Geometry of Nature](https://www.amazon.com/Fractal-Geometry-Nature-Benoit-Mandelbrot/dp/1648370403) (1977)
