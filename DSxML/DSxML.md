@@ -48,6 +48,7 @@ networks](https://arxiv.org/pdf/1705.08741.pdf) (2018)
 
 
 ### Sequence Modeling:
+- [A Field Guide to Dynamical Recurrent Networks](https://ieeexplore.ieee.org/book/5263132) (2001)
 - [Unitary Evolution Recurrent Neural Networks](https://arxiv.org/abs/1511.06464) (2016)
 - [RNNs without Chaos](https://arxiv.org/pdf/1612.06212.pdf) (2017)
 - [An empirical evaluation of generic convolutional and recurrent networks for sequence modeling](https://arxiv.org/abs/1803.01271) (2018)
@@ -226,6 +227,7 @@ Dynamical Systems](https://arxiv.org/pdf/2207.00521.pdf) (2022)
 
 ## Related Review Papers/Monographs/Textbooks/Lecture Notes
 - [The Fractal Geometry of Nature](https://www.amazon.com/Fractal-Geometry-Nature-Benoit-Mandelbrot/dp/1648370403) (1977)
+- [Coding The Matrix: Linear Algebra Through Computer Science Applications](https://codingthematrix.com/)
 - [Solving Ordinary Differential Equations I](https://link.springer.com/book/10.1007/978-3-540-78862-1) (1993)
 - [Dynamical Systems and Numerical Analysis](https://books.google.se/books?hl=en&lr=&id=ymoQA8s5pNIC&oi=fnd&pg=PR11&dq=dynamical+systems+and+numerical+analysis&ots=TYk2JZiNVG&sig=0mCqPchp17JHceSdTerWUMjjAhE&redir_esc=y#v=onepage&q=dynamical%20systems%20and%20numerical%20analysis&f=false) (1996)
 - [Information Theory, Inference, and Learning Algorithms](http://www.inference.org.uk/mackay/itila/book.html) (2003)
