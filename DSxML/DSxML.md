@@ -175,6 +175,8 @@ Dynamical Systems](https://arxiv.org/pdf/2207.00521.pdf) (2022)
 - [Poisson Flow Generative Models](https://arxiv.org/abs/2209.11178) (2022)
 - [Flow Matching for Generative Modeling](https://arxiv.org/abs/2210.02747) (2022)
 - [What's the Score?](https://scorebasedgenerativemodeling.github.io/)
+- [Deep Equilibrium Approaches to Diffusion Models](https://arxiv.org/pdf/2210.12867.pdf) (2022)
+- [From Points to Functions: Infinite-dimensional Representations in Diffusion Models](https://arxiv.org/abs/2210.13774) (2022)
 
 
 ### Complex Networks x Dynamical Systems:
