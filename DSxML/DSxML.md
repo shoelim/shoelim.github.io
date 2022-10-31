@@ -49,6 +49,7 @@ networks](https://arxiv.org/pdf/1705.08741.pdf) (2018)
 
 ### Sequence Modeling:
 - [A Field Guide to Dynamical Recurrent Networks](https://ieeexplore.ieee.org/book/5263132) (2001)
+- [On the difficulty of training Recurrent Neural Networks](https://arxiv.org/pdf/1211.5063.pdf) (2013)
 - [Unitary Evolution Recurrent Neural Networks](https://arxiv.org/abs/1511.06464) (2016)
 - [RNNs without Chaos](https://arxiv.org/pdf/1612.06212.pdf) (2017)
 - [An empirical evaluation of generic convolutional and recurrent networks for sequence modeling](https://arxiv.org/abs/1803.01271) (2018)
