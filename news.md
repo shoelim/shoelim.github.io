@@ -11,6 +11,7 @@ redirect_from:
 
 News
 =====
+- __May 2023:__: Invited talk at [BrainNet 2023](https://brainnet23.github.io/), Stockholm 
 - __December 2022:__ Invited talk at "Differential Equations and Machine Learning", [IMS International Conference on Statistics and Data Science](https://sites.google.com/view/icsds2022), Florence
 - __September 2022:__ Invited talk at the [Third Symposium on Machine Learning and Dynamical Systems](http://www.fields.utoronto.ca/activities/22-23/3rd-machine-learning), Fields Institute
 - __September 2022:__ One paper accepted at [NeurIPS 2022](https://openreview.net/forum?id=sn6BZR4WvUR&referrer=[the%20profile%20of%20Soon%20Hoe%20Lim](/profile?id=~Soon_Hoe_Lim1))
