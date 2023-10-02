@@ -24,6 +24,7 @@ Refereeing
 - [Journal of Physics A: Mathematical and Theoretical](https://iopscience.iop.org/journal/1751-8121)
 - [New Journal of Physics](https://iopscience.iop.org/journal/1367-2630)
 - [Chaos: An Interdisciplinary Journal of Nonlinear Science](https://aip.scitation.org/journal/cha)
+- [Nature Communications](https://www.nature.com/ncomms/)
 
 <br> 
 
