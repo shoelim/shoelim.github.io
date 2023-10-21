@@ -16,7 +16,6 @@ News
 - __December 2022:__ Invited talk at "Differential Equations and Machine Learning", [IMS International Conference on Statistics and Data Science](https://sites.google.com/view/icsds2022), Florence
 - __September 2022:__ Invited talk at the [Third Symposium on Machine Learning and Dynamical Systems](http://www.fields.utoronto.ca/activities/22-23/3rd-machine-learning), Fields Institute
 - __September 2022:__ One paper accepted at [NeurIPS 2022](https://openreview.net/forum?id=sn6BZR4WvUR&referrer=[the%20profile%20of%20Soon%20Hoe%20Lim](/profile?id=~Soon_Hoe_Lim1))
-- __June 2022:__ Started new position as an Assistant Professor at [Nordita](https://www.nordita.org/)
 - __March 2022:__ One talk at the [Applied Machine Learning Days](https://appliedmldays.org/events/amld-epfl-2022/talks/boosting-model-robustness-by-leveraging-data-augmentations-stability-training-and-noise-injections), EPFL (watch the talk [here](https://www.youtube.com/watch?v=p147ueuniKI&list=PLOMUcsGYfYasfTuGmshpDiNCsY16XcayD&index=7))
 - __March 2022:__ Invited talk at the Dynamical Systems seminar at University of Exeter
 - __January 2022:__ One accepted paper at [ICLR 2022](https://openreview.net/forum?id=vJb4I2ANmy)
