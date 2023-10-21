@@ -10,7 +10,7 @@ Some central themes of interest:<br>
 - Randomness in/of/for robust and reliable machine learning 
 - Implicit regularization and optimization in machine learning
 - Machine learning through the lens of dynamical systems and statistical mechanics
-- Physics-guided machine learning
+- Physics-guided probabilistic machine learning
 
 
 <!-- Some more specific research projects are: <br>
