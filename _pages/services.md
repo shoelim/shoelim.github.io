@@ -13,8 +13,8 @@ author_profile: true
 
 Conference/Workshop/Seminar Organizing
 ======
-- Co-organizer, New Challenges in High Dimensional Complex Dynamical Systems, Nordita, Stockholm, May 2024
-- Co-organizer, Minisymposium on <i>Deep Learning for Sequence Modeling</i> at [SIAM CSE 2023](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=75499), Amsterdam, February 2023 
+- Co-organizer, *New Challenges in High Dimensional Complex Dynamical Systems*, Nordita, Stockholm, May 2024
+- Co-organizer, Minisymposium on *Deep Learning for Sequence Modeling* at [SIAM CSE 2023](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=75499), Amsterdam, February 2023 
 - Co-organizer, [e-Seminar on Scientific Machine Learning](https://scientific-ml.org/), remote, 2022 
 <br> 
 
@@ -23,7 +23,7 @@ Refereeing
 - [Conference on Neural Information Processing Systems (NeurIPS)](https://nips.cc/Conferences/2021)
 - [International Conference on Machine Learning (ICML)](https://icml.cc/)
 - [International Conference on Learning Representations (ICLR)](https://iclr.cc/)
-- [AIStats](https://aistats.org/)
+- [International Conference on Artificial Intelligence and Statistics (AIStats)](https://aistats.org/)
 - [Stochastic Processes and their Applications](https://www.journals.elsevier.com/stochastic-processes-and-their-applications)
 - [Machine Learning](https://shoelim.github.io/news/)
 - [Nonlinearity](https://iopscience.iop.org/journal/0951-7715)
