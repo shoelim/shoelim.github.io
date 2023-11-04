@@ -4,14 +4,13 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-My primary research interests are in <font color="blue">mathematical and statistical machine learning</font>, particularly topics at the interface of random dynamical systems and <a href="https://arxiv.org/abs/1312.6199"><font><i>modern</i></font> neural networks</a>. While there is a focus on using foundational/theoretical questions to drive advances in the science and engineering of learning systems, the theory is strongly tied to implementational problems and a wide range of very practical applications.  <br>
+My primary research interests are in <font color="blue">machine learning</font>, particularly topics at the interface of stochastic dynamical systems and <a href="https://arxiv.org/abs/1312.6199"><font><i>modern</i></font> neural networks</a>. While there is a focus on using foundational/theoretical questions to drive advances in the science and engineering of learning systems, the theory is strongly tied to implementational problems and a wide range of very practical applications.  <br>
 
 Some central themes of interest:<br>
-- Randomness in/of/for robust and reliable machine learning 
-- Implicit regularization and optimization in machine learning
-- Machine learning through the lens of dynamical systems and statistical mechanics
-- Physics-guided probabilistic machine learning
-
+- **Robustness in ML:** how to leverage randomness to make ML safer and more reliable
+- **Implicit regularization & optimization in ML:** how to understand and improve learning algorithms meaningfully via the lens of implicit regularization
+- **ML for sequence modeling:** how to use ML to model and learn non-trivial sequences and dynamics in principled manners
+- **ML through the lens of dynamical systems & statistical mechanics:** how to use ideas and tools from the well grounded fields of dynamical systems and statistical mechanics to understand and improve existing ML methods
 
 <!-- Some more specific research projects are: <br>
 
