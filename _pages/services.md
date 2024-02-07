@@ -13,7 +13,7 @@ author_profile: true
 
 Conference/Workshop/Seminar Organizing
 ======
-- Co-organizer, *New Challenges in High Dimensional Complex Dynamical Systems*, Nordita, Stockholm, May 2024
+- Co-organizer, [*New Challenges in High Dimensional Complex Dynamical Systems*](https://indico.fysik.su.se/event/8139/page/617-week-2-new-challenges-in-high-dimensional-complex-dynamical-systems), Nordita, Stockholm, May 2024
 - Co-organizer, Minisymposium on *Deep Learning for Sequence Modeling* at [SIAM CSE 2023](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=75499), Amsterdam, February 2023 
 - Co-organizer, [e-Seminar on Scientific Machine Learning](https://scientific-ml.org/), remote, 2022 
 <br> 
