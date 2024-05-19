@@ -13,9 +13,9 @@ Dynamic AI is a *research and innovation lab* focusing on exploring and developi
 
 ## Missions
 Dynamic AI strives to:
-- To survey, review and produce state-of-the-arts of research results at the interface of dynamical systems and ML 
+- To produce state-of-the-arts of research results at the interface of dynamical systems and ML 
 - To explore various foundational topics at the interface of dynamical systems and ML 
-- To build various real world applications inspired by the explorations in this interface
+- To build impactful real world applications at this interface with collaborators and partners
 - To disseminate knowledge and information about the progress in this interface to the general audience 
 
 ## Services
