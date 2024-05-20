@@ -1,18 +1,18 @@
 ---
 #layout: archive
-title: "Dynamic AI"
-permalink: /DynamicAI/
+title: "Dynamai"
+permalink: /Dynamai/
 author_profile: true
 redirect_from:
-  - /DynamicAI
+  - /Dynamai
 ---
 
-## Welcome to Dynamic AI!
-Dynamic AI is a *research and innovation lab* focusing on exploring and developing ideas and concepts at the interface of dynamical systems and machine learning (ML). Rooted in academia rigor, we are obssessed with anything that has to do with dynamical systems and ML in our lab. We are excited to turn our obsession into not only academic publications but also valuable products in the form of impactful real world applications! 
+## Welcome to Dynamai!
+Dynamai is a *research and innovation lab* focusing on exploring and developing ideas and concepts at the interface of dynamical systems and machine learning (ML). Rooted in academia rigor, we are obssessed with anything that has to do with dynamical systems and ML in our lab. We are excited to turn our obsession into not only academic publications but also valuable products in the form of impactful real world applications! 
 <br>
 
 ## Missions
-Dynamic AI strives to:
+Dynamai strives to:
 - To explore various foundational topics at the interface of dynamical systems and ML 
 - To produce state-of-the-arts research results at the interface of dynamical systems and ML
 - To disseminate knowledge and information about the latest progress in research at this interface  
