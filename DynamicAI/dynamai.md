@@ -8,15 +8,15 @@ redirect_from:
 ---
 
 ## Welcome to Dynamai!
-Dynamai is a *research and innovation lab* focusing on exploring and developing ideas and concepts at the interface of dynamical systems and machine learning (ML). Rooted in academia rigor, we are obssessed with anything that has to do with dynamical systems and ML in our lab. We are excited to turn our obsession into not only academic publications but also valuable products in the form of impactful real world applications! 
+Dynamai is a *research and innovation lab* focusing on exploring and developing ideas and concepts at the interface of dynamical systems and artificial intelligence (AI). Rooted in academia rigor, we are obssessed with anything that has to do with dynamical systems and AI in our lab. We are excited to turn our obsession into not only academic publications but also valuable products/services in the form of impactful real world applications! 
 <br>
 
 ## Missions
 Dynamai strives to:
-- To explore various foundational topics at the interface of dynamical systems and ML 
-- To produce state-of-the-arts research results at the interface of dynamical systems and ML
-- To disseminate knowledge and information about the latest progress in research at this interface  
-- To apply research findings to solve data-driven, real world problems with collaborators and partners
+- To explore various foundational topics at the interface of dynamical systems and AI 
+- To produce state-of-the-arts research results and softwares at the interface of dynamical systems and AI
+- To share and disseminate knowledge and information about the latest progress in research at this interface  
+- To provide education and consulting services to other institutions and industrial partners
 
 ## Services
 - Research
