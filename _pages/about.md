@@ -13,7 +13,7 @@ redirect_from:
 - I completed my PhD in Applied Mathematics at the <a href="http://math.arizona.edu/">University of Arizona</a> in May 2018, under supervision of <a href="http://math.arizona.edu/~wehr/">Jan Wehr</a>. Prior to that, I studied mathematics and physics at the <a href="https://umich.edu/">University of Michigan</a>, initially delving into actuarial/financial mathematics.  <br>
 <br>
 
-🚨 **I am currently looking for two postdocs and master students to join a <a href="https://shoelim.github.io/DynamicAI/">new group</a> based at KTH Mathematics and Nordita, focusing on foundational topics at the interface of Generative AI and dynamical systems!**
+🚨 **I am currently looking for two postdocs and several master students to join a <a href="https://shoelim.github.io/DynamicAI/">new group</a> based at KTH Mathematics and Nordita, focusing on foundational topics at the interface of Generative AI and dynamical systems!**
 
 
 
