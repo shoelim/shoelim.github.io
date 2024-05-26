@@ -1,6 +1,6 @@
 ---
-#layout: archive
-title: "Dynamai"
+title: ""
+permalink: /dynamai/
 author_profile: true
 ---
 
