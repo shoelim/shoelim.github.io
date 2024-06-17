@@ -12,12 +12,12 @@ redirect_from:
 News
 =====
 - __November 2024:__ Invited talk at the QuantM&L seminar at the University of St. Gallen
-- __July 2024:__ Invited talk at the [Fourth Symposium on Machine Learning and Dynamical Systems](http://www.fields.utoronto.ca/activities/24-25/machine-learning), Fields Institute
-- __May 2024:__ Organized the [WINQ workshop](https://indico.fysik.su.se/event/8139/page/617-week-2-new-challenges-in-high-dimensional-complex-dynamical-systems) on "New Challenges in High Dimensional Complex Dynamical Systems" at Nordita, Stockholm 
+- __July 2024:__ Invited talk at the [Fourth Symposium on Machine Learning and Dynamical Systems](http://www.fields.utoronto.ca/activities/24-25/machine-learning), Fields Institute, Toronto
+- __May 2024:__ Organized the [WINQ workshop](https://indico.fysik.su.se/event/8139/page/617-week-2-new-challenges-in-high-dimensional-complex-dynamical-systems) on "New Challenges in High Dimensional Complex Dynamical Systems" at Nordita
 - __May 2023:__ Invited talk at [BrainNet 2023](https://brainnet23.github.io/), Stockholm
 - __March 2023:__ Two organized minisymposium sessions on "Deep Learning for Sequence Modeling" at [SIAM CSE 2023](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=75499), Amsterdam 
 - __December 2022:__ Invited talk at "Differential Equations and Machine Learning", [IMS International Conference on Statistics and Data Science](https://sites.google.com/view/icsds2022), Florence
-- __September 2022:__ Invited talk at the [Third Symposium on Machine Learning and Dynamical Systems](http://www.fields.utoronto.ca/activities/22-23/3rd-machine-learning), Fields Institute
+- __September 2022:__ Invited talk at the [Third Symposium on Machine Learning and Dynamical Systems](http://www.fields.utoronto.ca/activities/22-23/3rd-machine-learning), Fields Institute, Toronto
 - __September 2022:__ One paper accepted at [NeurIPS 2022](https://openreview.net/forum?id=sn6BZR4WvUR&referrer=[the%20profile%20of%20Soon%20Hoe%20Lim](/profile?id=~Soon_Hoe_Lim1))
 - __March 2022:__ One talk at the [Applied Machine Learning Days](https://appliedmldays.org/events/amld-epfl-2022/talks/boosting-model-robustness-by-leveraging-data-augmentations-stability-training-and-noise-injections), EPFL (watch the talk [here](https://www.youtube.com/watch?v=p147ueuniKI&list=PLOMUcsGYfYasfTuGmshpDiNCsY16XcayD&index=7))
 - __March 2022:__ Invited talk at the Dynamical Systems seminar at University of Exeter
