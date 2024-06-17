@@ -11,6 +11,9 @@ redirect_from:
 
 News
 =====
+- __November 2024:__ Invited talk at the QuantM&L seminar at the University of St. Gallen, Switzerland
+- __July 2024:__ Invited talk at the [Fourth Symposium on Machine Learning and Dynamical Systems](http://www.fields.utoronto.ca/activities/24-25/machine-learning), Fields Institute
+- __May 2024:__ Organized the [WINQ workshop](https://indico.fysik.su.se/event/8139/page/617-week-2-new-challenges-in-high-dimensional-complex-dynamical-systems) on "New Challenges in High Dimensional Complex Dynamical Systems" at Nordita, Stockholm 
 - __May 2023:__ Invited talk at [BrainNet 2023](https://brainnet23.github.io/), Stockholm
 - __March 2023:__ Two organized minisymposium sessions on "Deep Learning for Sequence Modeling" at [SIAM CSE 2023](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=75499), Amsterdam 
 - __December 2022:__ Invited talk at "Differential Equations and Machine Learning", [IMS International Conference on Statistics and Data Science](https://sites.google.com/view/icsds2022), Florence
@@ -32,5 +35,5 @@ News
 - __September 2020:__ Contributed talk at the [Second Symposium on Machine Learning and Dynamical Systems](http://www.fields.utoronto.ca/activities/20-21/dynamical) at the Fields Institute (watch the talk [here](https://www.youtube.com/watch?v=iQ23qaGcFjc))
 <br>
 <br>
-<small>Last updated: June 2023</small>
+<small>Last updated: June 2024</small>
 
