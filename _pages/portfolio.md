@@ -9,7 +9,7 @@ My primary research interests are in <font color="blue">machine learning</font>,
 Some central themes of interest:<br>
 - **Generative AI + dynamical systems:** how to improve existing generative modeling methods, particularly for learning sequences, using tools from dynamical systems 
 - **Robustness in ML:** how to leverage randomness to make ML safer and more reliable
-- **Sampling & optimization in ML:** how to understand and improve sampling and optimization algorithms in ML meaningfully 
+- **Optimization in ML:** how to understand and improve optimization algorithms in ML meaningfully 
 - **ML for sequence modeling:** how to use ML to model and learn sequences, particularly those with underlying non-trivial dynamics 
 - **ML + dynamical systems & statistical mechanics:** how to use ideas and tools from dynamical systems and statistical mechanics to understand and improve existing ML methods
 
