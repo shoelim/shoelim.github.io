@@ -2,6 +2,8 @@
 title: "Welcome to Dynamai!"
 permalink: /dynamai/
 author_profile: true
+redirect_from:
+  - /dynamai
 ---
 
 **Dynamai** is a *research and innovation lab* dedicated to exploring the dynamic intersection of dynamical systems and artificial intelligence (AI). Based in Stockholm, we are passionate about translating academic rigor into impactful solutions, creating both first-rate publications and real-world value at this exciting frontier! 
