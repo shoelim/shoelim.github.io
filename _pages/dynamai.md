@@ -4,25 +4,23 @@ permalink: /dynamai/
 author_profile: true
 ---
 
-Dynamai is a *research and innovation lab* focusing on exploring and developing ideas and concepts at the interface of dynamical systems and artificial intelligence (AI). Rooted in academia rigor, we are obssessed with anything that has to do with dynamical systems and AI in our lab. We are excited to turn our obsession into not only academic publications but also products/services in the form of impactful real world contributions! 
+**Dynamai** is a *research and innovation lab* dedicated to exploring the dynamic intersection of dynamical systems and artificial intelligence (AI). Based in Stockholm, we are passionate about translating academic rigor into impactful solutions, creating both first-rate publications and real-world value at this exciting frontier! 
+
+We also provide various private education and consulting services to institutions and industrial partners. Contact us for more details!
 <br>
 
-## Missions
-Dynamai strives to:
-- To explore various foundational topics at the interface of dynamical systems and AI 
-- To produce state-of-the-arts research results and softwares at the interface of dynamical systems and AI
-- To share and disseminate knowledge and information about the latest progress in research at this interface  
-- To provide education and consulting services to other institutions and industrial partners
-
-## Services
-- Research
-- Education   
-- Software developing
-- Private consulting
+## News 
+- August 2024: Currently recruiting a postdoc, two PhD students and several master students to join the group 🔥
+  
+## Team
+Group leader: [Soon Hoe Lim](https://shoelim.github.io/) 
 
 ## Projects 
-Check out our reading list [here](https://shoelim.github.io/DSxML/)! Until then, stay tuned!
+Under construction! In the mean time, check out our reading list on ML [here](https://shoelim.github.io/DSxML/)! 
 <br>
 
+## Funding & Support 
+We acknowledge the computational resources provided by the National Academic Infrastructure for Supercomputing in Sweden (NAISS), partially funded by the Swedish Research Council through grant agreement no. 2022-06725. We are very grateful for the funding awarded by the Swedish Research Council (VR/2021-03648) and the [Wallenberg Foundations](https://www.wallenberg.org/en) (WINQ).
+
 ## Contact 
-We are happy to hear from you! For any enquiries and comments, please contact us via the email address: soon DOT hoe DOT lim AT su DOT se. 
+We are happy to hear from you! For any enquiries and comments, please contact us via the email address: shlim AT kth DOT se. 
