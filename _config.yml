@@ -178,6 +178,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  dynamai:
+    output: true
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -234,6 +237,15 @@ defaults:
   - scope:
       path: ""
       type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _dynamai
+  - scope:
+      path: ""
+      type: dynamai
     values:
       layout: single
       author_profile: true
