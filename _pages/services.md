@@ -33,6 +33,7 @@ Refereeing
 - [Chaos: An Interdisciplinary Journal of Nonlinear Science](https://aip.scitation.org/journal/cha)
 - [Nature Communications](https://www.nature.com/ncomms/)
 - [Proceedings of the Royal Society A](https://royalsocietypublishing.org/journal/rspa)
+- [Journal of the American Statistical Association](https://www.tandfonline.com/journals/uasa20)
 <br> 
 
 Teaching
