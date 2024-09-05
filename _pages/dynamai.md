@@ -15,9 +15,7 @@ We are also open to providing private education and consulting services to insti
 - August 2024: Currently recruiting a postdoc, two PhD students and several master students to join the group 🔥
   
 ## Team
-Group leader: [Soon Hoe Lim](https://shoelim.github.io/) 
-
-Members: 
+- [Soon Hoe Lim](https://shoelim.github.io/) (group leader)
 - Shizheng Lin (master's student)
 - Lianhang Liu (master's student)
 - Anurag Deshpande (bachelor's student)
