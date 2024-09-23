@@ -17,7 +17,6 @@ We are also open to providing private education and consulting services to insti
 ## Team
 - [Soon Hoe Lim](https://shoelim.github.io/) (group leader)
 - Shizheng Lin (master's student)
-- Lianhang Liu (master's student)
 - Anurag Deshpande (bachelor's student)
 
 ## Projects 
