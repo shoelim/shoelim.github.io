@@ -15,7 +15,7 @@ redirect_from:
 
 ## Selected Papers
 ### Modern ML x Must-Read:
-- [Learning internal representations by error-propagation](https://apps.dtic.mil/sti/pdfs/ADA164453.pdf) (1986)
+- [Learning internal representations by error-propagation](https://apps.dtic.mil/sti/pdfs/ADA164453.pdf) (1985)
 - [A theoretical framework for back-propagation](http://yann.lecun.com/exdb/publis/pdf/lecun-88.pdf) (1988)
 - [Gradient-based learning applied to document recognition](https://ieeexplore.ieee.org/abstract/document/726791) (1998)
 - [Random features for large-scale kernel machines](https://papers.nips.cc/paper/2007/hash/013a006f03dbc5392effeb8f18fda755-Abstract.html) (2007)
