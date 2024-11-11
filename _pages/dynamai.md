@@ -6,9 +6,9 @@ redirect_from:
   - /dynamai
 ---
 
-**Dynamai** is a *research and innovation lab* dedicated to exploring the dynamic intersection of dynamical systems and artificial intelligence (AI). Based in Stockholm, we are passionate about translating academic rigor into impactful solutions, creating both first-rate publications and real-world value at this exciting frontier! In general, we are interested to explore topics at the interface of mathematical statistics, computing, and physics!
+**Dynamai** is a *research and innovation lab* dedicated to exploring the dynamic intersection of dynamical systems and artificial intelligence (AI). Based in Stockholm, we are passionate about translating academic rigor into impactful solutions, creating both first-rate publications and real-world value at this exciting frontier! 
 
-We are also open to providing private education and consulting services to institutions and industrial partners. Contact us for more details!
+In general, we are interested to explore topics at the interface of mathematical statistics, computing, and physics! We are also open to providing private education and consulting services to institutions and industrial partners. Contact us for more details!
 <br>
 
 ## News 
