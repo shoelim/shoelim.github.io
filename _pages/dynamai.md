@@ -12,7 +12,7 @@ In general, we are interested to explore topics at the interface of mathematical
 <br>
 
 ## News 
-- August 2024: Currently recruiting a postdoc, two PhD students and several master students to join the group 🔥
+- August 2024: Currently recruiting a postdoc, two PhD students and several master students to join the group 
   
 ## Team
 - [Soon Hoe Lim](https://shoelim.github.io/) (group leader)
