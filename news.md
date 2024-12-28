@@ -12,6 +12,7 @@ redirect_from:
 News
 =====
 - __November 2024:__ Invited talk at the QuantM&L seminar at the University of St. Gallen
+- __November 2024:__ Invited talk at the TDLI, Shanghai
 - __July 2024:__ Invited talk at the [Fourth Symposium on Machine Learning and Dynamical Systems](http://www.fields.utoronto.ca/activities/24-25/machine-learning), Fields Institute, Toronto (watch the talk [here](https://www.youtube.com/watch?v=E3__8rhDJcA&list=PLOMUcsGYfYasfTuGmshpDiNCsY16XcayD&index=9))
 - __May 2024:__ Organized the [WINQ workshop](https://indico.fysik.su.se/event/8139/page/617-week-2-new-challenges-in-high-dimensional-complex-dynamical-systems) on "New Challenges in High Dimensional Complex Dynamical Systems" at Nordita
 - __September 2023:__ Invited talk at the [17th Granada Seminar on Machine Learning and Physics](https://granadaseminar.com/index.php/program-17th/), University of Granada
