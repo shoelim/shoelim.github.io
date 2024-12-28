@@ -4,7 +4,8 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-My primary research interests are in <font color="blue">machine learning</font>, particularly topics at the interface of stochastic dynamical systems and <a href="https://arxiv.org/abs/1312.6199"><font><i>modern</i></font> neural networks</a>. While there is a focus on using foundational questions to drive advances in the science and engineering of learning systems, the theory is strongly tied to implementational problems and a wide range of very practical applications.  <br>
+My primary research interests lie in <font color="blue">machine learning</font>, particularly at the intersection of applied probability, dynamical systems, and <a href="https://arxiv.org/abs/1312.6199"><font><i>modern</i></font> neural networks</a>. While my work focuses on leveraging foundational questions to advance the science and engineering of learning systems, the theory is closely connected to implementation challenges and a broad spectrum of practical applications across the sciences. 
+<br>
 
 Some central themes of interest:<br>
 - **Generative AI + dynamical systems:** how to improve existing generative modeling methods, particularly for learning sequences, using tools from dynamical systems 
