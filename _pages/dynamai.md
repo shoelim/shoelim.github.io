@@ -17,7 +17,6 @@ In general, we are interested to explore topics at the interface of mathematical
 ## Team
 - [Soon Hoe Lim](https://shoelim.github.io/) (group leader)
 - Shizheng Lin (master's student)
-- Anurag Deshpande (bachelor's student)
 
 ## Projects 
 Under construction! In the mean time, check out our reading list on ML [here](https://shoelim.github.io/DSxML/)! 
