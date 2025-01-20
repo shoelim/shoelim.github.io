@@ -11,9 +11,6 @@ redirect_from:
 In general, we are interested to explore topics at the interface of mathematical statistics, computing, and physics! We are also open to providing private education and consulting services to institutions and industrial partners. Contact us for more details!
 <br>
 
-## News 
-- August 2024: Currently recruiting a postdoc, two PhD students and several master students to join the group 
-  
 ## Team
 - [Soon Hoe Lim](https://shoelim.github.io/) (group leader)
 - Shizheng Lin (master's student)
