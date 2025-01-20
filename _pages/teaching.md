@@ -9,9 +9,10 @@ author_profile: true
 {% endfor %} -->
 
 
-__In 2021:__
-- __August 7:__ (Invited talk) Noisy Recurrent Neural Networks. [Conference on Mathematics of Machine Learning](https://www.mis.mpg.de/calendar/conferences/2021/mml2021/program.html), Center for Interdisciplinary Research, Bielefeld University
-- __June 1:__ (Invited talk) Noisy Recurrent Neural Networks. [SIG on Machine Learning and Dynamical Systems](https://www.youtube.com/watch?v=9t-UTLvkhyk&t=22s)
-- __February 22:__ (Invited talk) Noisy Recurrent Neural Networks. [Machine Learning and Science Forum](https://bids.berkeley.edu/events/machine-learning-and-science-forum-2021-0222), Berkeley Institute for Data Science
-
-<br>
+- Supervisor, <i>SF290X HT24 p2 Degree Project in Mathematical Statistics, Second Cycle (50915)</i>, Department of Mathematics, KTH Royal Institute of Technology. Autumn 2024
+- Supervisor, <i>SF290X HT24 p1 Degree Project in Mathematical Statistics, Second Cycle (50687)</i>, Department of Mathematics, KTH Royal Institute of Technology. Autumn 2024
+- Teaching assistant, <i>Math 254 - Introduction to Ordinary Differential Equations</i>, Department of Mathematics, University of Arizona. Spring 2017
+- Project mentor, <i>Math 485 - Mathematical Modeling</i>, Department of Mathematics, University of Arizona. Spring 2015 and Spring 2017
+- Instructor, <i>Math 113 - Elementary Calculus</i>, Department of Mathematics, University of Arizona. Summer 2016
+- Instructor, <i>Math 112 - College Algebra: Concepts and Applications</i>, Department of Mathematics, University of Arizona. Fall 2013-Spring 2015
+<br> 
