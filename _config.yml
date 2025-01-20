@@ -187,7 +187,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  sides:
+  teaching:
     output: true
     permalink: /:collection/:path/
   DSxML:
@@ -267,12 +267,12 @@ defaults:
       layout: DSxML
       author_profile: true
       share: true
-  # _sides
+  # _teaching
   - scope:
       path: ""
-      type: sides
+      type: teaching
     values:
-      layout: sides
+      layout: teaching
       author_profile: true
       share: true
 
