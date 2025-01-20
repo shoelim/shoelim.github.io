@@ -267,14 +267,6 @@ defaults:
       layout: DSxML
       author_profile: true
       share: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: teaching
-      author_profile: true
-      share: true
 
 # Sass/SCSS
 sass:
