@@ -33,6 +33,7 @@ Refereeing
 - [New Journal of Physics](https://iopscience.iop.org/journal/1367-2630)
 - [Chaos: An Interdisciplinary Journal of Nonlinear Science](https://aip.scitation.org/journal/cha)
 - [Nature Communications](https://www.nature.com/ncomms/)
+- [Neural Networks](https://www.sciencedirect.com/journal/neural-networks)
 - [Proceedings of the Royal Society A](https://royalsocietypublishing.org/journal/rspa)
 - [Journal of the American Statistical Association](https://www.tandfonline.com/journals/uasa20)
 <br> 
