@@ -6,17 +6,8 @@ redirect_from:
   - /dynamai
 ---
 
-**Dynamai** is a *research and innovation lab* dedicated to exploring the dynamic intersection of dynamical systems and artificial intelligence (AI). Based in Stockholm, we are passionate about translating academic rigor into impactful solutions, creating both first-rate publications and real-world value at this exciting frontier! 
-
-In general, we are interested to explore topics at the interface of mathematical statistics, computing, and physics! We are also open to providing private education and consulting services to institutions and industrial partners. Contact us for more details!
-<br>
-
-## Team
-- [Soon Hoe Lim](https://shoelim.github.io/) (group leader)
-- Shizheng Lin (master's student)
-
-## Projects 
-Under construction! In the mean time, check out our reading list on ML [here](https://shoelim.github.io/DSxML/)! 
+**Dynamai** is a *research and innovation lab* dedicated to advancing the intersection of dynamical systems and artificial intelligence (AI). We are driven by a passion for transforming academic excellence into real-world impact, aiming to produce both high-quality publications and practical solutions at this exciting frontier.
+Our research explores the interface of mathematical statistics and computational sciences, bridging theory and application to drive innovation. We also offer private education and consulting services for institutions and industry partners. Contact us to learn more!
 <br>
 
 ## Funding & Support 
