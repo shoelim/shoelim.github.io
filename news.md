@@ -39,5 +39,5 @@ News
 - __September 2020:__ Contributed talk at the [Second Symposium on Machine Learning and Dynamical Systems](http://www.fields.utoronto.ca/activities/20-21/dynamical) at the Fields Institute, virtual (watch the talk [here](https://www.youtube.com/watch?v=iQ23qaGcFjc))
 <br>
 <br>
-<small>Last updated: June 2024</small>
+<small>Last updated: March 2025</small>
 
