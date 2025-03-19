@@ -12,6 +12,7 @@ redirect_from:
 News
 =====
 - __March 2025:__ Invited talk at the [14th Nordic Workshop on Statistical Physics](https://indico.fysik.su.se/event/8942/), Nordita, Stockholm
+- __January 2025:__ One paper accepted (spotlight) at ICLR 2025 and another one at AISTATS 2025
 - __November 2024:__ Invited talk at the [QuantM&L seminar](https://www.unisg.ch/en/universitaet/schools/school-of-economics-and-political-science-seps/research/quantitative-methods-and-learning/) at the University of St. Gallen, St. Gallen
 - __November 2024:__ Invited talk at the [TDLI](https://tdli.sjtu.edu.cn/EN/events/seminars-colloquia/1728/abcd), Shanghai
 - __July 2024:__ Invited talk at the [Fourth Symposium on Machine Learning and Dynamical Systems](http://www.fields.utoronto.ca/activities/24-25/machine-learning), Fields Institute, Toronto (watch the talk [here](https://www.youtube.com/watch?v=E3__8rhDJcA&list=PLOMUcsGYfYasfTuGmshpDiNCsY16XcayD&index=9))
