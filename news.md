@@ -11,7 +11,7 @@ redirect_from:
 
 News
 =====
-- __May 2025:__ Invited talk at Workshop on High-Dimensional Methods for ML, Gothenburg 
+- __May 2025:__ Invited talk at [Workshop in Advancements in High-Dimensional Methods for Machine Learning](https://www.chalmers.se/en/current/calendar/cse-workshop/), Chalmers, Gothenburg 
 - __March 2025:__ Invited talk at the [14th Nordic Workshop on Statistical Physics](https://indico.fysik.su.se/event/8942/), Nordita, Stockholm
 - __January 2025:__ One paper accepted (spotlight) at ICLR 2025 and another one at AISTATS 2025
 - __January 2025:__ Co-organized [Winter School on Physics of Machine Learning & Machine Learning for Physics](https://indico.fysik.su.se/event/8856/) at Nordita, Stockholm
