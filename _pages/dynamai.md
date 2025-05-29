@@ -11,7 +11,7 @@ Our research explores the interface of mathematical statistics and computational
 <br>
 
 ## News
-📣 We are hiring! Join our group and help push the frontiers of AI! Apply [here](https://academicjobsonline.org/ajo/jobs/30017).
+📣 We are hiring a postdoc! Join our group and help push the frontiers of AI! Apply [here](https://academicjobsonline.org/ajo/jobs/30017).
 <br>
 📣 One paper accepted (spotlight) at ICLR 2025 and another one at AISTATS 2025.
 <br>
