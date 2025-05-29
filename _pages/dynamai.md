@@ -6,9 +6,12 @@ redirect_from:
   - /dynamai
 ---
 
-**Dynamai** is a *research and innovation lab* dedicated to advancing the intersection of dynamical systems and artificial intelligence (AI). We are driven by a passion for transforming academic excellence into real-world impact, aiming to produce both high-quality publications and practical solutions at this exciting frontier.
+**Dynamai** is a *research and innovation group* dedicated to advancing the intersection of dynamical systems and artificial intelligence (AI). We are driven by a passion for transforming academic excellence into real-world impact, aiming to produce both high-quality publications and practical solutions at this exciting frontier.
 Our research explores the interface of mathematical statistics and computational sciences, bridging theory and application to drive innovation. Our main areas of interest include mathematical foundations of <span style="color: blue;">generative AI</span> and <span style="color: blue">sequence modeling</span>, <span style="color: blue">robustness and reliability</span> in ML, and <span style="color: blue">AI for science</span>.
 <br>
+
+## News
+📣 We are hiring! Join our group and help push the frontiers of AI! Apply [here](https://academicjobsonline.org/ajo/jobs/30017).
 
 ## Funding & Support 
 We acknowledge the computational resources provided by the [National Academic Infrastructure for Supercomputing in Sweden](https://www.naiss.se/) (NAISS), partially funded by the Swedish Research Council through grant agreement no. 2022-06725. We are very grateful for the funding awarded by the [Swedish Research Council](https://www.vr.se/english.html) (VR/2021-03648) and the [Wallenberg Foundations](https://www.wallenberg.org/en) (WINQ).
