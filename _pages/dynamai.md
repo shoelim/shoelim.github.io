@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 **Dynamai** is a *research and innovation lab* dedicated to advancing the intersection of dynamical systems and artificial intelligence (AI). We are driven by a passion for transforming academic excellence into real-world impact, aiming to produce both high-quality publications and practical solutions at this exciting frontier.
-Our research explores the interface of mathematical statistics and computational sciences, bridging theory and application to drive innovation. 
+Our research explores the interface of mathematical statistics and computational sciences, bridging theory and application to drive innovation. Our main areas of interest include mathematical foundations of generative AI and sequence modeling, robustness and reliability in ML, and AI for science.
 <br>
 
 ## Funding & Support 
