@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 **Dynamai** is a *research and innovation group* dedicated to advancing the intersection of dynamical systems and artificial intelligence (AI). We are driven by a passion for transforming academic excellence into real-world impact, aiming to produce both high-quality publications and practical solutions at this exciting frontier.
-Our research explores the interface of mathematical statistics and computational sciences, bridging theory and application to drive innovation. Our main areas of interest include mathematical foundations of <span style="color: blue;">generative AI</span> and <span style="color: blue">sequence modeling</span>, <span style="color: blue">robustness and reliability</span> in ML, and <span style="color: blue">AI for science</span>.
+Our research explores the interface of mathematical statistics and computational sciences, bridging theory and application to drive innovation. Our main areas of interest include mathematical foundations of <span style="color: blue;">generative AI</span> and <span style="color: blue">sequence modeling</span>, <span style="color: blue">robustness and reliability</span> in ML, and <span style="color: blue">AI for science</span>. We actively collaborate with research groups and institutions around the world, partnering with leading researchers to accelerate discovery and impact.
 <br>
 
 ## News
