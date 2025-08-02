@@ -11,8 +11,9 @@ author_profile: true
 {% endfor %}
  -->
 
-Conference/Workshop/Seminar Organizing
+Organizational & Commitee Service
 ======
+- Program committee, [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/), Singapore, January 2026
 - Co-organizer, [*2025 Nordita Winter School on "Physics of Machine Learning & Machine Learning for Physics"*](https://indico.fysik.su.se/event/8856/), Nordita, Stockholm, January 2025
 - Co-organizer, [*New Challenges in High Dimensional Complex Dynamical Systems*](https://indico.fysik.su.se/event/8139/page/617-week-2-new-challenges-in-high-dimensional-complex-dynamical-systems), Nordita, Stockholm, May 2024
 - Co-organizer, Minisymposium on *Deep Learning for Sequence Modeling* at [SIAM CSE 2023](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=75499), Amsterdam, February 2023 
@@ -36,7 +37,8 @@ Refereeing
 - [Neural Networks](https://www.sciencedirect.com/journal/neural-networks)
 - [Proceedings of the Royal Society A](https://royalsocietypublishing.org/journal/rspa)
 - [Journal of the American Statistical Association](https://www.tandfonline.com/journals/uasa20)
-<br> 
+<br>
+
 
 Notes
 ======
