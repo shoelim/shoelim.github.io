@@ -6,7 +6,7 @@ redirect_from:
   - /dynamai
 ---
 
-<p align="center">
+<p align="left">
 <img src="dynamai.png" align="left" width="105" />
 </p>
 
