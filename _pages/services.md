@@ -11,7 +11,7 @@ author_profile: true
 {% endfor %}
  -->
 
-Organizational & Commitee Service
+## Organizational & Commitee Service
 ======
 - Program committee, [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/), Singapore, January 2026
 - Co-organizer, [*2025 Nordita Winter School on "Physics of Machine Learning & Machine Learning for Physics"*](https://indico.fysik.su.se/event/8856/), Nordita, Stockholm, January 2025
@@ -20,7 +20,7 @@ Organizational & Commitee Service
 - Co-organizer, [e-Seminar on Scientific Machine Learning](https://scientific-ml.org/), remote, 2022 
 <br> 
 
-Refereeing
+## Refereeing
 ======
 - [Conference on Neural Information Processing Systems (NeurIPS)](https://nips.cc/Conferences/2021)
 - [International Conference on Machine Learning (ICML)](https://icml.cc/)
@@ -40,7 +40,7 @@ Refereeing
 <br>
 
 
-Notes
+## Notes
 ======
 - [Miscellaneous](https://shoelim.github.io/notes) 
 <br> 
