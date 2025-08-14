@@ -4,7 +4,6 @@ permalink: /services/
 author_profile: true
 ---
 
-
 ## Organizational & Commitee Service
 - Program committee, [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/), Singapore, January 2026
 - Co-organizer, [*2025 Nordita Winter School on "Physics of Machine Learning & Machine Learning for Physics"*](https://indico.fysik.su.se/event/8856/), Nordita, Stockholm, January 2025
