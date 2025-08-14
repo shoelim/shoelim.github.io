@@ -4,15 +4,8 @@ permalink: /services/
 author_profile: true
 ---
 
-{% include base_path %}
-
-<!-- {% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
- -->
 
 ## Organizational & Commitee Service
-======
 - Program committee, [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/), Singapore, January 2026
 - Co-organizer, [*2025 Nordita Winter School on "Physics of Machine Learning & Machine Learning for Physics"*](https://indico.fysik.su.se/event/8856/), Nordita, Stockholm, January 2025
 - Co-organizer, [*New Challenges in High Dimensional Complex Dynamical Systems*](https://indico.fysik.su.se/event/8139/page/617-week-2-new-challenges-in-high-dimensional-complex-dynamical-systems), Nordita, Stockholm, May 2024
@@ -21,7 +14,6 @@ author_profile: true
 <br> 
 
 ## Refereeing
-======
 - [Conference on Neural Information Processing Systems (NeurIPS)](https://nips.cc/Conferences/2021)
 - [International Conference on Machine Learning (ICML)](https://icml.cc/)
 - [International Conference on Learning Representations (ICLR)](https://iclr.cc/)
@@ -41,7 +33,6 @@ author_profile: true
 
 
 ## Notes
-======
 - [Miscellaneous](https://shoelim.github.io/notes) 
 <br> 
 
