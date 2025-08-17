@@ -6,10 +6,8 @@ redirect_from:
   - /dynamai
 ---
 
-<p>
-  <img src="dynamai.png" alt="Logo" width="130" align="left"/>
-  <span>Dynamai is a fundamental AI research lab dedicated to advancing the intersection of complex dynamical systems and AI, bridging theory and application to drive innovation. Our main areas of interest include the foundations of **generative AI**, **sequence modeling**, **robustness and reliability** in ML, and **AI for science**. We actively collaborate with research groups and institutions around the world, partnering with leading researchers to accelerate discovery and impact. </span>
-</p>
+Dynamai is a fundamental AI research lab dedicated to advancing the intersection of complex dynamical systems and AI, bridging theory and application to drive innovation. Our main areas of interest include the foundations of **generative AI**, **sequence modeling**, **robustness and reliability** in ML, and **AI for science**. We actively collaborate with research groups and institutions around the world, partnering with leading researchers to accelerate discovery and impact.
+<br>
 
 ## News
 📣 **Ongoing:** Our lab is expanding! Join our lab and help push the frontiers of the next generation of AI. Several openings for master/PhD students and postdocs (apply [here](https://academicjobsonline.org/ajo/jobs/30017)).
