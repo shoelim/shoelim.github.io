@@ -10,11 +10,13 @@ redirect_from:
 <br>
 
 ## News
-📣 We are hiring a postdoc! Join our lab and help push the frontiers of the next generation of AI. Apply [here](https://academicjobsonline.org/ajo/jobs/30017).
+📣 **Ongoing:** We are hiring a postdoc! Join our lab and help push the frontiers of the next generation of AI. Apply [here](https://academicjobsonline.org/ajo/jobs/30017).
 <br>
-📣 One paper accepted at TMLR.
+📣 **July 2025:** Our [paper](https://arxiv.org/abs/2410.03229) accepted at TMLR.
 <br>
-📣 One paper accepted (spotlight) at ICLR 2025 and another one at AISTATS 2025.
+📣 **Jan 2025:** One [paper](https://openreview.net/forum?id=wkHcXDv7cv) accepted (spotlight) at ICLR 2025.
+<br>
+📣 **Jan 2025:** One [paper](https://arxiv.org/abs/2212.00228) accepted at AISTATS 2025.
 <br>
 
 ## Team
