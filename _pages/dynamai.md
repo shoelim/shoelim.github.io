@@ -18,6 +18,8 @@ Dynamai is a fundamental AI research lab dedicated to advancing the intersection
 <br>
 📣 **Jan 2025:** One [paper](https://arxiv.org/abs/2212.00228) accepted at AISTATS 2025.
 <br>
+📣 **Jan 2025:** Dynamai was launched!
+<br>
 
 ## Team
 Under construction! 
