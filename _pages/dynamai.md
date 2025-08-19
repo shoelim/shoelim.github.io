@@ -12,7 +12,7 @@ Dynamai is a fundamental AI research lab dedicated to advancing the intersection
 ## News
 📣 **Ongoing:** Our lab is expanding! Join our lab and help push the frontiers of the next generation of AI. Several openings for master/PhD students and postdocs (apply [here](https://academicjobsonline.org/ajo/jobs/30017)).
 <br>
-📣 **July 2025:** Our [paper](https://arxiv.org/abs/2410.03229) accepted at TMLR. 
+📣 **July 2025:** One [paper](https://arxiv.org/abs/2410.03229) accepted at TMLR. 
 <br>
 📣 **Jan 2025:** One [paper](https://openreview.net/forum?id=wkHcXDv7cv) accepted (spotlight) at ICLR 2025.
 <br>
