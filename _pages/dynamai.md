@@ -1,5 +1,5 @@
 ---
-title: "Dynamai: Advancing Dynamic Intelligence"
+title: "Dynamai"
 permalink: /dynamai/
 author_profile: true
 redirect_from:
