@@ -11,18 +11,19 @@ redirect_from:
 
 News
 =====
+- __December 2025:__ We are organizing the 1st Workshop on Principles of Generative Modeling (PriGM) at [EurIPS 2025](https://eurips.cc/), Copenhagen
 - __May 2025:__ Invited talk at [Workshop in Advancements in High-Dimensional Methods for Machine Learning](https://www.chalmers.se/en/current/calendar/cse-workshop/), Chalmers, Gothenburg 
 - __March 2025:__ Invited talk at the [14th Nordic Workshop on Statistical Physics](https://indico.fysik.su.se/event/8942/), Nordita, Stockholm
 - __January 2025:__ One paper accepted (spotlight) at ICLR 2025 and another one at AISTATS 2025
-- __January 2025:__ Co-organized [Winter School on Physics of Machine Learning & Machine Learning for Physics](https://indico.fysik.su.se/event/8856/) at Nordita, Stockholm
+- __January 2025:__ We are organizing the [Winter School on Physics of Machine Learning & Machine Learning for Physics](https://indico.fysik.su.se/event/8856/) at Nordita, Stockholm
 - __November 2024:__ Invited talk at the [QuantM&L seminar](https://www.unisg.ch/en/universitaet/schools/school-of-economics-and-political-science-seps/research/quantitative-methods-and-learning/) at the University of St. Gallen, St. Gallen
 - __November 2024:__ Invited talk at the [TDLI](https://tdli.sjtu.edu.cn/EN/events/seminars-colloquia/1728/abcd), Shanghai
 - __July 2024:__ Invited talk at the [Fourth Symposium on Machine Learning and Dynamical Systems](http://www.fields.utoronto.ca/activities/24-25/machine-learning), Fields Institute, Toronto (watch the talk [here](https://www.youtube.com/watch?v=E3__8rhDJcA&list=PLOMUcsGYfYasfTuGmshpDiNCsY16XcayD&index=9))
-- __May 2024:__ Organized the [WINQ workshop](https://indico.fysik.su.se/event/8139/page/617-week-2-new-challenges-in-high-dimensional-complex-dynamical-systems) on "New Challenges in High Dimensional Complex Dynamical Systems" at Nordita, Stockholm
+- __May 2024:__ We are organizing the [WINQ workshop](https://indico.fysik.su.se/event/8139/page/617-week-2-new-challenges-in-high-dimensional-complex-dynamical-systems) on "New Challenges in High Dimensional Complex Dynamical Systems" at Nordita, Stockholm
 - __September 2023:__ Invited talk at the [17th Granada Seminar on Machine Learning and Physics](https://granadaseminar.com/index.php/program-17th/), University of Granada, Granada
 - __August 2023:__ Contributed talk at the [ICIAM 2023](https://iciam2023.org/registered_data?id=00141&pass=ebb4162365ce5b1e6f176e5f44a9b569), Tokyo
 - __May 2023:__ Invited talk at [BrainNet 2023](https://brainnet23.github.io/), Stockholm
-- __March 2023:__ Two organized minisymposium sessions on "Deep Learning for Sequence Modeling" at [SIAM CSE 2023](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=75499), Amsterdam 
+- __March 2023:__ We are organizing minisymposium sessions on "Deep Learning for Sequence Modeling" at [SIAM CSE 2023](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=75499), Amsterdam 
 - __December 2022:__ Invited talk at "Differential Equations and Machine Learning", [IMS International Conference on Statistics and Data Science](https://sites.google.com/view/icsds2022), Florence
 - __September 2022:__ Invited talk at the [Third Symposium on Machine Learning and Dynamical Systems](http://www.fields.utoronto.ca/activities/22-23/3rd-machine-learning), Fields Institute, Toronto
 - __September 2022:__ One paper accepted at [NeurIPS 2022](https://openreview.net/forum?id=sn6BZR4WvUR&referrer=[the%20profile%20of%20Soon%20Hoe%20Lim](/profile?id=~Soon_Hoe_Lim1))
