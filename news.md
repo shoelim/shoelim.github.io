@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-News
+Selected News
 =====
 - __December 2025:__ We are organizing the 1st Workshop on Principles of Generative Modeling (PriGM) at [EurIPS 2025](https://eurips.cc/), Copenhagen
 - __May 2025:__ Invited talk at [Workshop in Advancements in High-Dimensional Methods for Machine Learning](https://www.chalmers.se/en/current/calendar/cse-workshop/), Chalmers, Gothenburg 
