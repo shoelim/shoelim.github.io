@@ -11,7 +11,7 @@ redirect_from:
 
 Selected News
 =====
-- __December 2025:__ We are organizing the 1st Workshop on Principles of Generative Modeling (PriGM) at [EurIPS 2025](https://eurips.cc/), Copenhagen
+- __December 2025:__ We are organizing the [1st Workshop on Principles of Generative Modeling (PriGM)](https://sites.google.com/view/prigm-eurips-2025/home) at [EurIPS 2025](https://eurips.cc/), Copenhagen
 - __May 2025:__ Invited talk at [Workshop in Advancements in High-Dimensional Methods for Machine Learning](https://www.chalmers.se/en/current/calendar/cse-workshop/), Chalmers, Gothenburg
 - __April 2025:__ A fun [Scientific Fika](https://scientifika.se/talk/2025/04/11/Lim/) talk on Generative AI and dynamical systems ([slides](https://docs.google.com/presentation/d/1m6u8jBhPTvq5pU5zM6K-v_qrCvDJfTMa/edit?usp=sharing&ouid=101609754647365126718&rtpof=true&sd=true)) at Nordita, Stockholm 
 - __March 2025:__ Invited talk at the [14th Nordic Workshop on Statistical Physics](https://indico.fysik.su.se/event/8942/), Nordita, Stockholm
