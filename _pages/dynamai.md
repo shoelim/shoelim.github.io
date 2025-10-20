@@ -6,11 +6,11 @@ redirect_from:
   - /dynamai
 ---
 
-Dynamai is a fundamental AI research lab dedicated to advancing the intersection of complex dynamical systems and AI, bridging theory and application to drive innovation. Our main areas of interest include the foundations of **generative AI**, **sequence modeling**, **robustness and reliability** in ML, and **AI for science**. We actively collaborate with research groups and institutions around the world, partnering with leading researchers to accelerate discovery and impact.
+Dynamai is a fundamental AI research lab dedicated to advancing the intersection of complex dynamical systems and AI, bridging theory and application to drive innovation. Our main areas of interest include the foundations of **generative AI**, **sequence modeling**, **robustness and reliability** in ML, and **AI for science**. We actively collaborate with research groups and institutions around the world, partnering with leading researchers to accelerate discovery and impact. 
 <br>
 
 ## News
-📣 **Ongoing:** Our lab is expanding! Join our lab and help push the frontiers of the next generation of AI. Several openings for master/PhD students and postdocs (send me your CV if you are interested or apply [here](https://su.varbi.com/what:job/jobID:821810/)).
+📣 **Ongoing:** Our lab is expanding! Join our lab and help push the frontiers of the next generation of AI. Several openings for master/PhD students and postdocs (send me your CV if you are interested or apply directly [here](https://su.varbi.com/what:job/jobID:821810/)).
 <br>
 📣 **July 2025:** One [paper](https://arxiv.org/abs/2410.03229) accepted at TMLR. 
 <br>
@@ -30,4 +30,4 @@ We acknowledge the computational resources provided by the [National Academic In
 <br>
 
 ## Contact 
-For any enquiries and comments, please contact the research director (Prof. Soon Hoe Lim) via the email address: shlim AT kth DOT se. 
+For any enquiries and comments, please contact the research director (Soon Hoe Lim) via the email address: shlim AT kth DOT se. 
