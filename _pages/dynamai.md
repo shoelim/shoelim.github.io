@@ -32,4 +32,4 @@ We acknowledge the computational resources provided by the [National Academic In
 <br>
 
 ## Contact 
-If you are interested in collaborating with or supporting our research, please get in touch. For enquiries, please contact Soon Hoe Lim at shlim AT kth DOT se. 
+If you are interested in collaborating with or supporting our research, please get in touch at shlim AT kth DOT se. 
