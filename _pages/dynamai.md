@@ -28,8 +28,8 @@ Under construction!
 <br>
 
 ## Funding & Support 
-We acknowledge the computational resources provided by the [National Academic Infrastructure for Supercomputing in Sweden](https://www.naiss.se/) (NAISS), partially funded by the Swedish Research Council through grant agreement no. 2022-06725. We are very grateful for the funding awarded by the [Swedish Research Council](https://www.vr.se/english.html) (VR/2021-03648) and the [Wallenberg Foundations](https://www.wallenberg.org/en) (WINQ).
+We acknowledge the computational resources provided by the [National Academic Infrastructure for Supercomputing in Sweden](https://www.naiss.se/) (NAISS), partially funded by the Swedish Research Council through grant agreement no. 2022-06725. We are very grateful for the funding awarded by the [Swedish Research Council](https://www.vr.se/english.html) (VR/2021-03648) and the [Wallenberg Foundations](https://www.wallenberg.org/en) (WINQ). 
 <br>
 
 ## Contact 
-For any enquiries and comments, please contact the research director (Soon Hoe Lim) via the email address: shlim AT kth DOT se. 
+If you are interested in collaborating with or supporting our research, please get in touch. For enquiries, please contact Soon Hoe Lim at shlim AT kth DOT se. 
