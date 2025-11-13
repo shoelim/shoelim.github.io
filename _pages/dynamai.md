@@ -6,11 +6,11 @@ redirect_from:
   - /dynamai
 ---
 
-Dynamai is a fundamental AI research lab grounded in applied mathematics and statistics. We pursue research to understand and advance AI systems, closing the gap between mathematical rigor and real-world impact through approaches that are both theoretically principled and effective at scale. Our main areas of interest include the foundations of **generative AI**, **sequence modeling**, **robustness and reliability** in ML, and **AI for science**. We work closely with research groups and institutions around the world, partnering with leading researchers to accelerate discovery and impact. 
+Dynamai is a fundamental machine learning (funML) research lab grounded in applied mathematics and statistics. We pursue research to understand and advance ML systems, closing the gap between mathematical rigor and real-world impact through approaches that are both theoretically principled and effective at scale. Our main areas of interest include the foundations of **generative modeling**, **sequence modeling**, **robustness and reliability in ML**, and **ML for science**. We work closely with research groups and institutions around the world, partnering with leading researchers to accelerate discovery and impact. 
 <br>
 
 ## News
-📣 **Ongoing:** Our lab is expanding! Join our lab and help push the frontiers of the next generation of AI. Several openings for master/PhD students and postdocs (send me your CV).
+📣 **Ongoing:** Our lab is expanding! Join our lab and help push the frontiers of the next generation of ML. Several openings for master/PhD students and postdocs (send me your CV).
 <br>
 📣 **October 2025:** One workshop [paper](https://openreview.net/forum?id=Ru9MwT0zTM&referrer=%5Bthe%20profile%20of%20Soon%20Hoe%20Lim%5D(%2Fprofile%3Fid%3D~Soon_Hoe_Lim1)) accepted at EurIPS 2025.
 <br>
