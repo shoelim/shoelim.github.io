@@ -13,6 +13,7 @@ Some central themes of interest:<br>
 - **Robustness:** how to leverage randomness to make ML safer and more reliable
 - **Optimization:** how to understand and improve optimization algorithms in ML meaningfully 
 
+I also have a long-standing interest in **multiscale stochastic dynamics**, especially homogenization and related applications in statistical mechanics, including both classical mathematical approaches and emerging data-driven methods.
 
 <!-- Some more specific research projects are: <br>
 
