@@ -6,7 +6,7 @@ redirect_from:
   - /dynamai
 ---
 
-Dynamai is a fundamental machine learning (funML) research lab grounded in applied mathematics and statistics. We pursue research to understand and advance ML systems, closing the gap between mathematical rigor and real-world impact. Our main areas of interest include the foundations of **generative modeling**, **sequence modeling**, **robustness and reliability in ML**, and **ML for science**. We work closely with research groups and institutions around the world, partnering with leading researchers to accelerate discovery and impact. 
+Dynamai is a fundamental machine learning (funML) research lab grounded in applied mathematics. We pursue research to understand and advance ML systems, closing the gap between mathematical rigor and real-world impact. Our main areas of interest include the foundations of **generative modeling**, **sequence modeling**, **robustness and reliability in ML**, and **ML for science**. We work closely with research groups and institutions around the world, partnering with leading researchers to accelerate discovery and impact. 
 <br>
 
 ## News
