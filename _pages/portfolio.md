@@ -8,10 +8,10 @@ My primary research interests lie in <font color="blue">machine learning</font>,
 <br>
 
 Some central themes of interest:<br>
-- **Generative AI:** how to improve existing generative modeling methods, particularly for learning sequential data 
+- **Generative modeling:** how to improve existing generative modeling methods, particularly for learning sequential data 
 - **Sequence modeling:** how to use ML to model and learn sequential data, particularly those with underlying non-trivial dynamics 
 - **Robustness:** how to leverage randomness to make ML safer and more reliable
-- **Optimization:** how to understand and improve optimization algorithms in ML meaningfully 
+- **Optimization and sampling:** how to understand and improve optimization and sampling algorithms in ML meaningfully 
 
 I also have a long-standing interest in **multiscale stochastic dynamics**, especially homogenization and related applications in statistical mechanics, including both classical mathematical approaches and emerging data-driven methods.
 
