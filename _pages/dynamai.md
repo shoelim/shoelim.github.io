@@ -10,7 +10,7 @@ Dynamai is a fundamental machine learning (funML) research lab grounded in appli
 <br>
 
 ## News
-📣 **Ongoing:** Our lab is expanding! Join our lab and help push the frontiers of the next generation of ML. Several openings for master/PhD students and postdocs (send me your CV).
+📣 **Ongoing:** Our lab is expanding! Join our lab and help push the frontiers of the next generation of ML. Several openings for highly talented master/PhD students and postdocs (send me your CV).
 <br>
 📣 **July 2025:** One [paper](https://arxiv.org/abs/2410.03229) accepted at TMLR. 
 <br>
