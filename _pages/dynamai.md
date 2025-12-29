@@ -28,4 +28,4 @@ We acknowledge the computational resources provided by the [National Academic In
 <br>
 
 ## Contact 
-Interested in collaborating with and/or supporting our research? Please get in touch at shlim AT kth DOT se. 
+Interested in collaborating with and/or supporting our research? Please get in touch at dynamai DOT lab AT gmail.com. 
