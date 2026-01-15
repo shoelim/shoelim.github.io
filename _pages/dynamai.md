@@ -8,11 +8,11 @@ redirect_from:
 
 Dynamai is a fundamental machine learning (funML) research lab built on applied and computational mathematics, focused on shaping the next generation of ML through mathematical insight and principled methods. Our research spans **generative modeling**, **sequence modeling**, **robustness and reliability in ML**, **ML for science**, and beyond. 
 
-Discover and explore our latest research on [arXiv](https://arxiv.org/a/lim_s_1.html) and open-source projects on [GitHub](https://github.com/dynamai). 
+Discover and explore our latest research on [arXiv](https://arxiv.org/a/lim_s_1.html) and our open-source projects on [GitHub](https://github.com/dynamai). 
 <br>
 
 ## News
-📣 **Ongoing:** Our lab is expanding! Several openings for highly motivated master/PhD students and postdocs.
+📣 **Ongoing:** Our lab is expanding! Several openings for highly motivated master's/PhD students and postdocs.
 <br>
 📣 **July 2025:** One [paper](https://arxiv.org/abs/2410.03229) accepted at TMLR. 
 <br>
