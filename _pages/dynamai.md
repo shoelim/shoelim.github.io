@@ -14,13 +14,13 @@ Discover and explore our latest research on [arXiv](https://arxiv.org/a/lim_s_1.
 ## News
 📣 **Ongoing:** Our lab is expanding! Several openings for highly motivated master's/PhD students and postdocs.
 <br>
-📣 **February 2026:** Two preprints posted: [Is Flow Matching Just Trajectory Replay for Sequential Data?](https://arxiv.org/abs/2602.08318) and [A Kinetic-Energy Perspective of Flow Matching](https://www.arxiv.org/abs/2602.07928).
+📣 **February 2026:** Two preprints were posted: [Is Flow Matching Just Trajectory Replay for Sequential Data?](https://arxiv.org/abs/2602.08318) and [A Kinetic-Energy Perspective of Flow Matching](https://www.arxiv.org/abs/2602.07928).
 <br>
-📣 **July 2025:** One [paper](https://arxiv.org/abs/2410.03229) accepted at TMLR. 
+📣 **July 2025:** Our paper on [Elucidating the Design Choice of Probability Paths in Flow Matching for Forecasting](https://arxiv.org/abs/2410.03229) was accepted at TMLR. 
 <br>
-📣 **Jan 2025:** One [paper](https://openreview.net/forum?id=wkHcXDv7cv) accepted (spotlight) at ICLR 2025.
+📣 **Jan 2025:** Our paper on [Tuning Frequency Bias of State Space Models](https://openreview.net/forum?id=wkHcXDv7cv) was accepted (spotlight) at ICLR 2025.
 <br>
-📣 **Jan 2025:** One [paper](https://arxiv.org/abs/2212.00228) accepted at AISTATS 2025.
+📣 **Jan 2025:** Our paper on [Gated Recurrent Neural Networks with Weighted Time-Delay Feedback](https://arxiv.org/abs/2212.00228) was accepted at AISTATS 2025.
 <br>
 📣 **Jan 2025:** Dynamai was launched!
 <br>
