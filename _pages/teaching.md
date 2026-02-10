@@ -9,7 +9,7 @@ author_profile: true
 {% endfor %} -->
 
 - Supervisor, <i>SF290X VT26 Degree Project in Mathematical Statistics, Second Cycle</i>, Department of Mathematics, KTH Royal Institute of Technology. Spring 2026
-- Lecturer, <i>SF2935 Modern Methods of Statistical Learning</i>, Department of Mathematics, KTH Royal Institute of Technology. Autumn 2025 
+- Teacher and examiner, <i>SF2935 Modern Methods of Statistical Learning</i>, Department of Mathematics, KTH Royal Institute of Technology. Autumn 2025 
 - Supervisor, <i>SF290X VT25 Degree Project in Mathematical Statistics, Second Cycle</i>, Department of Mathematics, KTH Royal Institute of Technology. Spring 2025
 - Supervisor, <i>SF290X VT25 Degree Project in Mathematical Statistics, Second Cycle</i>, Department of Mathematics, KTH Royal Institute of Technology. Spring 2025
 - Supervisor, <i>SF290X HT24 p2 Degree Project in Mathematical Statistics, Second Cycle</i>, Department of Mathematics, KTH Royal Institute of Technology. Autumn 2024
