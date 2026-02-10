@@ -5,8 +5,8 @@ author_profile: true
 ---
 
 ## Organizational & Commitee Service
-- Co-organizer, [1st Workshop on Principles of Generative Modeling (PriGM)](https://sites.google.com/view/prigm-eurips-2025/home), [EurIPS 2025](https://eurips.cc/), Copenhagen, December 2025
 - Co-organizer, [Mathematical Statistics Seminar](https://www.kth.se/en/2.80766/2.82508/math/kalender/matstat), Department of Mathematics, KTH Royal Institute of Technology, August 2025-present
+- Co-organizer, [1st Workshop on Principles of Generative Modeling (PriGM)](https://sites.google.com/view/prigm-eurips-2025/home), [EurIPS 2025](https://eurips.cc/), Copenhagen, December 2025
 - Co-organizer, [*2025 Nordita Winter School on "Physics of Machine Learning & Machine Learning for Physics"*](https://indico.fysik.su.se/event/8856/), Nordita, Stockholm, January 2025
 - Co-organizer, [*New Challenges in High Dimensional Complex Dynamical Systems*](https://indico.fysik.su.se/event/8139/page/617-week-2-new-challenges-in-high-dimensional-complex-dynamical-systems), Nordita, Stockholm, May 2024
 - Co-organizer, Minisymposium on *Deep Learning for Sequence Modeling* at [SIAM CSE 2023](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=75499), Amsterdam, February 2023 
