@@ -12,8 +12,8 @@ author_profile: true
 - Teacher and examiner, <i>SF2935 Modern Methods of Statistical Learning</i>, Department of Mathematics, KTH Royal Institute of Technology. Autumn 2025 
 - Supervisor, <i>SF290X VT25 Degree Project in Mathematical Statistics, Second Cycle</i>, Department of Mathematics, KTH Royal Institute of Technology. Spring 2025
 - Supervisor, <i>SF290X VT25 Degree Project in Mathematical Statistics, Second Cycle</i>, Department of Mathematics, KTH Royal Institute of Technology. Spring 2025
-- Supervisor, <i>SF290X HT24 p2 Degree Project in Mathematical Statistics, Second Cycle</i>, Department of Mathematics, KTH Royal Institute of Technology. Autumn 2024
-- Supervisor, <i>SF290X HT24 p1 Degree Project in Mathematical Statistics, Second Cycle</i>, Department of Mathematics, KTH Royal Institute of Technology. Autumn 2024
+- Supervisor, <i>SF290X HT24 Degree Project in Mathematical Statistics, Second Cycle</i>, Department of Mathematics, KTH Royal Institute of Technology. Autumn 2024
+- Supervisor, <i>SF290X HT24 Degree Project in Mathematical Statistics, Second Cycle</i>, Department of Mathematics, KTH Royal Institute of Technology. Autumn 2024
 - Teaching assistant, <i>Math 254 - Introduction to Ordinary Differential Equations</i>, Department of Mathematics, University of Arizona. Spring 2017
 - Project mentor, <i>Math 485 - Mathematical Modeling</i>, Department of Mathematics, University of Arizona. Spring 2015 and Spring 2017
 - Instructor, <i>Math 113 - Elementary Calculus</i>, Department of Mathematics, University of Arizona. Summer 2016
