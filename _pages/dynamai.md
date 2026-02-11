@@ -16,6 +16,8 @@ Discover and explore our latest research on [arXiv](https://arxiv.org/a/lim_s_1.
 <br>
 📣 **February 2026:** Two preprints were posted: [Is Flow Matching Just Trajectory Replay for Sequential Data?](https://arxiv.org/abs/2602.08318) and [A Kinetic-Energy Perspective of Flow Matching](https://www.arxiv.org/abs/2602.07928).
 <br>
+📣 **December 2025:** One preprint on [On The Hidden Biases of Flow Matching Samplers](https://arxiv.org/abs/2512.16768) was posted.
+<br>
 📣 **July 2025:** Our paper on [Elucidating the Design Choice of Probability Paths in Flow Matching for Forecasting](https://arxiv.org/abs/2410.03229) was accepted at TMLR. 
 <br>
 📣 **Jan 2025:** Our paper on [Tuning Frequency Bias of State Space Models](https://openreview.net/forum?id=wkHcXDv7cv) was accepted (spotlight) at ICLR 2025.
