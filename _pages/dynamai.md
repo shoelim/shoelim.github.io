@@ -20,11 +20,11 @@ Discover and explore our latest research on [arXiv](https://arxiv.org/a/lim_s_1.
 <br>
 📣 **July 2025:** Our paper on [Elucidating the Design Choice of Probability Paths in Flow Matching for Forecasting](https://arxiv.org/abs/2410.03229) was accepted at TMLR. 
 <br>
+📣 **May 2025:** One preprint on [FLEX: A Backbone for Diffusion-Based Modeling of Spatio-temporal Physical Systems](https://arxiv.org/abs/2505.17351) was posted.
+<br>
 📣 **Jan 2025:** Our paper on [Tuning Frequency Bias of State Space Models](https://openreview.net/forum?id=wkHcXDv7cv) was accepted (spotlight) at ICLR 2025.
 <br>
 📣 **Jan 2025:** Our paper on [Gated Recurrent Neural Networks with Weighted Time-Delay Feedback](https://arxiv.org/abs/2212.00228) was accepted at AISTATS 2025.
-<br>
-📣 **Jan 2025:** Dynamai was launched!
 <br>
 
 ## Funding & Support 
