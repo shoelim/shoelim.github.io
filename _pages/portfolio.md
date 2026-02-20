@@ -7,11 +7,11 @@ author_profile: true
 My primary research interests lie in <font color="blue">machine learning</font>, particularly at the intersection of applied probability, dynamical systems, and <a href="https://arxiv.org/abs/1312.6199"><font><i>modern</i></font> neural networks</a>. While my work focuses on leveraging foundational questions to advance the science and engineering of learning systems, the theory is closely connected to implementation challenges and a broad spectrum of practical applications across the sciences. 
 <br>
 
-Some central themes of interest:<br>
-- **Generative modeling:** how to improve existing generative modeling methods, particularly for learning sequential data 
-- **Sequence modeling:** how to use ML to model and learn sequential data, particularly those with underlying non-trivial dynamics 
-- **Robustness:** how to leverage randomness to make ML safer and more reliable
+Some topics of interest include:<br>
+- **Generative modeling:** how to understand and improve generative modeling methods that are based on dynamical measure transport, particularly for sequential data 
+- **Sequence modeling:** how to use ML and ideas from dynamical systems to model and learn sequential data, particularly those with underlying non-trivial dynamics, and study the mathematical foundations behind them 
 - **Optimization and sampling:** how to understand and improve optimization and sampling algorithms in ML meaningfully 
+- **Robustness and reliability:** how to leverage randomness to make ML safer and more reliable
 
 I also have a long-standing interest in **multiscale stochastic dynamics**, especially homogenization and related applications in statistical mechanics, including both classical mathematical approaches and emerging data-driven methods.
 
