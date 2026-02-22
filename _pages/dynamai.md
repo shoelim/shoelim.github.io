@@ -12,7 +12,7 @@ Discover and explore our latest research on [arXiv](https://arxiv.org/a/lim_s_1.
 <br>
 
 ## News
-📣 **Ongoing:** Our lab is expanding! Several openings for highly motivated master's/PhD students and postdocs. Please send your CV for enquiries. We regret that only shortlisted candidates will be contacted. Thanks for your understanding.
+📣 **Ongoing:** Our lab is expanding! Several openings for highly motivated master's/PhD students and postdocs. 
 <br>
 📣 **February 2026:** Two preprints were posted: [Is Flow Matching Just Trajectory Replay for Sequential Data?](https://arxiv.org/abs/2602.08318) and [A Kinetic-Energy Perspective of Flow Matching](https://www.arxiv.org/abs/2602.07928).
 <br>
