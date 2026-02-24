@@ -12,7 +12,7 @@ redirect_from:
 Selected News
 =====
 - __July 2026:__ Invited talk at the special session on "Recent Advances in Uncertainty Quantification and Scientific Machine Learning with Applications to Complex Dynamical Systems", [15th AIMS Conference](https://aimsconference.org/AIMS-Conference/conf-reg2026/ss/changeApp12.php?ssid=113), Athens
-- __February 2026:__ Serving as an Area Chair for the [ICLR 2026 Workshop on Foundation Models for Science](https://fm-science.github.io/)
+- __February 2026:__ Honored to serve as Area Chair for the [ICLR 2026 Workshop on Foundation Models for Science](https://fm-science.github.io/)
 - __February 2026:__ Invited talk at the [5th Symposium of MLDS and DEDS 2026](https://sites.google.com/view/mlds-deds-2026), Kyoto University, Kyoto
 - __January 2026:__ Invited talk at the [Data Science and Machine Learning Seminar](https://www.math.nus.edu.sg/category/events/colloquia-seminars/data-science-and-machine-learning/), NUS, Singapore
 - __December 2025:__ We are organizing the [1st Workshop on Principles of Generative Modeling (PriGM)](https://sites.google.com/view/prigm-eurips-2025/home) at [EurIPS 2025](https://eurips.cc/), Copenhagen
