@@ -22,6 +22,8 @@ Discover and explore our latest research on [arXiv](https://arxiv.org/a/lim_s_1.
 <br>
 📣 **May 2025:** One preprint on [FLEX: A Backbone for Diffusion-Based Modeling of Spatio-temporal Physical Systems](https://arxiv.org/abs/2505.17351) was posted.
 <br>
+📣 **April 2025:** Congratulations to Shizheng Lin on being selected for the Digital Futures Summer Research Internship Programme 2025! 
+<br>
 📣 **Jan 2025:** Our paper on [Tuning Frequency Bias of State Space Models](https://openreview.net/forum?id=wkHcXDv7cv) was accepted (spotlight) at ICLR 2025.
 <br>
 📣 **Jan 2025:** Our paper on [Gated Recurrent Neural Networks with Weighted Time-Delay Feedback](https://arxiv.org/abs/2212.00228) was accepted at AISTATS 2025.
