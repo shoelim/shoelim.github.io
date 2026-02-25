@@ -38,6 +38,5 @@ Selected News
 - __June 2021:__ Invited talk at the [SIG on Machine Learning and Dynamical Systems](https://agora.stream/SIG%20on%20Machine%20Learning%20and%20Dynamical%20Systems), virtual (watch the talk [here](https://www.youtube.com/watch?v=9t-UTLvkhyk&t=22s))
 - __February 2021:__ Invited talk at the [Machine Learning and Science Forum](https://bids.berkeley.edu/events/machine-learning-and-science-forum-2021-0222) at Berkeley Institute for Data Science, virtual
 <br>
-<br>
 <small>Last updated: February 2026</small>
 
