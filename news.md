@@ -27,7 +27,7 @@ Selected News
 - __September 2023:__ Invited talk at the [17th Granada Seminar on Machine Learning and Physics](https://granadaseminar.com/index.php/program-17th/), University of Granada, Granada
 - __August 2023:__ Contributed talk at the [ICIAM 2023](https://iciam2023.org/registered_data?id=00141&pass=ebb4162365ce5b1e6f176e5f44a9b569), Tokyo
 - __May 2023:__ Invited talk at [BrainNet 2023](https://brainnet23.github.io/), Stockholm
-- __March 2023:__ We are organizing minisymposium sessions on "Deep Learning for Sequence Modeling" at [SIAM CSE 2023](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=75499), Amsterdam 
+- __March 2023:__ We are organizing two minisymposium sessions on "Deep Learning for Sequence Modeling" at [SIAM CSE 2023](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=75499), Amsterdam 
 - __December 2022:__ Invited talk at "Differential Equations and Machine Learning", [IMS International Conference on Statistics and Data Science](https://sites.google.com/view/icsds2022), Florence
 - __September 2022:__ Invited talk at the [Third Symposium on Machine Learning and Dynamical Systems](http://www.fields.utoronto.ca/activities/22-23/3rd-machine-learning), Fields Institute, Toronto
 - __March 2022:__ One talk at the [Applied Machine Learning Days](https://appliedmldays.org/events/amld-epfl-2022/talks/boosting-model-robustness-by-leveraging-data-augmentations-stability-training-and-noise-injections), EPFL, Lausanne (watch the talk [here](https://www.youtube.com/watch?v=p147ueuniKI&list=PLOMUcsGYfYasfTuGmshpDiNCsY16XcayD&index=7))
