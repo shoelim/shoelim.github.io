@@ -11,7 +11,7 @@ Dynamai is a fundamental machine learning (funML) research lab built on applied 
 Discover and explore our latest research on [arXiv](https://arxiv.org/a/lim_s_1.html) and our open-source projects on [GitHub](https://github.com/dynamai). 
 <br>
 
-## News
+## Selected News
 📣 **Ongoing:** Our lab is expanding! Several openings for highly motivated master's/PhD students and postdocs. 
 <br>
 📣 **February 2026:** Two preprints were posted: [Is Flow Matching Just Trajectory Replay for Sequential Data?](https://arxiv.org/abs/2602.08318) and [A Kinetic-Energy Perspective of Flow Matching](https://www.arxiv.org/abs/2602.07928).
