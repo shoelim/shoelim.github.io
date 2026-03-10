@@ -35,6 +35,7 @@ author_profile: true
 
 
 ## Notes
-- [Miscellaneous](https://shoelim.github.io/notes) 
+- [A Reading List for Modern Applied Mathematicians](https://drive.google.com/file/d/1VpjAwnL_0XQX_RdOzouFRyzSm_ae0HAU/view?usp=sharing)
+- [Miscellaneous Notes](https://shoelim.github.io/notes) 
 <br> 
 
