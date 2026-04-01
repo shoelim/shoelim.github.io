@@ -14,6 +14,8 @@ Discover and explore our latest research on [arXiv](https://arxiv.org/a/lim_s_1.
 ## Selected News
 📣 **Ongoing:** Our lab is expanding! Several openings for highly motivated master's/PhD students and postdocs. 
 <br>
+📣 **March 2026:** Congratulations to Erik Edblom on being selected for the [Digital Futures Summer Research Internship Programme 2026](https://www.digitalfutures.kth.se/digital-futures-summer-research-internship-sri-program-2025-a-launchpad-for-future-researchers/)! 
+<br>
 📣 **February 2026:** Two preprints were posted: [Is Flow Matching Just Trajectory Replay for Sequential Data?](https://arxiv.org/abs/2602.08318) and [A Kinetic-Energy Perspective of Flow Matching](https://www.arxiv.org/abs/2602.07928).
 <br>
 📣 **December 2025:** One preprint on [On The Hidden Biases of Flow Matching Samplers](https://arxiv.org/abs/2512.16768) was posted.
