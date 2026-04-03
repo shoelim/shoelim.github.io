@@ -31,6 +31,7 @@ author_profile: true
 - [Neural Networks](https://www.sciencedirect.com/journal/neural-networks)
 - [Proceedings of the Royal Society A](https://royalsocietypublishing.org/journal/rspa)
 - [Journal of the American Statistical Association](https://www.tandfonline.com/journals/uasa20)
+- [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)
 <br>
 
 
