@@ -35,5 +35,3 @@ Discover and explore our latest research on [arXiv](https://arxiv.org/a/lim_s_1.
 We acknowledge the computational resources provided by the [National Academic Infrastructure for Supercomputing in Sweden](https://www.naiss.se/) (NAISS), partially funded by the Swedish Research Council through grant agreement no. 2022-06725. We are very grateful for the funding awarded by the [Swedish Research Council](https://www.vr.se/english.html) (VR/2021-03648) and the [Wallenberg Foundations](https://www.wallenberg.org/en) (WINQ). 
 <br>
 
-## Contact 
-Interested in collaborating with and/or supporting our research? Please get in touch at dynamai DOT lab AT gmail.com. 
