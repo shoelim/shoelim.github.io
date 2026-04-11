@@ -4,7 +4,7 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-My primary research interests lie in <font color="blue">machine learning</font>, particularly at the intersection of applied probability, dynamical systems, and <a href="https://arxiv.org/abs/1312.6199"><font><i>modern</i></font> neural networks</a>. While my work focuses on leveraging foundational questions to advance the science and engineering of learning systems, the theory is often closely connected to implementation challenges and a broad spectrum of practical applications across the sciences. 
+My primary research interests lie in **machine learning**, particularly at the intersection of applied probability, dynamical systems, and <a href="https://arxiv.org/abs/1312.6199"><font><i>modern</i></font> neural networks</a>. While my work focuses on leveraging foundational questions to advance the science and engineering of learning systems, the theory is often closely connected to implementation challenges and a broad spectrum of practical applications across the sciences. 
 <br>
 
 Some topics of interest include:<br>
