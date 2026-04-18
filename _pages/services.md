@@ -37,7 +37,7 @@ author_profile: true
 
 ## Notes
 - [A Reading List for Modern Applied Mathematicians](https://drive.google.com/file/d/1VpjAwnL_0XQX_RdOzouFRyzSm_ae0HAU/view?usp=sharing)
-- [Kernel Density Estimation](https://drive.google.com/file/d/1xhIFFJFnXSH7CxlI7RFEMqIByZJA7fvu/view?usp=sharing) 
+- <a href="https://drive.google.com/uc?export=view&id=1xhIFFJFnXSH7CxlI7RFEMqIByZJA7fvu" target="_blank">Kernel Density Estimation</a>
 - [Miscellaneous Notes](https://shoelim.github.io/notes) 
 <br> 
 
