@@ -4,7 +4,7 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-My primary research interests lie in **machine learning**, particularly at the intersection of applied probability, dynamical systems, and <a href="https://arxiv.org/abs/1312.6199"><font><i>modern</i></font> neural networks</a>. While my work focuses on leveraging foundational questions to advance the science and engineering of learning systems, the theory is often closely connected to implementation challenges and a broad spectrum of practical applications across the sciences. 
+My primary research interests lie in **machine learning**, particularly at the intersection of applied probability, dynamical systems, and <a href="https://arxiv.org/abs/1312.6199"><font><i>modern</i></font> neural networks</a>. My research portfolio spans a diverse set of interconnected topics, ranging from foundational theory to algorithmic development and scientific applications. While much of my work is motivated by foundational questions, it is often closely connected to implementation challenges and a broad spectrum of practical applications across the sciences.
 <br>
 
 Some topics of interest include:<br>
@@ -12,9 +12,9 @@ Some topics of interest include:<br>
 - **Sequence modeling:** how can we use ideas from ML and applied dynamical systems to model and learn sequential data, while also studying the mathematical foundations of these approaches
 - **Optimization and sampling:** how can we develop a deeper understanding of optimization and sampling algorithms in ML and improve them in principled ways
 - **Robustness and reliability:** how can we leverage randomness to make ML systems safer, more robust, and more reliable
-- **Scientific applications:** how can we develop principled mathematical frameworks and scalable methods for integrating scientific ML with domain knowledge 
+- **Scientific applications:** how can we develop principled mathematical frameworks and scalable methods for integrating scientific ML with domain knowledge
+- **Multiscale dynamics:** how can we understand multiscale stochastic systems, especially [homogenization](https://link.springer.com/article/10.1007/s00023-020-00889-2) and related applications in statistical mechanics, using mathematical approaches and emerging data-driven methods
 
-I also have a long-standing interest in **multiscale stochastic dynamics**, especially [homogenization](https://link.springer.com/article/10.1007/s00023-020-00889-2) and related applications in statistical mechanics, including both classical mathematical approaches and emerging data-driven methods.
 
 <!-- Some more specific research projects are: <br>
 
