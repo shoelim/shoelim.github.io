@@ -37,8 +37,8 @@ author_profile: true
 
 ## Notes
 - <a href="https://docs.google.com/viewer?url=https://drive.google.com/uc?id=1VpjAwnL_0XQX_RdOzouFRyzSm_ae0HAU&embedded=true" target="_blank">A Reading List for Modern Applied Mathematicians</a>
-- <a href="https://docs.google.com/viewer?url=https://drive.google.com/uc?id=1VpjAwnL_0XQX_RdOzouFRyzSm_ae0HAU&embedded=true" target="_blank">All of Analysis, Dynamics, Computation</a>
-- <a href="https://docs.google.com/viewer?url=https://drive.google.com/uc?id=1VpjAwnL_0XQX_RdOzouFRyzSm_ae0HAU&embedded=true" target="_blank">All of Probability, Statistics, Learning</a>
+- [All of Analysis, Dynamics, Computation](https://shoelim.github.io/volume1) 
+- [All of Probability, Statistics, Learning](https://shoelim.github.io/volume2)
 - <a href="https://docs.google.com/viewer?url=https://drive.google.com/uc?id=1xhIFFJFnXSH7CxlI7RFEMqIByZJA7fvu&embedded=true" target="_blank">Kernel Density Estimation</a>
 - [Miscellaneous Notes](https://shoelim.github.io/notes) 
 <br> 
