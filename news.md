@@ -11,7 +11,7 @@ redirect_from:
 
 Selected News
 =====
-- __Fall 2026 (upcoming):__ I will be a Visiting Scholar at UC Berkeley during the Fall 2026 semester
+- __Fall 2026 (upcoming):__ I will be a Visiting Scholar, hosted by [Michael Mahoney](https://www.stat.berkeley.edu/~mmahoney/), at UC Berkeley during the Fall 2026 semester
 - __July 2026 (upcoming):__ Invited talk at the special session on "Recent Advances in Uncertainty Quantification and Scientific Machine Learning with Applications to Complex Dynamical Systems", [15th AIMS Conference](https://aimsconference.org/AIMS-Conference/conf-reg2026/ss/changeApp12.php?ssid=113), Athens
 - __February 2026:__ Happy to serve as Area Chair for the [ICLR 2026 Workshop on Foundation Models for Science](https://fm-science.github.io/)
 - __February 2026:__ Invited talk at the [5th Symposium of MLDS and DEDS 2026](https://sites.google.com/view/mlds-deds-2026), Kyoto University, Kyoto
