@@ -4,10 +4,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-<!-- {% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %} -->
-
 ## Courses
 ### Master’s courses at KTH Royal Institute of Technology, Department of Mathematics
 - SF290X – Degree Project in Mathematical Statistics. Autumn 2024, Spring 2025, Spring 2026, Autumn 2026
