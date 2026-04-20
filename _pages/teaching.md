@@ -6,7 +6,7 @@ author_profile: true
 
 ## Master’s Courses at KTH Royal Institute of Technology, Department of Mathematics
 - SF290X – Degree Project in Mathematical Statistics. Autumn 2024, Spring 2025, Spring 2026, Autumn 2026
-- SF2935 – Modern Methods of Statistical Learning. (<a href="https://github.com/shoelim/statistical-machine-learning-master-course">selected materials</a>). Autumn 2025
+- SF2935 – Modern Methods of Statistical Learning [<a href="https://github.com/shoelim/statistical-machine-learning-master-course">selected materials</a>]. Autumn 2025
 <br>
 
 ## Undergraduate Courses at the University of Arizona, Department of Mathematics
