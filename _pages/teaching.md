@@ -4,12 +4,12 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Courses
-### Master’s courses at KTH Royal Institute of Technology, Department of Mathematics
+## Master’s Courses at KTH Royal Institute of Technology, Department of Mathematics
 - SF290X – Degree Project in Mathematical Statistics. Autumn 2024, Spring 2025, Spring 2026, Autumn 2026
 - SF2935 – Modern Methods of Statistical Learning. (<a href="https://github.com/shoelim/statistical-machine-learning-master-course">selected materials</a>). Autumn 2025
+<br>
 
-### Undergraduate courses at the University of Arizona, Department of Mathematics
+## Undergraduate Courses at the University of Arizona, Department of Mathematics
 - MATH 254 – Introduction to Ordinary Differential Equations. Spring 2017
 - MATH 485 – Mathematical Modeling. Spring 2015, Spring 2017
 - MATH 113 – Elementary Calculus. Summer 2016
@@ -22,4 +22,4 @@ author_profile: true
 - [All of Probability, Statistics, Learning](https://shoelim.github.io/volume2)
 - <a href="https://docs.google.com/viewer?url=https://drive.google.com/uc?id=1xhIFFJFnXSH7CxlI7RFEMqIByZJA7fvu&embedded=true" target="_blank">Kernel Density Estimation</a>
 - [Miscellaneous Notes](https://shoelim.github.io/notes) 
-<br> 
+
