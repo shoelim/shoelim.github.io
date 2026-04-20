@@ -10,14 +10,14 @@ author_profile: true
 
 ## Courses
 ### Master’s courses at KTH Royal Institute of Technology, Department of Mathematics
-- SF290X – Degree Project in Mathematical Statistics</i>. Autumn 2024, Spring 2025, Spring 2026, Autumn 2026
-- SF2935 – Modern Methods of Statistical Learning</i> (<a href="https://github.com/shoelim/statistical-machine-learning-master-course">selected materials</a>). Autumn 2025
+- SF290X – Degree Project in Mathematical Statistics. Autumn 2024, Spring 2025, Spring 2026, Autumn 2026
+- SF2935 – Modern Methods of Statistical Learning. (<a href="https://github.com/shoelim/statistical-machine-learning-master-course">selected materials</a>). Autumn 2025
 
 ### Undergraduate courses at the University of Arizona, Department of Mathematics
-- MATH 254 – Introduction to Ordinary Differential Equations</i>. Spring 2017
-- MATH 485 – Mathematical Modeling</i>. Spring 2015, Spring 2017
-- MATH 113 – Elementary Calculus</i>. Summer 2016
-- MATH 112 – College Algebra: Concepts and Applications</i>. Fall 2013, Spring 2014, Fall 2014, Spring 2015
+- MATH 254 – Introduction to Ordinary Differential Equations. Spring 2017
+- MATH 485 – Mathematical Modeling. Spring 2015, Spring 2017
+- MATH 113 – Elementary Calculus. Summer 2016
+- MATH 112 – College Algebra: Concepts and Applications. Fall 2013, Spring 2014, Fall 2014, Spring 2015
 <br>
 
 ## Notes
