@@ -1,6 +1,6 @@
 ---
 #layout: archive
-title: "Volume 2: Probability, Statistics, Learning"
+title: "Volume 2: Some Topics on Probability, Statistics, Learning"
 permalink: /volume2/
 author_profile: true
 redirect_from:
