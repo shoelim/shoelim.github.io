@@ -1,6 +1,6 @@
 ---
 #layout: archive
-title: "Volume 1: Some Topics on Analysis, Dynamics, Computation"
+title: "Some Topics on Analysis, Dynamics, Computation"
 permalink: /volume1/
 author_profile: true
 redirect_from:
