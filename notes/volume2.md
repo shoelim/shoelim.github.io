@@ -29,7 +29,7 @@ redirect_from:
 - <a href="https://shoelim.github.io/notes/statML/StatML_L12.pdf" target="_blank">Rethinking Reliability: Probabilistic Approaches for Reliable Models</a>
 - <a href="https://shoelim.github.io/notes/statML/StatML_L13.pdf" target="_blank">Unsupervised Learning: Clustering and Mixture Models</a>
 - <a href="https://shoelim.github.io/notes/statML/StatML_L14.pdf" target="_blank">Unsupervised Learning: Dimensionality Reduction and Advanced Topics
-</a>
+- <a href="https://shoelim.github.io/notes/statML/StatML_KDE.pdf" target="_blank">More on Kernel Density Estimation</a>
 
 <br>
 *<i>These notes are work in progress and will be updated from time to time. Please read them at your own risk.</i>
