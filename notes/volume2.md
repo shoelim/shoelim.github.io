@@ -12,7 +12,7 @@ redirect_from:
 <br>
 
 ## Statistics
-- <a href="https://shoelim.github.io/notes/statML/HighDStat_L1.pdf" target="_blank">Basic Concentration Inequalities</a>
+- <a href="https://shoelim.github.io/notes/stat/HighDStat_L1.pdf" target="_blank">Basic Concentration Inequalities</a>
 
 <br>
 
