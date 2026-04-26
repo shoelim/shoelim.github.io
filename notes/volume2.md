@@ -13,7 +13,6 @@ redirect_from:
 
 ## Statistics
 - <a href="https://shoelim.github.io/notes/stat/HighD_Stat_L1.pdf" target="_blank">Basic Concentration Inequalities</a>
-
 <br>
 
 ## Learning
