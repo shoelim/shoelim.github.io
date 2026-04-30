@@ -14,6 +14,8 @@ Our research spans generative modeling, sequence modeling, robustness and reliab
 ## Selected News
 📣 **Ongoing:** Our lab is expanding! Several openings for highly motivated master's/PhD students and postdocs. 
 <br>
+📣 **April 2026:** Our paper on [A Kinetic-Energy Perspective of Flow Matching](https://arxiv.org/abs/2602.07928) was accepted as a Spotlight at ICML 2026!
+<br>
 📣 **March 2026:** Congratulations to Erik Edblom on being selected for the [Digital Futures Summer Research Internship Programme 2026](https://www.digitalfutures.kth.se/digital-futures-summer-research-internship-sri-program-2025-a-launchpad-for-future-researchers/)! 
 <br>
 📣 **February 2026:** Two preprints were posted: [Is Flow Matching Just Trajectory Replay for Sequential Data?](https://arxiv.org/abs/2602.08318) and [A Kinetic-Energy Perspective of Flow Matching](https://www.arxiv.org/abs/2602.07928).
@@ -26,7 +28,7 @@ Our research spans generative modeling, sequence modeling, robustness and reliab
 <br>
 📣 **April 2025:** Congratulations to Shizheng Lin on being selected for the [Digital Futures Summer Research Internship Programme 2025](https://www.digitalfutures.kth.se/digital-futures-summer-research-internship-sri-program-2025-a-launchpad-for-future-researchers/)! 
 <br>
-📣 **Jan 2025:** Our paper on [Tuning Frequency Bias of State Space Models](https://openreview.net/forum?id=wkHcXDv7cv) was accepted (spotlight) at ICLR 2025.
+📣 **Jan 2025:** Our paper on [Tuning Frequency Bias of State Space Models](https://openreview.net/forum?id=wkHcXDv7cv) was accepted as a Spotlight at ICLR 2025!
 <br>
 📣 **Jan 2025:** Our paper on [Gated Recurrent Neural Networks with Weighted Time-Delay Feedback](https://arxiv.org/abs/2212.00228) was accepted at AISTATS 2025.
 <br>
