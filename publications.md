@@ -20,7 +20,7 @@ redirect_from:
 
 A full list of up-to-date preprints, techical reports, and publications is available on [arxiv](https://arxiv.org/a/lim_s_1.html) and [Google Scholar](https://scholar.google.com/citations?user=ufTqvyoAAAAJ&hl=en&authuser=2). <br>
 
-## Selected Publications (Top 5)
+## Selected Publications
 
 1. **[Chaotic Regularization and Heavy-Tailed Limits for Deterministic Gradient Descent](https://proceedings.neurips.cc/paper_files/paper/2022/hash/a9a238a00f7e885389fc02d65fb00994-Abstract-Conference.html)**  
    Soon Hoe Lim, Yijun Wan, Umut Şimşekli.  
