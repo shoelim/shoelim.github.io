@@ -28,7 +28,7 @@ A full list of up-to-date preprints, techical reports, and publications is avail
 
 2. **[Noisy Feature Mixup](https://openreview.net/forum?id=vJb4I2ANmy)**  
    Soon Hoe Lim, N. Benjamin Erichson, Francisco Utrera, Winnie Xu, Michael W. Mahoney.  
-   *International Conference on Learning Representations*, 2022.
+   *Proceedings of the International Conference on Learning Representations*, 2022.
 
 3. **[Noisy Recurrent Neural Networks](https://proceedings.neurips.cc/paper/2021/hash/29301521774ff3cbd26652b2d5c95996-Abstract.html)**  
    Soon Hoe Lim, N. Benjamin Erichson, Liam Hodgkinson, Michael W. Mahoney.  
