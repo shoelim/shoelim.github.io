@@ -8,13 +8,11 @@ My primary research interests lie in **machine learning**, particularly at the i
 <br>
 
 Some topics of interest include:<br>
-- **Generative modeling:** how can we understand and improve generative modeling methods based on dynamical measure transport, particularly for sequential data arising from dynamical systems
-- **Sequence modeling:** how can we use ideas from ML and applied dynamical systems to model and learn sequential data, while also studying the mathematical foundations of these approaches
-- **Optimization and sampling:** how can we develop a deeper understanding of optimization and sampling algorithms in ML and improve them in principled ways
-- **Robustness and reliability:** how can we leverage randomness to make ML systems safer, more robust, and more reliable
-- **Scientific applications:** how can we develop principled mathematical frameworks and scalable methods for integrating scientific ML with domain knowledge
-- **Multiscale dynamics:** how can we understand multiscale stochastic systems, especially [homogenization](https://link.springer.com/article/10.1007/s00023-020-00889-2) and related applications in statistical mechanics, using mathematical approaches and emerging data-driven methods
-
+- **Generative modeling:** understand and improve generative modeling methods based on dynamical measure transport, particularly for sequential data arising from dynamical systems
+- **Sequence modeling:** use ideas and tools from ML and applied dynamical systems to model and learn sequential data, while also studying the mathematical foundations of these approaches
+- **Optimization and sampling:** develop a deeper understanding of optimization and sampling algorithms in ML and improve them in principled ways
+- **Robustness and reliability:** leverage randomness to make ML systems safer, more robust, and more reliable
+- **Stochastic differential equations (SDEs):** analyze SDEs with multiple time scales through homogenization and stochastic analysis, with applications to statistical mechanics and data-driven inference of effective dynamics
 
 <!-- Some more specific research projects are: <br>
 
