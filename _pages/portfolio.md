@@ -8,10 +8,10 @@ My primary research interests lie at the intersection of machine learning, appli
 <br>
 
 Some topics of interest include:<br>
-- **Generative modeling:** understand and improve generative modeling methods based on dynamical measure transport, including applications to sequential data 
-- **Sequence modeling:** use ideas and tools from ML and applied dynamical systems to model and learn sequential data, and study the underlying mathematical foundations 
-- **Optimization and sampling:** develop a deeper understanding of optimization and sampling algorithms in ML, and improve them via principled approaches
-- **Robustness and reliability:** develop probabilistic methods to make ML systems safer, more robust, and more reliable
+- **Generative modeling:** develop and analyze dynamical measure transport methods for generative modeling, including applications to sequential data 
+- **Sequence modeling:** develop and analyze mathematically grounded methods for modeling and learning from sequential data
+- **Optimization and sampling:** analyze and improve optimization and sampling methods in ML through principled mathematical approaches
+- **Robustness and reliability:** develop and analyze probabilistic methods to make ML systems more robust and more reliable
 - **Stochastic differential equations (SDEs):** analyze SDEs with multiple time scales through homogenization and stochastic analysis, with applications to statistical mechanics and data-driven inference of effective dynamics
 
 <!-- Some more specific research projects are: <br>
