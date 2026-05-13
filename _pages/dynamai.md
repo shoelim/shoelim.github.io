@@ -14,17 +14,19 @@ Our current research spans generative modeling, sequence modeling, robustness an
 ## Selected News
 📣 **Ongoing:** Our lab is expanding! Several openings for highly motivated master's/PhD students and postdocs. 
 <br>
+📣 **May 2026:** We posted a preprint: [Sharpen Your Flow: Sharpness-Aware Sampling for Flow Matching](https://arxiv.org/abs/2605.11547).
+<br>
 📣 **April 2026:** Our paper on [A Kinetic-Energy Perspective of Flow Matching](https://arxiv.org/abs/2602.07928) was accepted as a Spotlight (top 2.2%) at ICML 2026!
 <br>
 📣 **March 2026:** Congratulations to Erik Edblom on being selected for the [Digital Futures Summer Research Internship Programme 2026](https://www.digitalfutures.kth.se/digital-futures-summer-research-internship-sri-program-2025-a-launchpad-for-future-researchers/)! 
 <br>
-📣 **February 2026:** Two preprints were posted: [Is Flow Matching Just Trajectory Replay for Sequential Data?](https://arxiv.org/abs/2602.08318) and [A Kinetic-Energy Perspective of Flow Matching](https://www.arxiv.org/abs/2602.07928).
+📣 **February 2026:** We posted two preprints: [Is Flow Matching Just Trajectory Replay for Sequential Data?](https://arxiv.org/abs/2602.08318) and [A Kinetic-Energy Perspective of Flow Matching](https://www.arxiv.org/abs/2602.07928).
 <br>
-📣 **December 2025:** One preprint on [On The Hidden Biases of Flow Matching Samplers](https://arxiv.org/abs/2512.16768) was posted.
+📣 **December 2025:** We posted a preprint: [On The Hidden Biases of Flow Matching Samplers](https://arxiv.org/abs/2512.16768).
 <br>
 📣 **July 2025:** Our paper on [Elucidating the Design Choice of Probability Paths in Flow Matching for Forecasting](https://arxiv.org/abs/2410.03229) was accepted at TMLR. 
 <br>
-📣 **May 2025:** One preprint on [FLEX: A Backbone for Diffusion-Based Modeling of Spatio-temporal Physical Systems](https://arxiv.org/abs/2505.17351) was posted.
+📣 **May 2025:** We posted a preprint: [FLEX: A Backbone for Diffusion-Based Modeling of Spatio-temporal Physical Systems](https://arxiv.org/abs/2505.17351).
 <br>
 📣 **April 2025:** Congratulations to Shizheng Lin on being selected for the [Digital Futures Summer Research Internship Programme 2025](https://www.digitalfutures.kth.se/digital-futures-summer-research-internship-sri-program-2025-a-launchpad-for-future-researchers/)! 
 <br>
