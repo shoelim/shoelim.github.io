@@ -16,7 +16,7 @@ author_profile: true
 - MATH 112 – College Algebra: Concepts and Applications. Fall 2013, Spring 2014, Fall 2014, Spring 2015
 <br>
 
-## Notes
+## Personal Notes
 - <a href="https://docs.google.com/viewer?url=https://drive.google.com/uc?id=1VpjAwnL_0XQX_RdOzouFRyzSm_ae0HAU&embedded=true" target="_blank">A Reading List for Modern Applied Mathematicians</a>
 - [Some Topics on Analysis, Dynamics, Computation](https://shoelim.github.io/volume1) 
 - [Some Topics on Probability, Statistics, Learning](https://shoelim.github.io/volume2)
