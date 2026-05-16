@@ -14,7 +14,7 @@ Main topics of interest include:<br>
 - **Robustness and reliability:** develop and analyze probabilistic methods to make ML systems more robust and more reliable
 - **Stochastic differential equations (SDEs):** analyze SDEs with multiple time scales through homogenization and stochastic analysis, with applications to statistical mechanics and data-driven inference of effective dynamics
 
-Outside of these topics, I maintain a broad interest in various topics at the interface of probability theory and mathematical physics; e.g., [quantum stochastic calculus](https://arxiv.org/abs/2407.04005), [rough paths theory](https://link.springer.com/book/10.1007/978-3-030-41556-3), and [Talagrand](https://michel.talagrand.net/)'s convolution conjecture, among others.  
+Outside of these topics, I maintain a broad interest in various topics at the interface of probability theory and mathematical physics; e.g., [quantum stochastic calculus](https://arxiv.org/abs/2407.04005), [rough paths theory](https://link.springer.com/book/10.1007/978-3-030-41556-3), and [concentration inequalities](https://michel.talagrand.net/), among others.  
 
 
 <!-- Some more specific research projects are: <br>
