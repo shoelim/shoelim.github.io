@@ -38,7 +38,4 @@ Our current research spans generative modeling, sequence modeling, robustness an
 ## Funding & Support 
 We acknowledge the computational resources provided by the [National Academic Infrastructure for Supercomputing in Sweden](https://www.naiss.se/) (NAISS), partially funded by the Swedish Research Council through grant agreement no. 2022-06725. We are very grateful for the funding awarded by the [Swedish Research Council](https://www.vr.se/english.html) (VR/2021-03648) and the [Wallenberg Foundations](https://www.wallenberg.org/en) (WINQ). 
 
-**Interested in collaborating with our group?** 
-Thank you for your interest in our work. We receive many inquiries and may not be able to respond to each request individually. Please refer to KTH’s [collaboration page](https://www.kth.se/en/samverkan/samverka-med-forskare/samverka-med-forskare-1.862002) for more information.
-<br>
 
