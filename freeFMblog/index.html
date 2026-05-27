@@ -18,11 +18,14 @@ h1,h2,h3{line-height:1.2;letter-spacing:-.025em}h1{font-size:2.2rem;margin-top:3
 p,li{font-size:1.02rem}a{color:var(--accent)}blockquote{margin:1.5rem 0;padding:1rem 1.25rem;border-left:4px solid var(--accent);background:var(--soft);border-radius:0 12px 12px 0}
 table{width:100%;border-collapse:collapse;margin:1.4rem 0;overflow:hidden;border-radius:12px;border:1px solid var(--border);background:white;font-size:.95rem}th,td{padding:10px 12px;border-bottom:1px solid var(--border);vertical-align:top}th{background:var(--soft);text-align:left}tr:last-child td{border-bottom:none}
 pre{background:#111827;color:#f9fafb;padding:16px;border-radius:14px;overflow-x:auto}code{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace}
-img{display:block;width:100%;max-width:920px;margin:14px auto 28px;border-radius:16px;border:1px solid var(--border);background:white}
+img{display:block;width:auto;max-width:min(100%,760px);max-height:520px;margin:14px auto 28px;border-radius:16px;border:1px solid var(--border);background:white;object-fit:contain}
+.math-display{overflow-x:auto;margin:1.2rem auto;text-align:center;font-size:1.06rem}
+.math-display mjx-container{overflow-x:auto;overflow-y:hidden;max-width:100%}
 hr{border:none;border-top:1px solid var(--border);margin:3rem 0}.footer{color:var(--muted);font-size:.9rem;margin-top:4rem;border-top:1px solid var(--border);padding-top:2rem}
 </style>
-<script>window.MathJax={tex:{inlineMath:[['$','$'],['\\(','\\)']],displayMath:[['$$','$$'],['\\[','\\]']]}};</script>
-<script defer src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+<script>window.MathJax={tex:{inlineMath:[['$','$'],['\\(','\\)']],displayMath:[['$$','$$'],['\\[','\\]']],processEscapes:true},svg:{fontCache:'global'}};</script>
+<script defer src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js"></script>
+
 </head>
 <body>
 <nav><div class="inner">
@@ -50,16 +53,16 @@ hr{border:none;border-top:1px solid var(--border);margin:3rem 0}.footer{color:va
 </ol>
 <hr />
 <h2>Method in one picture</h2>
-<p>Given transition pairs ((x_0^{(j)}, x_1^{(j)})), FreeFM defines Gaussian interpolation paths</p>
-<p>[
+<p>Given transition pairs \((x_0^{(j)}, x_1^{(j)})\), FreeFM defines Gaussian interpolation paths</p>
+<div class="math-display">\[
 m_t^{(j)} = (1-t)x_0^{(j)} + t x_1^{(j)},
 \qquad
 c_t^2 = \sigma_{\min}^2 + \sigma^2 t(1-t).
-]</p>
+\]</div>
 <p>The empirical flow matching velocity is</p>
-<h1>[
-v(t,z)</h1>
-<p>G_t z
+<div class="math-display">\[
+v(t,z)
+G_t z
 +
 \sum_j \alpha_j(t,z)
 \left[
@@ -67,24 +70,24 @@ v(t,z)</h1>
 \right],
 \qquad
 G_t = \frac{\sigma^2(1-2t)}{2c_t^2},
-]</p>
+\]</div>
 <p>with Gaussian responsibilities</p>
-<p>[
+<div class="math-display">\[
 \alpha_j(t,z)
 \propto
 \exp\left{
--\frac{|z-m_t^{(j)}|^2}{2c_t^2}
+-\frac{\|z-m_t^{(j)}\|^2}{2c_t^2}
 \right}.
-]</p>
+\]</div>
 <p>A one-step forecast samples</p>
-<p>[
+<div class="math-display">\[
 Z_0 \sim \mathcal{N}(x_k,\sigma_{\min}^2I),
-]</p>
+\]</div>
 <p>then integrates</p>
-<p>[
+<div class="math-display">\[
 \frac{dZ_t}{dt}=v(t,Z_t),\qquad t\in[0,1],
-]</p>
-<p>and returns (Z_1) as a predictive sample for (x_{k+1}). Repeating this autoregressively gives a probabilistic trajectory forecast.</p>
+\]</div>
+<p>and returns \(Z_1\) as a predictive sample for \(x_{k+1}\). Repeating this autoregressively gives a probabilistic trajectory forecast.</p>
 <hr />
 <h2>Two memory-bank regimes</h2>
 <p>The same FreeFM algorithm can answer two different forecasting questions depending on how the transition memory bank is constructed.</p>
@@ -119,8 +122,8 @@ Z_0 \sim \mathcal{N}(x_k,\sigma_{\min}^2I),
 <thead>
 <tr>
   <th>Experiment</th>
-  <th style="text-align:right">Best (\sigma_{\min})</th>
-  <th style="text-align:right">Best (\sigma)</th>
+  <th style="text-align:right">Best \(\\sigma_{\\min}\)</th>
+  <th style="text-align:right">Best \(\\sigma\)</th>
   <th style="text-align:right">Validation CRPS</th>
   <th style="text-align:right">Forecast metric</th>
   <th>Interpretation</th>
@@ -132,7 +135,7 @@ Z_0 \sim \mathcal{N}(x_k,\sigma_{\min}^2I),
   <td style="text-align:right">0.01</td>
   <td style="text-align:right">0.01</td>
   <td style="text-align:right">0.00255</td>
-  <td style="text-align:right">MSE (1.65\times 10^{-5})</td>
+  <td style="text-align:right">MSE \(1.65\\times 10^{-5}\)</td>
   <td>Very strong forecast; memory bank covers the spiral well.</td>
 </tr>
 <tr>
@@ -140,7 +143,7 @@ Z_0 \sim \mathcal{N}(x_k,\sigma_{\min}^2I),
   <td style="text-align:right">0.02</td>
   <td style="text-align:right">0.01</td>
   <td style="text-align:right">0.02628</td>
-  <td style="text-align:right">short-window MSE (5.83\times10^{-3}), full MSE (1.82\times10^{-1})</td>
+  <td style="text-align:right">short-window MSE \(5.83\\times10^{-3}\), full MSE \(1.82\\times10^{-1}\)</td>
   <td>Good local behavior, but chaotic divergence appears over long horizons.</td>
 </tr>
 <tr>
@@ -148,7 +151,7 @@ Z_0 \sim \mathcal{N}(x_k,\sigma_{\min}^2I),
   <td style="text-align:right">0.03</td>
   <td style="text-align:right">0.01</td>
   <td style="text-align:right">0.00818</td>
-  <td style="text-align:right">MSE (1.04\times10^{-2})</td>
+  <td style="text-align:right">MSE \(1.04\\times10^{-2}\)</td>
   <td>Much harder than many-trajectory DHO because coverage is narrower.</td>
 </tr>
 <tr>
@@ -156,7 +159,7 @@ Z_0 \sim \mathcal{N}(x_k,\sigma_{\min}^2I),
   <td style="text-align:right">0.01</td>
   <td style="text-align:right">0.01</td>
   <td style="text-align:right">0.00267</td>
-  <td style="text-align:right">MSE (1.27\times10^{-2})</td>
+  <td style="text-align:right">MSE \(1.27\\times10^{-2}\)</td>
   <td>Short future remains close enough to observed support in this run.</td>
 </tr>
 </tbody>
@@ -178,9 +181,9 @@ train_seqs, val_seqs = split_train_val(train_val_seqs)
 <p>The damped harmonic oscillator is a favorable sanity check: the state is two-dimensional, the phase portrait is a smooth spiral, and nearby transitions are informative.</p>
 <p><img src="assets/figure_cell16_01.png" alt="DHO training phase portrait" /></p>
 <p>The validation search selects:</p>
-<p>[
+<div class="math-display">\[
 \sigma_{\min}=0.01,\qquad \sigma=0.01.
-]</p>
+\]</div>
 <p>The held-out forecast is accurate both coordinate-wise and in phase space.</p>
 <p><img src="assets/figure_cell19_02.png" alt="DHO forecast coordinate 1" /></p>
 <p><img src="assets/figure_cell19_03.png" alt="DHO forecast coordinate 2" /></p>
@@ -192,10 +195,10 @@ train_seqs, val_seqs = split_train_val(train_val_seqs)
 <p>Lorenz-63 is a stress test because it is chaotic. Long-horizon pointwise prediction is not expected to stay synchronized indefinitely.</p>
 <p><img src="assets/figure_cell22_06.png" alt="Lorenz training attractor" /></p>
 <p>The validation search selects:</p>
-<p>[
+<div class="math-display">\[
 \sigma_{\min}=0.02,\qquad \sigma=0.01.
-]</p>
-<p>The short-window MSE over the first 50 forecast steps is (5.83\times 10^{-3}), while the full-horizon MSE increases to (1.82\times 10^{-1}).</p>
+\]</div>
+<p>The short-window MSE over the first 50 forecast steps is \(5.83\\times 10^{-3}\), while the full-horizon MSE increases to \(1.82\\times 10^{-1}\).</p>
 <p><img src="assets/figure_cell24_07.png" alt="Lorenz forecast coordinate x" /></p>
 <p><img src="assets/figure_cell24_08.png" alt="Lorenz forecast coordinate y" /></p>
 <p><img src="assets/figure_cell24_09.png" alt="Lorenz forecast coordinate z" /></p>
@@ -205,25 +208,25 @@ train_seqs, val_seqs = split_train_val(train_val_seqs)
 <hr />
 <h1>Part II — Single-trajectory/time-series setup</h1>
 <p>The single-trajectory setup is closer to classical forecasting. We observe one ordered path</p>
-<p>[
+<div class="math-display">\[
 X_0,X_1,\ldots,X_{T_{\mathrm{obs}}-1},
-]</p>
+\]</div>
 <p>and forecast the held-out future</p>
-<p>[
+<div class="math-display">\[
 X_{T_{\mathrm{obs}}},\ldots,X_{T_{\mathrm{obs}}+H-1}.
-]</p>
+\]</div>
 <p>The observed prefix is split into training and validation segments:</p>
 <pre><code class="language-text">training segment | validation segment | held-out future
 </code></pre>
-<p>During validation, FreeFM uses only the training segment. After choosing ((\sigma_{\min},\sigma)), we rebuild the final memory bank using all observed transitions before the forecast boundary.</p>
+<p>During validation, FreeFM uses only the training segment. After choosing \((\\sigma_{\\min},\\sigma)\), we rebuild the final memory bank using all observed transitions before the forecast boundary.</p>
 <hr />
 <h2>Single-trajectory DHO</h2>
 <p>In this regime, the memory bank comes from one observed damped spiral rather than from many independent trajectories. This is more fragile because the future may leave the observed local support.</p>
 <p>The selected hyperparameters are:</p>
-<p>[
+<div class="math-display">\[
 \sigma_{\min}=0.03,\qquad \sigma=0.01.
-]</p>
-<p>The final memory bank contains 399 train-plus-validation transitions. The forecast MSE is (1.04\times10^{-2}), with terminal error (0.309).</p>
+\]</div>
+<p>The final memory bank contains 399 train-plus-validation transitions. The forecast MSE is \(1.04\\times10^{-2}\), with terminal error \(0.309\).</p>
 <p><img src="assets/figure_cell31_12.png" alt="Single-trajectory DHO coordinate 1" /></p>
 <p><img src="assets/figure_cell31_13.png" alt="Single-trajectory DHO coordinate 2" /></p>
 <p><img src="assets/figure_cell31_14.png" alt="Single-trajectory DHO phase forecast" /></p>
@@ -231,10 +234,10 @@ X_{T_{\mathrm{obs}}},\ldots,X_{T_{\mathrm{obs}}+H-1}.
 <hr />
 <h2>Single-trajectory Lorenz-63</h2>
 <p>The selected hyperparameters are:</p>
-<p>[
+<div class="math-display">\[
 \sigma_{\min}=0.01,\qquad \sigma=0.01.
-]</p>
-<p>The final memory bank contains 399 train-plus-validation transitions. The forecast MSE is (1.27\times10^{-2}), with terminal error (0.360).</p>
+\]</div>
+<p>The final memory bank contains 399 train-plus-validation transitions. The forecast MSE is \(1.27\\times10^{-2}\), with terminal error \(0.360\).</p>
 <p><img src="assets/figure_cell32_16.png" alt="Single-trajectory Lorenz coordinate x" /></p>
 <p><img src="assets/figure_cell32_17.png" alt="Single-trajectory Lorenz coordinate y" /></p>
 <p><img src="assets/figure_cell32_18.png" alt="Single-trajectory Lorenz coordinate z" /></p>
