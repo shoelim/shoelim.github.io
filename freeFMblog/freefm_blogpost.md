@@ -12,7 +12,7 @@ math: true
 ## A FreeFM tutorial with damped oscillators and Lorenz-63
 
 **Author:** [Soon Hoe Lim](https://shoelim.github.io/)  
-**Notebook:** [`FreeFM_Tutorial.ipynb`](FreeFM_Tutorial.ipynb)
+**Notebook:** [`FreeFM_Tutorial.ipynb`]([FreeFM_Tutorial.ipynb](https://colab.research.google.com/drive/1yA9_GlwIiZVtFlZjOXWbYadckxqOvPgu?usp=sharing))
 
 > **TL;DR.** FreeFM is a training-free, memory-based flow matching forecaster. It builds a bank of observed transition pairs, uses those pairs to define a closed-form empirical velocity field, and produces probabilistic forecasts by integrating that field. On smooth systems such as the damped harmonic oscillator, it works very well when the memory bank covers the relevant phase-space region. On chaotic systems such as Lorenz-63, short-term forecasts can be meaningful, but long-horizon pointwise matching remains fragile.
 
