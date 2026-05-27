@@ -1,1 +1,274 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Forecasting Dynamical Systems Without Training Neural Nets</title>
+<meta name="description" content="A FreeFM tutorial with damped oscillators and Lorenz-63.">
+<style>
+:root { --bg:#fbfaf8; --text:#17202a; --muted:#5d6975; --accent:#2447ff; --card:#fff; --border:#e8e2d9; --soft:#f2efe9; }
+*{box-sizing:border-box} body{margin:0;font-family:ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;background:var(--bg);color:var(--text);line-height:1.65}
+nav{position:sticky;top:0;z-index:5;background:rgba(251,250,248,.92);border-bottom:1px solid var(--border);backdrop-filter:blur(8px)}
+nav .inner{max-width:1120px;margin:0 auto;padding:12px 24px;display:flex;gap:18px;justify-content:center;flex-wrap:wrap;font-size:14px}
+nav a{color:var(--muted);text-decoration:none} nav a:hover{color:var(--accent)}
+.container{max-width:980px;margin:0 auto;padding:48px 24px 80px}.hero{text-align:center;padding:56px 0 32px}
+.hero h1{font-size:clamp(2.2rem,5vw,4.4rem);line-height:1.05;margin:0 0 14px;letter-spacing:-.05em}.hero .subtitle{font-size:clamp(1.15rem,2vw,1.55rem);color:var(--muted);margin-bottom:18px}.hero .byline{color:var(--muted);margin-bottom:22px}
+.buttons{display:flex;justify-content:center;gap:12px;flex-wrap:wrap}.button{display:inline-block;border:1px solid var(--border);background:var(--card);color:var(--text);text-decoration:none;padding:9px 14px;border-radius:999px;font-weight:600}.button.primary{background:var(--text);color:#fff}
+.tldr{margin:30px auto;background:var(--card);border:1px solid var(--border);border-radius:20px;padding:20px 24px;box-shadow:0 10px 30px rgba(0,0,0,.035)}
+h1,h2,h3{line-height:1.2;letter-spacing:-.025em}h1{font-size:2.2rem;margin-top:3rem}h2{font-size:1.75rem;margin-top:3rem;border-top:1px solid var(--border);padding-top:2rem}h3{font-size:1.25rem;margin-top:2rem}
+p,li{font-size:1.02rem}a{color:var(--accent)}blockquote{margin:1.5rem 0;padding:1rem 1.25rem;border-left:4px solid var(--accent);background:var(--soft);border-radius:0 12px 12px 0}
+table{width:100%;border-collapse:collapse;margin:1.4rem 0;overflow:hidden;border-radius:12px;border:1px solid var(--border);background:white;font-size:.95rem}th,td{padding:10px 12px;border-bottom:1px solid var(--border);vertical-align:top}th{background:var(--soft);text-align:left}tr:last-child td{border-bottom:none}
+pre{background:#111827;color:#f9fafb;padding:16px;border-radius:14px;overflow-x:auto}code{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace}
+img{display:block;width:100%;max-width:920px;margin:14px auto 28px;border-radius:16px;border:1px solid var(--border);background:white}
+hr{border:none;border-top:1px solid var(--border);margin:3rem 0}.footer{color:var(--muted);font-size:.9rem;margin-top:4rem;border-top:1px solid var(--border);padding-top:2rem}
+</style>
+<script>window.MathJax={tex:{inlineMath:[['$','$'],['\\(','\\)']],displayMath:[['$$','$$'],['\\[','\\]']]}};</script>
+<script defer src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+</head>
+<body>
+<nav><div class="inner">
+<a href="#why-freefm">Why FreeFM?</a><a href="#method-in-one-picture">Method</a><a href="#results-summary">Results</a>
+<a href="#part-i-many-trajectorysource-style-setup">Many trajectories</a><a href="#part-ii-single-trajectorytime-series-setup">Single trajectory</a><a href="#main-takeaway">Takeaway</a>
+</div></nav>
+<main class="container">
+<section class="hero">
+<h1>Forecasting Dynamical Systems Without Training Neural Nets</h1>
+<div class="subtitle">A FreeFM tutorial with damped oscillators and Lorenz-63</div>
+<div class="byline">Soon Hoe Lim · KTH Royal Institute of Technology &amp; Nordita</div>
+<div class="buttons"><a class="button primary" href="FreeFM_Tutorial.ipynb">Notebook</a><a class="button" href="freefm_blogpost.md">Markdown</a><a class="button" href="https://shoelim.github.io/">Author website</a></div>
+</section>
+<section class="tldr"><strong>TL;DR.</strong> FreeFM is a training-free, memory-based flow matching forecaster. It builds a bank of observed transition pairs, uses those pairs to define a closed-form empirical velocity field, and produces probabilistic forecasts by integrating that field.</section>
+<h2>Why FreeFM?</h2>
+<p>Most flow matching models learn a neural velocity field. FreeFM asks a simpler question:</p>
+<blockquote>
+<p>Can we build a probabilistic forecaster directly from observed transition pairs, without training a neural network?</p>
+</blockquote>
+<p>The answer is <strong>yes</strong>, provided we understand the limitation: FreeFM does not extrapolate like a learned global model. It retrieves and blends <strong>local transition geometry</strong> from the data.</p>
+<p>This makes FreeFM useful as both:</p>
+<ol>
+<li>a lightweight forecasting baseline, and</li>
+<li>a diagnostic lens for understanding what finite-sample flow matching is doing.</li>
+</ol>
+<hr />
+<h2>Method in one picture</h2>
+<p>Given transition pairs ((x_0^{(j)}, x_1^{(j)})), FreeFM defines Gaussian interpolation paths</p>
+<p>[
+m_t^{(j)} = (1-t)x_0^{(j)} + t x_1^{(j)},
+\qquad
+c_t^2 = \sigma_{\min}^2 + \sigma^2 t(1-t).
+]</p>
+<p>The empirical flow matching velocity is</p>
+<h1>[
+v(t,z)</h1>
+<p>G_t z
++
+\sum_j \alpha_j(t,z)
+\left[
+(x_1^{(j)}-x_0^{(j)}) - G_t m_t^{(j)}
+\right],
+\qquad
+G_t = \frac{\sigma^2(1-2t)}{2c_t^2},
+]</p>
+<p>with Gaussian responsibilities</p>
+<p>[
+\alpha_j(t,z)
+\propto
+\exp\left{
+-\frac{|z-m_t^{(j)}|^2}{2c_t^2}
+\right}.
+]</p>
+<p>A one-step forecast samples</p>
+<p>[
+Z_0 \sim \mathcal{N}(x_k,\sigma_{\min}^2I),
+]</p>
+<p>then integrates</p>
+<p>[
+\frac{dZ_t}{dt}=v(t,Z_t),\qquad t\in[0,1],
+]</p>
+<p>and returns (Z_1) as a predictive sample for (x_{k+1}). Repeating this autoregressively gives a probabilistic trajectory forecast.</p>
+<hr />
+<h2>Two memory-bank regimes</h2>
+<p>The same FreeFM algorithm can answer two different forecasting questions depending on how the transition memory bank is constructed.</p>
+<table>
+<thead>
+<tr>
+  <th>Regime</th>
+  <th>Memory bank</th>
+  <th>Validation split</th>
+  <th>Forecasting question</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td><strong>Many-trajectory/source-style</strong></td>
+  <td>transitions pooled from many independent trajectories</td>
+  <td>held-out trajectories</td>
+  <td>Can FreeFM forecast new trajectories from the same system?</td>
+</tr>
+<tr>
+  <td><strong>Single-trajectory/time series</strong></td>
+  <td>transitions from one observed path</td>
+  <td>later segment of the same path</td>
+  <td>Can FreeFM forecast the future of one path?</td>
+</tr>
+</tbody>
+</table>
+<p>This distinction is central. FreeFM is only as good as the local transition coverage in its memory bank.</p>
+<hr />
+<h2>Results summary</h2>
+<table>
+<thead>
+<tr>
+  <th>Experiment</th>
+  <th style="text-align:right">Best (\sigma_{\min})</th>
+  <th style="text-align:right">Best (\sigma)</th>
+  <th style="text-align:right">Validation CRPS</th>
+  <th style="text-align:right">Forecast metric</th>
+  <th>Interpretation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>DHO, many trajectories</td>
+  <td style="text-align:right">0.01</td>
+  <td style="text-align:right">0.01</td>
+  <td style="text-align:right">0.00255</td>
+  <td style="text-align:right">MSE (1.65\times 10^{-5})</td>
+  <td>Very strong forecast; memory bank covers the spiral well.</td>
+</tr>
+<tr>
+  <td>Lorenz-63, many trajectories</td>
+  <td style="text-align:right">0.02</td>
+  <td style="text-align:right">0.01</td>
+  <td style="text-align:right">0.02628</td>
+  <td style="text-align:right">short-window MSE (5.83\times10^{-3}), full MSE (1.82\times10^{-1})</td>
+  <td>Good local behavior, but chaotic divergence appears over long horizons.</td>
+</tr>
+<tr>
+  <td>DHO, single trajectory</td>
+  <td style="text-align:right">0.03</td>
+  <td style="text-align:right">0.01</td>
+  <td style="text-align:right">0.00818</td>
+  <td style="text-align:right">MSE (1.04\times10^{-2})</td>
+  <td>Much harder than many-trajectory DHO because coverage is narrower.</td>
+</tr>
+<tr>
+  <td>Lorenz-63, single trajectory</td>
+  <td style="text-align:right">0.01</td>
+  <td style="text-align:right">0.01</td>
+  <td style="text-align:right">0.00267</td>
+  <td style="text-align:right">MSE (1.27\times10^{-2})</td>
+  <td>Short future remains close enough to observed support in this run.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h1>Part I — Many-trajectory/source-style setup</h1>
+<p>In the source-style setup, we simulate multiple independent trajectories and split them by trajectory:</p>
+<pre><code class="language-python">all_seqs = make_dataset(...)
+train_val_seqs = all_seqs[:-N_test]
+test_seqs = all_seqs[-N_test:]
+train_seqs, val_seqs = split_train_val(train_val_seqs)
+</code></pre>
+<p>The memory bank pools transitions across all training trajectories:</p>
+<pre><code class="language-python">X0_train, X1_train = build_memory_bank_np(train_seqs)
+</code></pre>
+<p>This asks whether local transition geometry from many example trajectories can forecast a new trajectory.</p>
+<hr />
+<h2>Demo A: damped harmonic oscillator</h2>
+<p>The damped harmonic oscillator is a favorable sanity check: the state is two-dimensional, the phase portrait is a smooth spiral, and nearby transitions are informative.</p>
+<p><img src="assets/figure_cell16_01.png" alt="DHO training phase portrait" /></p>
+<p>The validation search selects:</p>
+<p>[
+\sigma_{\min}=0.01,\qquad \sigma=0.01.
+]</p>
+<p>The held-out forecast is accurate both coordinate-wise and in phase space.</p>
+<p><img src="assets/figure_cell19_02.png" alt="DHO forecast coordinate 1" /></p>
+<p><img src="assets/figure_cell19_03.png" alt="DHO forecast coordinate 2" /></p>
+<p><img src="assets/figure_cell19_04.png" alt="DHO phase forecast" /></p>
+<p><img src="assets/figure_cell19_05.png" alt="DHO autocorrelation diagnostic" /></p>
+<p><strong>Takeaway.</strong> When the memory bank contains nearby spirals, FreeFM can reuse local transition directions almost exactly.</p>
+<hr />
+<h2>Demo B: Lorenz-63</h2>
+<p>Lorenz-63 is a stress test because it is chaotic. Long-horizon pointwise prediction is not expected to stay synchronized indefinitely.</p>
+<p><img src="assets/figure_cell22_06.png" alt="Lorenz training attractor" /></p>
+<p>The validation search selects:</p>
+<p>[
+\sigma_{\min}=0.02,\qquad \sigma=0.01.
+]</p>
+<p>The short-window MSE over the first 50 forecast steps is (5.83\times 10^{-3}), while the full-horizon MSE increases to (1.82\times 10^{-1}).</p>
+<p><img src="assets/figure_cell24_07.png" alt="Lorenz forecast coordinate x" /></p>
+<p><img src="assets/figure_cell24_08.png" alt="Lorenz forecast coordinate y" /></p>
+<p><img src="assets/figure_cell24_09.png" alt="Lorenz forecast coordinate z" /></p>
+<p><img src="assets/figure_cell24_10.png" alt="Lorenz phase-space forecast" /></p>
+<p><img src="assets/figure_cell24_11.png" alt="Lorenz autocorrelation diagnostic" /></p>
+<p><strong>Takeaway.</strong> FreeFM can track local dynamics, but chaotic systems punish small autoregressive errors. Statistical and phase-space diagnostics are more meaningful than full-horizon pointwise MSE alone.</p>
+<hr />
+<h1>Part II — Single-trajectory/time-series setup</h1>
+<p>The single-trajectory setup is closer to classical forecasting. We observe one ordered path</p>
+<p>[
+X_0,X_1,\ldots,X_{T_{\mathrm{obs}}-1},
+]</p>
+<p>and forecast the held-out future</p>
+<p>[
+X_{T_{\mathrm{obs}}},\ldots,X_{T_{\mathrm{obs}}+H-1}.
+]</p>
+<p>The observed prefix is split into training and validation segments:</p>
+<pre><code class="language-text">training segment | validation segment | held-out future
+</code></pre>
+<p>During validation, FreeFM uses only the training segment. After choosing ((\sigma_{\min},\sigma)), we rebuild the final memory bank using all observed transitions before the forecast boundary.</p>
+<hr />
+<h2>Single-trajectory DHO</h2>
+<p>In this regime, the memory bank comes from one observed damped spiral rather than from many independent trajectories. This is more fragile because the future may leave the observed local support.</p>
+<p>The selected hyperparameters are:</p>
+<p>[
+\sigma_{\min}=0.03,\qquad \sigma=0.01.
+]</p>
+<p>The final memory bank contains 399 train-plus-validation transitions. The forecast MSE is (1.04\times10^{-2}), with terminal error (0.309).</p>
+<p><img src="assets/figure_cell31_12.png" alt="Single-trajectory DHO coordinate 1" /></p>
+<p><img src="assets/figure_cell31_13.png" alt="Single-trajectory DHO coordinate 2" /></p>
+<p><img src="assets/figure_cell31_14.png" alt="Single-trajectory DHO phase forecast" /></p>
+<p><img src="assets/figure_cell31_15.png" alt="Single-trajectory DHO autocorrelation diagnostic" /></p>
+<hr />
+<h2>Single-trajectory Lorenz-63</h2>
+<p>The selected hyperparameters are:</p>
+<p>[
+\sigma_{\min}=0.01,\qquad \sigma=0.01.
+]</p>
+<p>The final memory bank contains 399 train-plus-validation transitions. The forecast MSE is (1.27\times10^{-2}), with terminal error (0.360).</p>
+<p><img src="assets/figure_cell32_16.png" alt="Single-trajectory Lorenz coordinate x" /></p>
+<p><img src="assets/figure_cell32_17.png" alt="Single-trajectory Lorenz coordinate y" /></p>
+<p><img src="assets/figure_cell32_18.png" alt="Single-trajectory Lorenz coordinate z" /></p>
+<p><img src="assets/figure_cell32_19.png" alt="Single-trajectory Lorenz phase forecast" /></p>
+<p><img src="assets/figure_cell32_20.png" alt="Single-trajectory Lorenz autocorrelation diagnostic" /></p>
+<hr />
+<h2>Practical notes</h2>
+<ul>
+<li>Use <code>topk=None</code> for the exact dense empirical field on small memory banks.</li>
+<li>Use finite <code>topk</code> for faster nearest-neighbor approximation on larger memory banks.</li>
+<li>Larger <code>topk</code>, more ODE steps, and RK4 can give smoother but slower forecasts.</li>
+<li>For Lorenz-63, exact long-horizon path matching is not expected because the system is chaotic.</li>
+<li>For noisy dynamical systems, inject fresh uncertainty at each autoregressive step.</li>
+</ul>
+<hr />
+<h2>Main takeaway</h2>
+<p>FreeFM is best understood as a <strong>memory-based flow matching forecaster</strong>. It replaces parametric learning with local transition retrieval.</p>
+<p>Its strengths are:</p>
+<ul>
+<li>no neural network training,</li>
+<li>simple implementation,</li>
+<li>interpretable local transition reuse,</li>
+<li>natural probabilistic forecasts through ensembles.</li>
+</ul>
+<p>Its weaknesses are:</p>
+<ul>
+<li>dependence on memory-bank coverage,</li>
+<li>nearest-neighbor cost for large datasets,</li>
+<li>limited extrapolation outside observed support,</li>
+<li>long-horizon fragility on chaotic systems.</li>
+</ul>
+<p>FreeFM can forecast without training, but it cannot forecast accurately without sufficient coverage. This opens an interesting direction: using FreeFM as a bridge between nonparametric memory-based forecasting and learned flow matching models for sequence data.</p>
 
+<div class="footer">Draft generated from the uploaded notebook. Figures are extracted from notebook outputs; equations and experiment descriptions are adapted from the notebook narrative.</div>
+</main>
+</body>
+</html>
