@@ -16,8 +16,6 @@ math: true
 
 > **TL;DR.** FreeFM is a training-free, memory-based flow matching forecaster. It builds a bank of observed transition pairs, uses those pairs to define a closed-form empirical velocity field, and produces probabilistic forecasts by integrating that field. On smooth systems such as the damped harmonic oscillator, it works very well when the memory bank covers the relevant phase-space region. On chaotic systems such as Lorenz-63, short-term forecasts can be meaningful, but long-horizon pointwise matching remains fragile.
 
----
-
 ## Why FreeFM?
 
 Most flow matching models learn a neural velocity field. FreeFM asks a simpler question:
@@ -30,8 +28,6 @@ This makes FreeFM useful as both:
 
 1. a lightweight forecasting baseline, and  
 2. a diagnostic lens for understanding what finite-sample flow matching is doing.
-
----
 
 ## Method in one picture
 
@@ -82,8 +78,6 @@ then integrates
 
 and returns \(Z_1\) as a predictive sample for \(x_{k+1}\). Repeating this autoregressively gives a probabilistic trajectory forecast.
 
----
-
 ## Two memory-bank regimes
 
 The same FreeFM algorithm can answer two different forecasting questions depending on how the transition memory bank is constructed.
@@ -95,7 +89,6 @@ The same FreeFM algorithm can answer two different forecasting questions dependi
 
 This distinction is central. FreeFM is only as good as the local transition coverage in its memory bank.
 
----
 
 ## Results summary
 
@@ -106,7 +99,6 @@ This distinction is central. FreeFM is only as good as the local transition cove
 | DHO, single trajectory | 0.03 | 0.01 | 0.00818 | MSE \(1.04\times10^{-2}\) | Much harder than many-trajectory DHO because coverage is narrower. |
 | Lorenz-63, single trajectory | 0.01 | 0.01 | 0.00267 | MSE \(1.27\times10^{-2}\) | Short future remains close enough to observed support in this run. |
 
----
 
 # Part I — Many-trajectory/source-style setup
 
@@ -126,8 +118,6 @@ X0_train, X1_train = build_memory_bank_np(train_seqs)
 ```
 
 This asks whether local transition geometry from many example trajectories can forecast a new trajectory.
-
----
 
 ## Demo A: damped harmonic oscillator
 
@@ -153,7 +143,6 @@ The held-out forecast is accurate both coordinate-wise and in phase space.
 
 **Takeaway.** When the memory bank contains nearby spirals, FreeFM can reuse local transition directions almost exactly.
 
----
 
 ## Demo B: Lorenz-63
 
@@ -181,7 +170,6 @@ The short-window MSE over the first 50 forecast steps is \(5.83\times 10^{-3}\),
 
 **Takeaway.** FreeFM can track local dynamics, but chaotic systems punish small autoregressive errors. Statistical and phase-space diagnostics are more meaningful than full-horizon pointwise MSE alone.
 
----
 
 # Part II — Single-trajectory/time-series setup
 
@@ -205,7 +193,6 @@ training segment | validation segment | held-out future
 
 During validation, FreeFM uses only the training segment. After choosing \((\sigma_{\min},\sigma)\), we rebuild the final memory bank using all observed transitions before the forecast boundary.
 
----
 
 ## Single-trajectory DHO
 
@@ -227,7 +214,6 @@ The final memory bank contains 399 train-plus-validation transitions. The foreca
 
 ![Single-trajectory DHO autocorrelation diagnostic](assets/figure_cell31_15.png)
 
----
 
 ## Single-trajectory Lorenz-63
 
@@ -249,7 +235,6 @@ The final memory bank contains 399 train-plus-validation transitions. The foreca
 
 ![Single-trajectory Lorenz autocorrelation diagnostic](assets/figure_cell32_20.png)
 
----
 
 ## Practical notes
 
@@ -259,7 +244,6 @@ The final memory bank contains 399 train-plus-validation transitions. The foreca
 - For Lorenz-63, exact long-horizon path matching is not expected because the system is chaotic.
 - For noisy dynamical systems, inject fresh uncertainty at each autoregressive step.
 
----
 
 ## Main takeaway
 
