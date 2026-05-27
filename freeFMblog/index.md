@@ -6,9 +6,8 @@ author_profile: false
 mathjax: true
 ---
 
-# Forecasting Dynamical Systems Without Training Neural Nets
 
-## A FreeFM tutorial with damped oscillators and Lorenz-63
+# A FreeFM tutorial with damped oscillators and Lorenz-63
 
 **Author:** [Soon Hoe Lim](https://shoelim.github.io/)  
 **Notebook:** [`FreeFM_Tutorial.ipynb`](https://colab.research.google.com/drive/1yA9_GlwIiZVtFlZjOXWbYadckxqOvPgu?usp=sharing)
