@@ -138,9 +138,7 @@ The short-window MSE over the first 50 forecast steps is $5.83\times 10^{-3}$, w
 
 # Part II — Single-trajectory/time-series setup
 
-The single-trajectory setup is closer to classical forecasting. We observe one ordered path $X_0,X_1,\ldots,X_{T_{\mathrm{obs}}-1},$ and forecast the held-out future
-
-$$X_{T_{\mathrm{obs}}},\ldots,X_{T_{\mathrm{obs}}+H-1}.$$
+The single-trajectory setup is closer to classical forecasting. We observe one ordered path $X_0,X_1,\ldots,X_{T_{\mathrm{obs}}-1},$ and forecast the held-out future $X_{T_{\mathrm{obs}}},\ldots,X_{T_{\mathrm{obs}}+H-1}.$
 
 The observed prefix is split into training and validation segments:
 
