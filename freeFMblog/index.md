@@ -1,10 +1,9 @@
 ---
-title: "Forecasting Dynamical Systems Without Training Neural Nets"
-subtitle: "A FreeFM tutorial with damped oscillators and Lorenz-63"
-author: "Soon Hoe Lim"
-affiliation: "KTH Royal Institute of Technology & Nordita"
-layout: post
-math: true
+layout: single
+title: "FreeFM: Forecasting Dynamical Systems Without Training Neural Nets"
+permalink: /freeFMblog/
+author_profile: false
+mathjax: true
 ---
 
 # Forecasting Dynamical Systems Without Training Neural Nets
@@ -31,52 +30,26 @@ This makes FreeFM useful as both:
 
 ## Method in one picture
 
-Given transition pairs \((x_0^{(j)}, x_1^{(j)})\), FreeFM defines Gaussian interpolation paths
+Given transition pairs $(x_0^{(j)}, x_1^{(j)})$, FreeFM defines Gaussian interpolation paths
 
-\[
-m_t^{(j)} = (1-t)x_0^{(j)} + t x_1^{(j)},
+$$m_t^{(j)} = (1-t)x_0^{(j)} + t x_1^{(j)},
 \qquad
-c_t^2 = \sigma_{\min}^2 + \sigma^2 t(1-t).
-\]
+c_t^2 = \sigma_{\min}^2 + \sigma^2 t(1-t).$$
 
 The empirical flow matching velocity is
 
-\[
-v(t,z)
-=
-G_t z
-+
-\sum_j \alpha_j(t,z)
-\left[
-(x_1^{(j)}-x_0^{(j)}) - G_t m_t^{(j)}
-\right],
-\qquad
-G_t = \frac{\sigma^2(1-2t)}{2c_t^2},
-\]
+$$v(t,z) = G_t z + \sum_j \alpha_j(t,z) \left(
+(x_1^{(j)}-x_0^{(j)}) - G_t m_t^{(j)} \right), \qquad
+G_t = \frac{\sigma^2(1-2t)}{2c_t^2},$$
 
 with Gaussian responsibilities
 
-\[
-\alpha_j(t,z)
-\propto
-\exp\left\{
--\frac{\|z-m_t^{(j)}\|^2}{2c_t^2}
-\right\}.
-\]
+$$
+\alpha_j(t,z) \propto \exp\left( -\frac{\|z-m_t^{(j)}\|^2}{2c_t^2} \right).
+$$
 
-A one-step forecast samples
-
-\[
-Z_0 \sim \mathcal{N}(x_k,\sigma_{\min}^2I),
-\]
-
-then integrates
-
-\[
-\frac{dZ_t}{dt}=v(t,Z_t),\qquad t\in[0,1],
-\]
-
-and returns \(Z_1\) as a predictive sample for \(x_{k+1}\). Repeating this autoregressively gives a probabilistic trajectory forecast.
+A one-step forecast samples $Z_0 \sim \mathcal{N}(x_k,\sigma_{\min}^2I)$, then integrates $\frac{dZ_t}{dt}=v(t,Z_t),$
+for $t \in [0,1]$, and returns $Z_1$ as a predictive sample for $x_{k+1}$. Repeating this autoregressively gives a probabilistic trajectory forecast.
 
 ## Two memory-bank regimes
 
@@ -92,12 +65,12 @@ This distinction is central. FreeFM is only as good as the local transition cove
 
 ## Results summary
 
-| Experiment | Best \(\sigma_{\min}\) | Best \(\sigma\) | Validation CRPS | Forecast metric | Interpretation |
+| Experiment | Best $\sigma_{\min}$ | Best $\sigma$ | Validation CRPS | Forecast metric | Interpretation |
 |---|---:|---:|---:|---:|---|
-| DHO, many trajectories | 0.01 | 0.01 | 0.00255 | MSE \(1.65\times 10^{-5}\) | Very strong forecast; memory bank covers the spiral well. |
-| Lorenz-63, many trajectories | 0.02 | 0.01 | 0.02628 | short-window MSE \(5.83\times10^{-3}\), full MSE \(1.82\times10^{-1}\) | Good local behavior, but chaotic divergence appears over long horizons. |
-| DHO, single trajectory | 0.03 | 0.01 | 0.00818 | MSE \(1.04\times10^{-2}\) | Much harder than many-trajectory DHO because coverage is narrower. |
-| Lorenz-63, single trajectory | 0.01 | 0.01 | 0.00267 | MSE \(1.27\times10^{-2}\) | Short future remains close enough to observed support in this run. |
+| DHO, many trajectories | 0.01 | 0.01 | 0.00255 | MSE $1.65\times 10^{-5}$ | Very strong forecast; memory bank covers the spiral well. |
+| Lorenz-63, many trajectories | 0.02 | 0.01 | 0.02628 | short-window MSE $5.83\times10^{-3}$, full MSE $1.82\times10^{-1}$ | Good local behavior, but chaotic divergence appears over long horizons. |
+| DHO, single trajectory | 0.03 | 0.01 | 0.00818 | MSE $1.04\times10^{-2}$ | Much harder than many-trajectory DHO because coverage is narrower. |
+| Lorenz-63, single trajectory | 0.01 | 0.01 | 0.00267 | MSE $1.27\times10^{-2}$ | Short future remains close enough to observed support in this run. |
 
 
 # Part I — Many-trajectory/source-style setup
@@ -125,11 +98,7 @@ The damped harmonic oscillator is a favorable sanity check: the state is two-dim
 
 ![DHO training phase portrait](assets/figure_cell16_01.png)
 
-The validation search selects:
-
-\[
-\sigma_{\min}=0.01,\qquad \sigma=0.01.
-\]
+The validation search selects $\sigma_{\min}=0.01$, $\sigma=0.01.$
 
 The held-out forecast is accurate both coordinate-wise and in phase space.
 
@@ -150,13 +119,9 @@ Lorenz-63 is a stress test because it is chaotic. Long-horizon pointwise predict
 
 ![Lorenz training attractor](assets/figure_cell22_06.png)
 
-The validation search selects:
+The validation search selects $\sigma_{\min}=0.02$, $\sigma=0.01.$
 
-\[
-\sigma_{\min}=0.02,\qquad \sigma=0.01.
-\]
-
-The short-window MSE over the first 50 forecast steps is \(5.83\times 10^{-3}\), while the full-horizon MSE increases to \(1.82\times 10^{-1}\).
+The short-window MSE over the first 50 forecast steps is $5.83\times 10^{-3}$, while the full-horizon MSE increases to $1.82\times 10^{-1}$.
 
 ![Lorenz forecast coordinate x](assets/figure_cell24_07.png)
 
@@ -173,17 +138,9 @@ The short-window MSE over the first 50 forecast steps is \(5.83\times 10^{-3}\),
 
 # Part II — Single-trajectory/time-series setup
 
-The single-trajectory setup is closer to classical forecasting. We observe one ordered path
+The single-trajectory setup is closer to classical forecasting. We observe one ordered path $X_0,X_1,\ldots,X_{T_{\mathrm{obs}}-1},$ and forecast the held-out future
 
-\[
-X_0,X_1,\ldots,X_{T_{\mathrm{obs}}-1},
-\]
-
-and forecast the held-out future
-
-\[
-X_{T_{\mathrm{obs}}},\ldots,X_{T_{\mathrm{obs}}+H-1}.
-\]
+$$X_{T_{\mathrm{obs}}},\ldots,X_{T_{\mathrm{obs}}+H-1}.$$
 
 The observed prefix is split into training and validation segments:
 
@@ -191,20 +148,16 @@ The observed prefix is split into training and validation segments:
 training segment | validation segment | held-out future
 ```
 
-During validation, FreeFM uses only the training segment. After choosing \((\sigma_{\min},\sigma)\), we rebuild the final memory bank using all observed transitions before the forecast boundary.
+During validation, FreeFM uses only the training segment. After choosing $(\sigma_{\min},\sigma)$, we rebuild the final memory bank using all observed transitions before the forecast boundary.
 
 
 ## Single-trajectory DHO
 
 In this regime, the memory bank comes from one observed damped spiral rather than from many independent trajectories. This is more fragile because the future may leave the observed local support.
 
-The selected hyperparameters are:
+The selected hyperparameters are $\sigma_{\min}=0.03$, $\sigma=0.01.$
 
-\[
-\sigma_{\min}=0.03,\qquad \sigma=0.01.
-\]
-
-The final memory bank contains 399 train-plus-validation transitions. The forecast MSE is \(1.04\times10^{-2}\), with terminal error \(0.309\).
+The final memory bank contains 399 train-plus-validation transitions. The forecast MSE is $1.04\times10^{-2}$, with terminal error $0.309$.
 
 ![Single-trajectory DHO coordinate 1](assets/figure_cell31_12.png)
 
@@ -217,13 +170,9 @@ The final memory bank contains 399 train-plus-validation transitions. The foreca
 
 ## Single-trajectory Lorenz-63
 
-The selected hyperparameters are:
+The selected hyperparameters are $\sigma_{\min}=0.01$, $\sigma=0.01.$
 
-\[
-\sigma_{\min}=0.01,\qquad \sigma=0.01.
-\]
-
-The final memory bank contains 399 train-plus-validation transitions. The forecast MSE is \(1.27\times10^{-2}\), with terminal error \(0.360\).
+The final memory bank contains 399 train-plus-validation transitions. The forecast MSE is $1.27\times10^{-2}$, with terminal error $0.360$.
 
 ![Single-trajectory Lorenz coordinate x](assets/figure_cell32_16.png)
 
