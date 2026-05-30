@@ -18,7 +18,7 @@ redirect_from:
 {% endfor %}
  -->
 
-A full list of up-to-date preprints, techical reports, and publications is available on [arxiv](https://arxiv.org/a/lim_s_1.html) and [Google Scholar](https://scholar.google.com/citations?user=ufTqvyoAAAAJ&hl=en&authuser=2). <br>
+A full list of up-to-date preprints, technical reports, and publications is available on [arxiv](https://arxiv.org/a/lim_s_1.html) and [Google Scholar](https://scholar.google.com/citations?user=ufTqvyoAAAAJ&hl=en&authuser=2). <br>
 
 ## Selected Publications
 
