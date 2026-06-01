@@ -19,7 +19,7 @@ Our current research spans probabilistic world modeling, generative modeling, se
 <br>
 📣 **March 2026:** Congratulations to Erik Edblom on being selected for the [Digital Futures Summer Research Internship Programme 2026](https://www.digitalfutures.kth.se/digital-futures-summer-research-internship-sri-program-2025-a-launchpad-for-future-researchers/)! 
 <br>
-📣 **February 2026:** We posted two preprints: [Is Flow Matching Just Trajectory Replay for Sequential Data?](https://arxiv.org/abs/2602.08318) and [A Kinetic-Energy Perspective of Flow Matching](https://www.arxiv.org/abs/2602.07928).
+📣 **February 2026:** We posted two preprints: [Is Flow Matching Just Trajectory Replay for Sequential Data?](https://arxiv.org/abs/2602.08318) and [A Kinetic Energy Perspective of Flow Matching](https://www.arxiv.org/abs/2602.07928).
 <br>
 📣 **December 2025:** We posted a preprint: [On The Hidden Biases of Flow Matching Samplers](https://arxiv.org/abs/2512.16768).
 <br>
