@@ -7,7 +7,7 @@ redirect_from:
 ---
 Dynamai is a fundamental machine learning (funML) research group powered by applied and computational mathematics. We pursue foundational, creative, and forward-looking research at the intersection of applied probability, dynamical systems, and ML.  Our broader vision is to help shape the next generation of ML by advancing its mathematical foundations and principled modeling approaches. 
 
-Our current research spans probabilistic world modeling, generative modeling, sequence modeling, robustness and reliability in ML, ML for Science, and beyond. Discover and explore our latest research on [arXiv](https://arxiv.org/a/lim_s_1.html) and our open-source projects on [GitHub](https://github.com/dynamai). 
+Our current research spans probabilistic modeling, generative modeling, sequence modeling, robustness and reliability in ML, ML for Science, and beyond. Discover and explore our latest research on [arXiv](https://arxiv.org/a/lim_s_1.html) and our open-source projects on [GitHub](https://github.com/dynamai). 
 <br>
 
 ## Selected News
@@ -15,7 +15,7 @@ Our current research spans probabilistic world modeling, generative modeling, se
 <br>
 📣 **May 2026:** We posted a preprint: [Sharpen Your Flow: Sharpness-Aware Sampling for Flow Matching](https://arxiv.org/abs/2605.11547).
 <br>
-📣 **April 2026:** Our paper on [A Kinetic-Energy Perspective of Flow Matching](https://arxiv.org/abs/2602.07928) was accepted as a Spotlight (top 2.2%) at ICML 2026!
+📣 **April 2026:** Our paper on [A Kinetic Energy Perspective of Flow Matching](https://arxiv.org/abs/2602.07928) was accepted as a Spotlight (top 2.2%) at ICML 2026!
 <br>
 📣 **March 2026:** Congratulations to Erik Edblom on being selected for the [Digital Futures Summer Research Internship Programme 2026](https://www.digitalfutures.kth.se/digital-futures-summer-research-internship-sri-program-2025-a-launchpad-for-future-researchers/)! 
 <br>
