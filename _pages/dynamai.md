@@ -9,6 +9,7 @@ Dynamai is a fundamental machine learning (funML) research group powered by appl
 
 Our current research spans probabilistic modeling, generative modeling, sequence modeling, robustness and reliability in ML, ML for Science, and beyond. Discover and explore our latest research on [arXiv](https://arxiv.org/a/lim_s_1.html) and our open-source projects on [GitHub](https://github.com/dynamai). 
 <br>
+<br>
 
 ## Selected News
 📣 **Ongoing:** Our group is expanding! Several openings for highly motivated master's/PhD students and postdocs. 
@@ -33,6 +34,7 @@ Our current research spans probabilistic modeling, generative modeling, sequence
 <br>
 📣 **Jan 2025:** Our paper on [Gated Recurrent Neural Networks with Weighted Time-Delay Feedback](https://arxiv.org/abs/2212.00228) was accepted at AISTATS 2025.
 <br>
+<br>
 
 ## Group Members
 - [Soon Hoe Lim](https://shoelim.github.io/) (Assistant Professor and Group Leader)
@@ -40,6 +42,7 @@ Our current research spans probabilistic modeling, generative modeling, sequence
 - Athanasios Panagiotis (Master's Student, KTH Mathematics)
 - Yuki Okamoto (Master's Student, KTH Mathematics)
 - Erik Edblom (Summer Intern, Digital Futures)
+<br>
 
 ## Funding & Support 
 We acknowledge the computational resources provided by the [National Academic Infrastructure for Supercomputing in Sweden](https://www.naiss.se/) (NAISS), partially funded by the Swedish Research Council through grant agreement no. 2022-06725. We are very grateful for the funding awarded by the [Swedish Research Council](https://www.vr.se/english.html) (VR/2021-03648) and the [Wallenberg Foundations](https://www.wallenberg.org/en) (WINQ). 
