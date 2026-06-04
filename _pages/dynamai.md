@@ -35,16 +35,11 @@ Our current research spans probabilistic modeling, generative modeling, sequence
 <br>
 
 ## Group Members
-🤓 [Soon Hoe Lim](https://shoelim.github.io/) (Assistant Professor and Group Leader)
-<br>
-🤓 Shizheng Lin (PhD Student, KTH Mathematics)
-<br>
-🤓 Athanasios Panagiotis (Master's Student, KTH Mathematics)
-<br>
-🤓 Yuki Okamoto (Master's Student, KTH Mathematics)
-<br>
-🤓 Erik Edblom (Summer Intern, Digital Futures)
-<br>
+- [Soon Hoe Lim](https://shoelim.github.io/) (Assistant Professor and Group Leader)
+- Shizheng Lin (PhD Student, KTH Mathematics)
+- Athanasios Panagiotis (Master's Student, KTH Mathematics)
+- Yuki Okamoto (Master's Student, KTH Mathematics)
+- Erik Edblom (Summer Intern, Digital Futures)
 
 ## Funding & Support 
 We acknowledge the computational resources provided by the [National Academic Infrastructure for Supercomputing in Sweden](https://www.naiss.se/) (NAISS), partially funded by the Swedish Research Council through grant agreement no. 2022-06725. We are very grateful for the funding awarded by the [Swedish Research Council](https://www.vr.se/english.html) (VR/2021-03648) and the [Wallenberg Foundations](https://www.wallenberg.org/en) (WINQ). 
