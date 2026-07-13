@@ -5,6 +5,7 @@ author_profile: true
 ---
 
 ## Organizational & Commitee Service
+- Co-organizer, [2nd Workshop on Principles of Generative Modeling (PriGM)](https://sites.google.com/view/prigmneurips2026/home), [NeurIPS 2026](https://neurips.cc/), Paris, December 2026
 - Co-organizer, [Mathematical Statistics Seminar](https://www.kth.se/en/2.80766/2.82508/math/kalender/matstat), Department of Mathematics, KTH Royal Institute of Technology, 2025-2026
 - Co-organizer, [1st Workshop on Principles of Generative Modeling (PriGM)](https://sites.google.com/view/prigm-eurips-2025/home), [EurIPS 2025](https://eurips.cc/), Copenhagen, December 2025
 - Co-organizer, [*2025 Nordita Winter School on "Physics of Machine Learning & Machine Learning for Physics"*](https://indico.fysik.su.se/event/8856/), Nordita, Stockholm, January 2025
