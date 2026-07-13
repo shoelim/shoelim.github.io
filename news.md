@@ -11,6 +11,7 @@ redirect_from:
 
 Selected News
 =====
+- __December 2026:__ We are organizing the [2nd Workshop on Principles of Generative Modeling (PriGM)](https://sites.google.com/view/prigmneurips2026/home) at [NeurIPS 2026](https://neurips.cc/), Paris 
 - __Fall 2026:__ I am a Visiting Scholar at UC Berkeley during the Fall 2026 semester
 - __July 2026:__ Invited talk at the special session on "Recent Advances in Uncertainty Quantification and Scientific Machine Learning with Applications to Complex Dynamical Systems", [15th AIMS Conference](https://aimsconference.org/AIMS-Conference/conf-reg2026/ss/changeApp12.php?ssid=113), Athens
 - __February 2026:__ Happy to serve as Area Chair for the [ICLR 2026 Workshop on Foundation Models for Science](https://fm-science.github.io/)
