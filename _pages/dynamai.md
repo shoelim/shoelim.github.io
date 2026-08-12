@@ -15,7 +15,7 @@ Our current research spans probabilistic modeling, generative modeling, sequence
 <br>
 📣 **May 2026:** We posted a preprint: [Sharpen Your Flow: Sharpness-Aware Sampling for Flow Matching](https://arxiv.org/abs/2605.11547).
 <br>
-📣 **April 2026:** Our paper on [A Kinetic Energy Perspective of Flow Matching](https://arxiv.org/abs/2602.07928) was accepted as a Spotlight (top 2.2%) at ICML 2026!
+📣 **April 2026:** Our paper on [A Kinetic Energy Perspective of Flow Matching](https://arxiv.org/abs/2602.07928) was accepted as a Spotlight (top 2%) at ICML 2026!
 <br>
 📣 **March 2026:** Congratulations to Erik Edblom on being selected for the [Digital Futures Summer Research Internship Programme 2026](https://www.digitalfutures.kth.se/digital-futures-summer-research-internship-sri-program-2025-a-launchpad-for-future-researchers/)! 
 <br>
