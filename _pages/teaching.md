@@ -17,7 +17,7 @@ author_profile: true
 <br>
 
 ## Personal Notes
-- <a href="https://docs.google.com/viewer?url=https://drive.google.com/uc?id=1VpjAwnL_0XQX_RdOzouFRyzSm_ae0HAU&embedded=true" target="_blank">A Reading List for Modern Applied Mathematicians</a>
+- <a href="https://docs.google.com/viewer?url=https://drive.google.com/uc?id=1Yeyfi7zoOvaNGIrwptc9MsSbEFMTVCHU&embedded=true" target="_blank">A Reading List for Modern Applied Mathematicians</a>
 - [Some Topics on Analysis, Dynamics, Computation](https://shoelim.github.io/volume1) 
 - [Some Topics on Probability, Statistics, Learning](https://shoelim.github.io/volume2)
 - [Miscellaneous Notes](https://shoelim.github.io/notes) 
