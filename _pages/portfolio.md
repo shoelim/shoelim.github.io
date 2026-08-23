@@ -11,7 +11,7 @@ Main topics of interest include:<br>
 - **Generative modeling:** develop and analyze dynamical measure transport methods for generative modeling, including applications to sequential data 
 - **Sequence modeling:** develop and analyze mathematically grounded methods for modeling and learning from sequential data
 - **Optimization and sampling:** analyze and improve optimization and sampling methods in ML through principled mathematical approaches
-- **Robustness and reliability:** develop and analyze probabilistic methods to make ML systems more robust and more reliable
+- **Robustness and reliability:** develop and analyze probabilistic methods to improve the robustness, reliability, and safety of ML systems.
 - **Stochastic differential equations (SDEs):** analyze SDEs with multiple time scales through homogenization and stochastic analysis, with applications to statistical mechanics and data-driven inference of effective dynamics
 
 Outside of these topics, I maintain a broad interest in various topics at the interface of probability theory and mathematical physics; e.g., [quantum stochastic calculus](https://arxiv.org/abs/2407.04005), [rough paths theory](https://link.springer.com/book/10.1007/978-3-030-41556-3), and [concentration inequalities](https://michel.talagrand.net/), among others. More broadly, my interests span applied mathematics, statistics, data science, computer science, physics, and their intersections.
