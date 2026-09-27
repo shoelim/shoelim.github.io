@@ -1,5 +1,5 @@
 ---
-title: "Dynamai"
+title: "Group"
 permalink: /dynamai/
 author_profile: true
 redirect_from:
