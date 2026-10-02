@@ -13,6 +13,8 @@ Our current research spans probabilistic modeling, generative modeling, sequence
 ## Selected News
 📣 **Ongoing:** Our group is expanding! Several openings for highly motivated master's/PhD students and postdocs. 
 <br>
+📣 **October 2026:** We posted a preprint: [Variational Streaming Flow: Probabilistic Forecasting in Physical Time](https://arxiv.org/abs/2610.00976).
+<br>
 📣 **May 2026:** We posted a preprint: [Sharpen Your Flow: Sharpness-Aware Sampling for Flow Matching](https://arxiv.org/abs/2605.11547).
 <br>
 📣 **April 2026:** Our paper on [A Kinetic Energy Perspective of Flow Matching](https://arxiv.org/abs/2602.07928) was accepted as a Spotlight (top 2%) at ICML 2026!
