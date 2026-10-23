@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Selected News
+Selected News*
 =====
 - __December 2026:__ We are organizing the [2nd Workshop on Principles of Generative Modeling (PriGM)](https://sites.google.com/view/prigmneurips2026/home?authuser=0) at [NeurIPS 2026](https://neurips.cc/), Paris 
 - __Fall 2026:__ I am a Visiting Scholar at UC Berkeley during the Fall 2026 semester
@@ -23,4 +23,5 @@ Selected News
 - __March 2025:__ Invited talk at the [14th Nordic Workshop on Statistical Physics](https://indico.fysik.su.se/event/8942/), Nordita, Stockholm
 - __January 2025:__ We are organizing the [Winter School on Physics of Machine Learning & Machine Learning for Physics](https://indico.fysik.su.se/event/8856/) at Nordita, Stockholm
 - __November 2024:__ Invited talk at the [QuantM&L seminar](https://www.unisg.ch/en/universitaet/schools/school-of-economics-and-political-science-seps/research/quantitative-methods-and-learning/) at the University of St. Gallen, St. Gallen
-<br>
+
+*Selected news in the last two years
