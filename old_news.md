@@ -35,5 +35,19 @@ Selected News
 - __September 2020:__ Invited talk at the [seminar](http://www.mathc.rwth-aachen.de/news/passed_talks/) of the [Chair for Mathematics of Information Processing](https://www.mathc.rwth-aachen.de/home/home/) at RWTH Aachen University, virtual
 - __September 2020:__ Contributed talk at the [Second Symposium on Machine Learning and Dynamical Systems](http://www.fields.utoronto.ca/activities/20-21/dynamical) at the Fields Institute, virtual (watch the talk [here](https://www.youtube.com/watch?v=iQ23qaGcFjc))
 <br>
+
+- __September 2023:__ Invited talk at the [17th Granada Seminar on Machine Learning and Physics](https://granadaseminar.com/index.php/program-17th/), University of Granada, Granada
+- __August 2023:__ Contributed talk at the [ICIAM 2023](https://iciam2023.org/registered_data?id=00141&pass=ebb4162365ce5b1e6f176e5f44a9b569), Tokyo
+- __May 2023:__ Invited talk at [BrainNet 2023](https://brainnet23.github.io/), Stockholm
+- __March 2023:__ We are organizing two minisymposium sessions on "Deep Learning for Sequence Modeling" at [SIAM CSE 2023](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=75499), Amsterdam 
+- __December 2022:__ Invited talk at "Differential Equations and Machine Learning", [IMS International Conference on Statistics and Data Science](https://sites.google.com/view/icsds2022), Florence
+- __September 2022:__ Invited talk at the [Third Symposium on Machine Learning and Dynamical Systems](http://www.fields.utoronto.ca/activities/22-23/3rd-machine-learning), Fields Institute, Toronto
+- __March 2022:__ One talk at the [Applied Machine Learning Days](https://appliedmldays.org/events/amld-epfl-2022/talks/boosting-model-robustness-by-leveraging-data-augmentations-stability-training-and-noise-injections), EPFL, Lausanne (watch the talk [here](https://www.youtube.com/watch?v=p147ueuniKI&list=PLOMUcsGYfYasfTuGmshpDiNCsY16XcayD&index=7))
+- __March 2022:__ Invited talk at the Dynamical Systems seminar at University of Exeter, virtual
+- __November 2021:__ Grateful to be awarded the [VR Starting Grant](https://www.vr.se/english/applying-for-funding/calls/2020-11-10-starting-grant-within-natural-and-engineering-sciences.html), under the category of "Computational Mathematics, Data Science, and Statistics", and to start as Nordita Assistant Professor in June 2022!
+- __September 2021:__ Contributed presentation at the [On Future Synergies for Stochastic and Learning Algorithms](https://conferences.cirm-math.fr/2389.html) at CIRM, Marseille 
+- __August 2021:__ Invited talk at the [Conference on Mathematics of Machine Learning](https://www.mis.mpg.de/calendar/conferences/2021/mml2021.html) at the ZiF, Bielefeld University, Bielefeld
+- __June 2021:__ Invited talk at the [SIG on Machine Learning and Dynamical Systems](https://agora.stream/SIG%20on%20Machine%20Learning%20and%20Dynamical%20Systems), virtual (watch the talk [here](https://www.youtube.com/watch?v=9t-UTLvkhyk&t=22s))
+- __February 2021:__ Invited talk at the [Machine Learning and Science Forum](https://bids.berkeley.edu/events/machine-learning-and-science-forum-2021-0222) at Berkeley Institute for Data Science, virtual
 <br>
 <small>Last updated: February 2026</small>
