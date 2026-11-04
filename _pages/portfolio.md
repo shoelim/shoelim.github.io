@@ -4,7 +4,7 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-My primary research interests lie at the intersection of <a href="https://shoelim.github.io/Position_Paper.pdf" target="_blank">machine learning</a>, applied probability, and dynamical systems. My research portfolio spans a diverse set of interconnected topics, ranging from foundational theory to algorithmic development and scientific applications. While much of my work is motivated by foundational questions, it is often closely connected to implementation challenges and a broad spectrum of practical applications across the sciences.
+My primary research interests lie at the intersection of <a href="https://shoelim.github.io/Position_Paper.pdf" target="_blank">machine learning</a>, applied probability, and dynamical systems. My research portfolio spans a diverse set of interconnected topics, ranging from foundational theory to numerical methods, algorithmic development, and scientific applications. While much of my work is motivated by foundational questions, it is often closely connected to implementation challenges and a broad spectrum of practical applications across the sciences.
 <br> 
 
 Main topics of interest include:<br>
